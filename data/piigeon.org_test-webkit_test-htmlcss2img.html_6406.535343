@@ -1,0 +1,40 @@
+{'DOMLoad': 6406.536327}
+{'Resource': {'id': 3, 'url': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'sentTime': 6405.504088, 'len': 237, 'from': '0x0',						'mimeType': 'text/html', 'contentLength': 237, 'httpStatus': 200, 'connId': 0, 'connReused': 0, 'cached': 0}}
+{'ReceivedChunk': {'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'receivedTime': 6406.231137, 'len': 237}}
+{'ObjectHash': {'code': '0x119941280', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 1, 'column': 7, 'tagName': 'html', 'time': 6406.233690, 'url': '(null)', 'pos': 6, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 1}}
+{'ObjectHash': {'code': '0x119941c40', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 1, 'column': 13, 'tagName': 'head', 'time': 6406.234674, 'url': '(null)', 'pos': 12, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 1}}
+{'ObjectHash': {'code': '0x11997a7c0', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 2, 'column': 24, 'tagName': 'style', 'time': 6406.234715, 'url': '(null)', 'pos': 36, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 1}}
+{'ObjectHash': {'code': '0x11997a780', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 6, 'column': 9, 'tagName': 'style', 'time': 6406.234764, 'url': '(null)', 'pos': 119, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 0}}
+{'ObjectHash': {'code': '0x11997a740', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 7, 'column': 87, 'tagName': 'link', 'time': 6406.234910, 'url': 'http://test.sophiawang.org/css/main.css', 'pos': 206, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 1}}
+{'ObjectHash': {'code': '0x11997a700', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 8, 'column': 8, 'tagName': 'head', 'time': 6406.235560, 'url': '(null)', 'pos': 214, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 0}}
+{'ObjectHash': {'code': '0x11997a6c0', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 9, 'column': 7, 'tagName': 'body', 'time': 6406.235572, 'url': '(null)', 'pos': 221, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 1}}
+{'ObjectHash': {'code': '0x11997a680', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 10, 'column': 8, 'tagName': 'body', 'time': 6406.235585, 'url': '(null)', 'pos': 229, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 0}}
+{'ObjectHash': {'code': '0x11997a640', 'doc': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 10, 'column': 15, 'tagName': 'html', 'time': 6406.235592, 'url': '(null)', 'pos': 236, 'chunkLen': 237, 'hash': 'ebeb7ee6272836a09fd084aebe6a9684', 'isStartTag': 0}}
+{'Resource': {'id': 4, 'url': 'http://test.sophiawang.org/css/main.css', 'sentTime': 6406.235022, 'len': 7659, 'from': '0x11997a740',						'mimeType': 'text/css', 'contentLength': 7659, 'httpStatus': 200, 'connId': 0, 'connReused': 0, 'cached': 0}}
+{'ReceivedChunk': {'hash': '3d4ef7e3f4587e8910c49c9a2db7ddc5', 'receivedTime': 6406.422109, 'len': 1116}}
+{'ReceivedChunk': {'hash': '3f131bf872e6cdde7b3f9fc187679260', 'receivedTime': 6406.422311, 'len': 6543}}
+{'Resource': {'id': 5, 'url': 'http://piigeon.org/img/global256.png', 'sentTime': 6406.343069, 'len': 28816, 'from': '0x11997a640',						'mimeType': 'image/png', 'contentLength': 28816, 'httpStatus': 200, 'connId': 0, 'connReused': 0, 'cached': 0}}
+{'ReceivedChunk': {'hash': 'd8d2dadc44536a88a0d9b535d96a9583', 'receivedTime': 6406.430340, 'len': 2501}}
+{'ReceivedChunk': {'hash': 'e7034ccc52de842cdfd06a3d88ca8798', 'receivedTime': 6406.431077, 'len': 1386}}
+{'ReceivedChunk': {'hash': '4f2fd76325b287314899cae12e99421e', 'receivedTime': 6406.462422, 'len': 2772}}
+{'ReceivedChunk': {'hash': '572700fceda7f5d2d757fb5a969ab3a0', 'receivedTime': 6406.466533, 'len': 2772}}
+{'ReceivedChunk': {'hash': 'd9a17ecc9a00cf5d1e7e736e1a833edc', 'receivedTime': 6406.493895, 'len': 2772}}
+{'ReceivedChunk': {'hash': '9302867110b7c99bbd5084f475b79744', 'receivedTime': 6406.494081, 'len': 1386}}
+{'ReceivedChunk': {'hash': '8a1906ab67c699d3f5aa830763df758e', 'receivedTime': 6406.494470, 'len': 1386}}
+{'ReceivedChunk': {'hash': '0212fc07fc0f85117a2ebd5a2e7edbd0', 'receivedTime': 6406.495229, 'len': 1386}}
+{'ReceivedChunk': {'hash': 'd4c2854f158ff250b10daf5978681f87', 'receivedTime': 6406.495757, 'len': 1386}}
+{'ReceivedChunk': {'hash': 'a340542ebe5f28e37a732c6f5b925adc', 'receivedTime': 6406.525550, 'len': 2772}}
+{'ReceivedChunk': {'hash': 'f9f1e105bebdc1941a699392d8a12101', 'receivedTime': 6406.535133, 'len': 8297}}
+{'HOL': {'type': 4, 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'code': '0x11997a7c0', 'row': 2, 'column': 24, 'url': '(null)'}}
+{'HOL': {'type': 4, 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'code': '0x11997a740', 'row': 7, 'column': 87, 'url': 'http://test.sophiawang.org/css/main.css'}}
+{'matchedCSSAndUrl': {'code': '0x11997a7c0', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'row': 2, 'column': 24, 'url': '(null)', 'imgUrl': 'http://piigeon.org/img/global256.png'}}
+{'Computation': {'type': 'layout', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.343726, 'endTime': 6406.344317, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'layout', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.344142, 'endTime': 6406.344241, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'paint', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.346916, 'endTime': 6406.347860, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'recalcStyle', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.422448, 'endTime': 6406.424236, 'urlRecalcStyle': 'http://test.sophiawang.org/css/main.css'}}
+{'Computation': {'type': 'paint', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.424990, 'endTime': 6406.425745, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'paint', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.446426, 'endTime': 6406.449662, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'paint', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.463067, 'endTime': 6406.465990, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'paint', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.480175, 'endTime': 6406.484585, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'paint', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.496576, 'endTime': 6406.501185, 'urlRecalcStyle': '(null)'}}
+{'Computation': {'type': 'paint', 'code': '0x11997a640', 'docUrl': 'http://piigeon.org/test-webkit/test-htmlcss2img.html', 'startTime': 6406.526633, 'endTime': 6406.534465, 'urlRecalcStyle': '(null)'}}

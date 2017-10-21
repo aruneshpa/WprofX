@@ -1,0 +1,111 @@
+/* Commonly used in index.php, recents.php, and likely any future pages */
+body {
+	padding: 0 !important;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif !important;
+}
+a {
+	color: inherit !important;
+	text-decoration: inherit !important;
+}
+a.purple {
+	color: rgb(126, 96, 230) !important;
+}
+ul {
+	list-style: none !important;
+	margin: 0 !important;
+}
+input {
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif !important;
+}
+#header {
+	position: fixed;
+	width: 100%;
+	height: 45px;
+	background-color: white;
+	top: 0px;
+	opacity: 0.95;
+	border-bottom: solid whitesmoke 1px;
+}
+#header ul {
+	list-style-type: none;
+	text-align: center;
+}
+#header ul li {
+	display: inline-block;
+	padding: 8px 15px 8px 15px;
+	margin: 5px 25px 0px 25px;
+	border-radius: 3px;
+	color: rgb(186,186,186);
+	font-size: 16px;
+}
+#header ul li:hover {
+	background-color: whitesmoke;
+}
+#header ul li:nth-child(2) {
+	font-size: 20px !important;
+}
+#header ul li:nth-child(2):hover {
+	color: rgb(177, 155, 255) !important;
+	background-color: transparent !important;
+}
+.page-header {
+	padding-bottom: 10px !important;
+}
+#footer {
+	padding: 15px;
+	border-top: solid whitesmoke 1px;
+	margin-left: 10%;
+	color: darkgray;
+	font-size: 10px;
+}
+h1 {
+	font-size: 24px !important;
+	font-family: "Ubuntu", "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif !important;
+	color: gray !important;
+	font-weight: normal !important;
+}
+h2 {
+	font-size: 20px !important;
+	font-weight: normal !important;
+	color: rgb(186, 186, 186) !important;
+}
+#searchJSON {
+	height: 30px;
+	width: 230px;
+	padding-left: 8px;
+	margin-top: 10px;
+}
+#livesearch {
+	width: 200px;
+	max-height: 120px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	padding: 5px 10px 5px 15px;
+	border-radius: 5px;
+	background-color: white;
+	border: solid skyblue 1px;
+	position: absolute;
+	opacity: 0.9;
+	display: none;
+	text-align: left;
+	box-shadow: 0px 0px 20px -5px skyblue;
+	left: 183px;
+	top: 165px;
+}
+#livesearch li {
+	padding: 3px 0 3px 0;
+	color: gray;
+	border-bottom: solid whitesmoke 1px;
+}
+#livesearch li:hover {
+	color: black;
+}
+#load{
+    width:100%;
+    height:100%;
+    position:fixed;
+    z-index:9999;
+/*    CHANGE */
+/*    background:url("http://localhost/wprof/images/load-analyze.gif") no-repeat center center rgba(0,0,0,0.25)*/
+    background:url("http://localhost/wprof/images/l1.gif") no-repeat center center rgba(0,0,0,0.25)
+}

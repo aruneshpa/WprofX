@@ -1,0 +1,67 @@
+#billboard { position:absolute; top:0; right:0; bottom:292px; left:0; overflow:hidden; }
+#billboard .hero { position:absolute; margin:auto; top:0; right:0; bottom:0; left:0; max-width:1440px; background-repeat:no-repeat; }
+
+/* billboard baseline */
+#billboard .header { position:absolute; margin:auto; top:50%; left:0; right:0; width:980px; }
+
+#billboard .title { margin-bottom:6px; }
+#billboard .title img { display:none; }
+
+
+/* Powerful
+=================================================================*/
+#billboard .parenthood { background-size:1500px auto; left:50%; margin-left:-720px; width:1440px; background-color:#000; }
+
+/* desktop 15 & desktop 11 (default) */
+#billboard .parenthood .header { margin-top:-287px; *left:50%; *margin-left:-490px; }
+#billboard .header .title a { padding-top:130px; display:block; padding-bottom:5px; }
+#billboard .header .subheadline a { padding-bottom:20px; display:block; }
+#billboard .header .cta { display:block; }
+#billboard .header .cta-wrap { padding-bottom:130px; display:block; }
+#billboard .header .cta:hover img { margin-top:-34px; }
+#billboard .header .cta.watch-parenthood:hover img { margin-top:-35px; }
+
+#billboard .title .large { display:block; }
+
+/* large desktop */
+@media only screen and (min-height:1250px) {
+	#billboard .hero.powerful.parenthood { background-position:50% 25%; }
+	#billboard .header { margin-top:-258px; }
+}
+
+/* iPad landscape */
+@media only screen and (min-device-width:481px) and (max-device-width:768px) and (orientation:landscape) {
+	body { min-height:815px; }
+	#billboard { left:0; margin-left:0; width:1024px; }
+	#billboard .hero.powerful.parenthood { background-position:49% 50%; }
+
+	#billboard .parenthood .header { margin-top:-279px; }
+}
+/* iPad portrait */
+@media only screen and (min-device-width:481px) and (max-device-width:768px) and (orientation:portrait) {
+	#billboard .hero.powerful.parenthood { background-position:49% 51%; }
+
+	#billboard { left:0; margin-left:0; width:1024px; }
+	#billboard .parenthood .header { margin-top:-292px; }
+}
+
+/* iphone landscape short */
+@media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:landscape) {
+	#billboard { left:0; margin-left:0; width:1024px; }
+	#billboard .hero.powerful.parenthood { background-position:51% 62%; }
+
+	#billboard .productivity .header { margin-top:-325px; }
+	#billboard .title .large { display:none; }
+	#billboard .title .small { display:block; }
+}
+
+/* iphone portrait */
+@media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) {
+	#billboard .hero.powerful.parenthood { background-position:50% 76%; }
+	#billboard .parenthood .header { margin-top:-293px; }
+}
+
+/* iphone portrait small screen */
+@media only screen and (max-device-height:480px) and (orientation:portrait) {
+	#billboard .header { margin-top:-293px; }
+}

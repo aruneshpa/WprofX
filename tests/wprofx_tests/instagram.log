@@ -1,0 +1,324 @@
+[531:-1607744192:2443816915241:ERROR:extension_error_reporter.cc(56)] Extension error: Could not load extension from '/Users/wangxiao/Library/Application Support/Chromium/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/0.0.4.1_0'. This extension requires Chromium version 29 or greater.
+[531:-1307512832:2443841037350:ERROR:web_data_service.cc(657)] Cannot initialize the web database: 2
+[531:-1607744192:2446385498733:ERROR:CONSOLE(1)] "Uncaught ReferenceError: InspectorFrontendAPI is not defined", source:  (1)
+RenderViewImpl::didHandleOnloadEvents 1 chrome://newtab/
+RenderViewImpl::didHandleOnloadEvents 1 chrome-devtools://devtools/devtools.html?docked=true&dockSide=bottom&toolbarColor=rgba(230,230,230,1)&textColor=rgba(0,0,0,1)
+RenderViewImpl::didHandleOnloadEvents 1 swappedout://
+{"page": "instagram.com_"}
+{"DOMLoad": 2449.552912}
+{"Resource": {"id": 1, "url": "http://instagram.com/", "sentTime": -1.000000, "len": 12651, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 131, "connReused": 0, "cached": 0,                            "requestTime": 2448.626647, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 153, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2448.793849, "len": 3213}}
+{"ReceivedChunk": {"receivedTime": 2448.826100, "len": 9438}}
+{"WprofHTMLTag": {"code": "0x161a60", "doc": "http://instagram.com/", "row": 1, "column": 82, "tagName": "html", "time": 2448.815284, "url": "", "pos": 98, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x162380", "doc": "http://instagram.com/", "row": 2, "column": 6, "tagName": "head", "time": 2448.815577, "url": "", "pos": 105, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x1626f0", "doc": "http://instagram.com/", "row": 3, "column": 28, "tagName": "meta", "time": 2448.815616, "url": "", "pos": 134, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x162830", "doc": "http://instagram.com/", "row": 4, "column": 11, "tagName": "title", "time": 2448.815642, "url": "", "pos": 146, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x16f350", "doc": "http://instagram.com/", "row": 4, "column": 28, "tagName": "title", "time": 2448.818969, "url": "", "pos": 163, "chunkLen": 3213, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x16f3e0", "doc": "http://instagram.com/", "row": 6, "column": 49, "tagName": "meta", "time": 2448.818995, "url": "", "pos": 214, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x16f530", "doc": "http://instagram.com/", "row": 8, "column": 130, "tagName": "link", "time": 2448.819040, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/ico/favicon.ico", "pos": 346, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x16ec10", "doc": "http://instagram.com/", "row": 10, "column": 62, "tagName": "meta", "time": 2448.819167, "url": "", "pos": 410, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x16fca0", "doc": "http://instagram.com/", "row": 11, "column": 73, "tagName": "meta", "time": 2448.819184, "url": "", "pos": 484, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x16fe50", "doc": "http://instagram.com/", "row": 13, "column": 146, "tagName": "link", "time": 2448.819204, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/ico/apple-touch-icon-precomposed.png", "pos": 632, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x16ff30", "doc": "http://instagram.com/", "row": 14, "column": 166, "tagName": "link", "time": 2448.819252, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/ico/apple-touch-icon-72x72-precomposed.png", "pos": 799, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x1701b0", "doc": "http://instagram.com/", "row": 15, "column": 170, "tagName": "link", "time": 2448.819288, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/ico/apple-touch-icon-114x114-precomposed.png", "pos": 970, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x1705c0", "doc": "http://instagram.com/", "row": 16, "column": 170, "tagName": "link", "time": 2448.819322, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/ico/apple-touch-icon-144x144-precomposed.png", "pos": 1141, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x170e10", "doc": "http://instagram.com/", "row": 21, "column": 111, "tagName": "script", "time": 2448.819354, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/jquery.js", "pos": 1265, "chunkLen": 3213, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x170ea0", "doc": "http://instagram.com/", "row": 21, "column": 120, "tagName": "script", "time": 2448.819396, "url": "", "pos": 1274, "chunkLen": 3213, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x410870", "doc": "http://instagram.com/", "row": 0, "column": 10, "tagName": "link", "time": 2448.945592, "url": "", "pos": 10, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x4108a0", "doc": "http://instagram.com/", "row": 0, "column": 17, "tagName": "table", "time": 2448.945617, "url": "", "pos": 17, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x416240", "doc": "http://instagram.com/", "row": 0, "column": 25, "tagName": "table", "time": 2448.945636, "url": "", "pos": 25, "chunkLen": 107, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4162d0", "doc": "http://instagram.com/", "row": 0, "column": 78, "tagName": "a", "time": 2448.945652, "url": "", "pos": 78, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x416d10", "doc": "http://instagram.com/", "row": 0, "column": 83, "tagName": "a", "time": 2448.945726, "url": "", "pos": 83, "chunkLen": 107, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x416d40", "doc": "http://instagram.com/", "row": 0, "column": 107, "tagName": "input", "time": 2448.945734, "url": "", "pos": 107, "chunkLen": 107, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x419420", "doc": "http://instagram.com/", "row": 0, "column": 31, "tagName": "a", "time": 2448.958982, "url": "", "pos": 31, "chunkLen": 31, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x419dd0", "doc": "http://instagram.com/", "row": 0, "column": 12, "tagName": "a", "time": 2448.959415, "url": "", "pos": 12, "chunkLen": 16, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x419ec0", "doc": "http://instagram.com/", "row": 0, "column": 16, "tagName": "a", "time": 2448.959427, "url": "", "pos": 16, "chunkLen": 16, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x417970", "doc": "http://instagram.com/", "row": 0, "column": 16, "tagName": "p", "time": 2448.959664, "url": "", "pos": 16, "chunkLen": 20, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x419f40", "doc": "http://instagram.com/", "row": 0, "column": 20, "tagName": "p", "time": 2448.959685, "url": "", "pos": 20, "chunkLen": 20, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41a0e0", "doc": "http://instagram.com/", "row": 0, "column": 20, "tagName": "div", "time": 2448.960463, "url": "", "pos": 20, "chunkLen": 50, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41a5d0", "doc": "http://instagram.com/", "row": 0, "column": 26, "tagName": "div", "time": 2448.960474, "url": "", "pos": 26, "chunkLen": 50, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x419450", "doc": "http://instagram.com/", "row": 0, "column": 44, "tagName": "div", "time": 2448.960479, "url": "", "pos": 44, "chunkLen": 50, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41a730", "doc": "http://instagram.com/", "row": 0, "column": 50, "tagName": "div", "time": 2448.960486, "url": "", "pos": 50, "chunkLen": 50, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41ad80", "doc": "http://instagram.com/", "row": 22, "column": 112, "tagName": "script", "time": 2448.966651, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/bluebar.js", "pos": 1387, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41ae40", "doc": "http://instagram.com/", "row": 22, "column": 121, "tagName": "script", "time": 2448.966692, "url": "", "pos": 1396, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41ae70", "doc": "http://instagram.com/", "row": 28, "column": 117, "tagName": "script", "time": 2448.969832, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/public/slideshow.js", "pos": 1531, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41aea0", "doc": "http://instagram.com/", "row": 28, "column": 126, "tagName": "script", "time": 2448.969863, "url": "", "pos": 1540, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41b130", "doc": "http://instagram.com/", "row": 32, "column": 128, "tagName": "link", "time": 2448.970523, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/public/public-main.css", "pos": 1676, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41b1a0", "doc": "http://instagram.com/", "row": 35, "column": 7, "tagName": "head", "time": 2448.970577, "url": "", "pos": 1686, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41c1f0", "doc": "http://instagram.com/", "row": 36, "column": 24, "tagName": "body", "time": 2448.970591, "url": "", "pos": 1711, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41c150", "doc": "http://instagram.com/", "row": 39, "column": 18, "tagName": "div", "time": 2448.970616, "url": "", "pos": 1732, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41c2f0", "doc": "http://instagram.com/", "row": 41, "column": 22, "tagName": "div", "time": 2448.970636, "url": "", "pos": 1756, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41b7a0", "doc": "http://instagram.com/", "row": 45, "column": 26, "tagName": "div", "time": 2448.970652, "url": "", "pos": 1802, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41c610", "doc": "http://instagram.com/", "row": 47, "column": 22, "tagName": "div", "time": 2448.970666, "url": "", "pos": 1838, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41c6c0", "doc": "http://instagram.com/", "row": 47, "column": 28, "tagName": "div", "time": 2448.970676, "url": "", "pos": 1844, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41c740", "doc": "http://instagram.com/", "row": 49, "column": 22, "tagName": "div", "time": 2448.970686, "url": "", "pos": 1868, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41c880", "doc": "http://instagram.com/", "row": 50, "column": 45, "tagName": "div", "time": 2448.970702, "url": "", "pos": 1914, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41ca40", "doc": "http://instagram.com/", "row": 51, "column": 37, "tagName": "div", "time": 2448.970738, "url": "", "pos": 1952, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41cba0", "doc": "http://instagram.com/", "row": 52, "column": 124, "tagName": "img", "time": 2448.970761, "url": "", "pos": 2077, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41d3b0", "doc": "http://instagram.com/", "row": 53, "column": 109, "tagName": "img", "time": 2448.971100, "url": "", "pos": 2187, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41d730", "doc": "http://instagram.com/", "row": 54, "column": 109, "tagName": "img", "time": 2448.971359, "url": "", "pos": 2297, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41dcc0", "doc": "http://instagram.com/", "row": 55, "column": 109, "tagName": "img", "time": 2448.971599, "url": "", "pos": 2407, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41e250", "doc": "http://instagram.com/", "row": 56, "column": 109, "tagName": "img", "time": 2448.971839, "url": "", "pos": 2517, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41e2a0", "doc": "http://instagram.com/", "row": 57, "column": 18, "tagName": "div", "time": 2448.972524, "url": "", "pos": 2536, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41eff0", "doc": "http://instagram.com/", "row": 59, "column": 41, "tagName": "i", "time": 2448.972537, "url": "", "pos": 2579, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41cd70", "doc": "http://instagram.com/", "row": 59, "column": 45, "tagName": "i", "time": 2448.972552, "url": "", "pos": 2583, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41cda0", "doc": "http://instagram.com/", "row": 60, "column": 14, "tagName": "div", "time": 2448.972561, "url": "", "pos": 2598, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41e700", "doc": "http://instagram.com/", "row": 61, "column": 29, "tagName": "div", "time": 2448.972569, "url": "", "pos": 2628, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41c580", "doc": "http://instagram.com/", "row": 62, "column": 58, "tagName": "a", "time": 2448.972590, "url": "", "pos": 2687, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41cc30", "doc": "http://instagram.com/", "row": 62, "column": 67, "tagName": "i", "time": 2448.972604, "url": "", "pos": 2696, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41ccc0", "doc": "http://instagram.com/", "row": 62, "column": 71, "tagName": "i", "time": 2448.972611, "url": "", "pos": 2700, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41ccf0", "doc": "http://instagram.com/", "row": 62, "column": 75, "tagName": "a", "time": 2448.972614, "url": "", "pos": 2704, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41f060", "doc": "http://instagram.com/", "row": 64, "column": 40, "tagName": "h1", "time": 2448.972623, "url": "", "pos": 2746, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41ed40", "doc": "http://instagram.com/", "row": 64, "column": 102, "tagName": "h1", "time": 2448.972639, "url": "", "pos": 2808, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41ee70", "doc": "http://instagram.com/", "row": 66, "column": 29, "tagName": "div", "time": 2448.972648, "url": "", "pos": 2839, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41f280", "doc": "http://instagram.com/", "row": 67, "column": 41, "tagName": "div", "time": 2448.972663, "url": "", "pos": 2881, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41ec70", "doc": "http://instagram.com/", "row": 68, "column": 24, "tagName": "h1", "time": 2448.972676, "url": "", "pos": 2906, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41f4e0", "doc": "http://instagram.com/", "row": 68, "column": 70, "tagName": "h1", "time": 2448.972690, "url": "", "pos": 2952, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41f340", "doc": "http://instagram.com/", "row": 70, "column": 23, "tagName": "p", "time": 2448.972697, "url": "", "pos": 2977, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41f570", "doc": "http://instagram.com/", "row": 71, "column": 47, "tagName": "strong", "time": 2448.972710, "url": "", "pos": 3025, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41f810", "doc": "http://instagram.com/", "row": 71, "column": 60, "tagName": "strong", "time": 2448.972720, "url": "", "pos": 3038, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41f760", "doc": "http://instagram.com/", "row": 71, "column": 70, "tagName": "strong", "time": 2448.972726, "url": "", "pos": 3048, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41f870", "doc": "http://instagram.com/", "row": 71, "column": 88, "tagName": "strong", "time": 2448.972736, "url": "", "pos": 3066, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41f8f0", "doc": "http://instagram.com/", "row": 71, "column": 101, "tagName": "strong", "time": 2448.972742, "url": "", "pos": 3079, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41f620", "doc": "http://instagram.com/", "row": 71, "column": 113, "tagName": "strong", "time": 2448.972750, "url": "", "pos": 3091, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41ebd0", "doc": "http://instagram.com/", "row": 72, "column": 24, "tagName": "p", "time": 2448.972759, "url": "", "pos": 3164, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41fab0", "doc": "http://instagram.com/", "row": 73, "column": 23, "tagName": "p", "time": 2448.972766, "url": "", "pos": 3188, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41fc50", "doc": "http://instagram.com/", "row": 75, "column": 24, "tagName": "p", "time": 2448.972791, "url": "", "pos": 3450, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41fb80", "doc": "http://instagram.com/", "row": 76, "column": 23, "tagName": "p", "time": 2448.972798, "url": "", "pos": 3474, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41fc80", "doc": "http://instagram.com/", "row": 78, "column": 24, "tagName": "p", "time": 2448.972811, "url": "", "pos": 3558, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41fd00", "doc": "http://instagram.com/", "row": 79, "column": 58, "tagName": "div", "time": 2448.972828, "url": "", "pos": 3617, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x41fff0", "doc": "http://instagram.com/", "row": 80, "column": 249, "tagName": "a", "time": 2448.972859, "url": "", "pos": 3867, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x4202d0", "doc": "http://instagram.com/", "row": 81, "column": 149, "tagName": "img", "time": 2448.972918, "url": "", "pos": 4017, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x420aa0", "doc": "http://instagram.com/", "row": 82, "column": 28, "tagName": "a", "time": 2448.973086, "url": "", "pos": 4046, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x420d00", "doc": "http://instagram.com/", "row": 83, "column": 261, "tagName": "a", "time": 2448.973110, "url": "", "pos": 4308, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421430", "doc": "http://instagram.com/", "row": 84, "column": 151, "tagName": "img", "time": 2448.973139, "url": "", "pos": 4460, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421060", "doc": "http://instagram.com/", "row": 85, "column": 28, "tagName": "a", "time": 2448.973279, "url": "", "pos": 4489, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x421530", "doc": "http://instagram.com/", "row": 86, "column": 26, "tagName": "div", "time": 2448.973287, "url": "", "pos": 4516, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4209e0", "doc": "http://instagram.com/", "row": 87, "column": 22, "tagName": "div", "time": 2448.973294, "url": "", "pos": 4539, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4214b0", "doc": "http://instagram.com/", "row": 88, "column": 18, "tagName": "div", "time": 2448.973300, "url": "", "pos": 4558, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x421e70", "doc": "http://instagram.com/", "row": 89, "column": 14, "tagName": "div", "time": 2448.973306, "url": "", "pos": 4573, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4212f0", "doc": "http://instagram.com/", "row": 90, "column": 10, "tagName": "div", "time": 2448.973312, "url": "", "pos": 4584, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41fa50", "doc": "http://instagram.com/", "row": 92, "column": 14, "tagName": "div", "time": 2448.973318, "url": "", "pos": 4600, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4210b0", "doc": "http://instagram.com/", "row": 95, "column": 10, "tagName": "div", "time": 2448.973332, "url": "", "pos": 4636, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x41f9e0", "doc": "http://instagram.com/", "row": 98, "column": 51, "tagName": "footer", "time": 2448.973348, "url": "", "pos": 4709, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421bd0", "doc": "http://instagram.com/", "row": 99, "column": 29, "tagName": "div", "time": 2448.973365, "url": "", "pos": 4739, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421ad0", "doc": "http://instagram.com/", "row": 100, "column": 17, "tagName": "nav", "time": 2448.973378, "url": "", "pos": 4757, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421b60", "doc": "http://instagram.com/", "row": 101, "column": 20, "tagName": "ul", "time": 2448.973389, "url": "", "pos": 4778, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421910", "doc": "http://instagram.com/", "row": 102, "column": 24, "tagName": "li", "time": 2448.973413, "url": "", "pos": 4803, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421970", "doc": "http://instagram.com/", "row": 102, "column": 45, "tagName": "a", "time": 2448.973436, "url": "", "pos": 4824, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x421840", "doc": "http://instagram.com/", "row": 102, "column": 57, "tagName": "a", "time": 2448.973449, "url": "", "pos": 4836, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x421870", "doc": "http://instagram.com/", "row": 102, "column": 62, "tagName": "li", "time": 2448.973463, "url": "", "pos": 4841, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x421ee0", "doc": "http://instagram.com/", "row": 103, "column": 24, "tagName": "li", "time": 2448.973472, "url": "", "pos": 4866, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422080", "doc": "http://instagram.com/", "row": 103, "column": 61, "tagName": "a", "time": 2448.973483, "url": "", "pos": 4903, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422150", "doc": "http://instagram.com/", "row": 103, "column": 72, "tagName": "a", "time": 2448.973514, "url": "", "pos": 4914, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x421f30", "doc": "http://instagram.com/", "row": 103, "column": 77, "tagName": "li", "time": 2448.973517, "url": "", "pos": 4919, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x421fd0", "doc": "http://instagram.com/", "row": 104, "column": 24, "tagName": "li", "time": 2448.973524, "url": "", "pos": 4944, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422000", "doc": "http://instagram.com/", "row": 104, "column": 61, "tagName": "a", "time": 2448.973534, "url": "", "pos": 4981, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422400", "doc": "http://instagram.com/", "row": 104, "column": 69, "tagName": "a", "time": 2448.973554, "url": "", "pos": 4989, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422530", "doc": "http://instagram.com/", "row": 104, "column": 74, "tagName": "li", "time": 2448.973557, "url": "", "pos": 4994, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422470", "doc": "http://instagram.com/", "row": 105, "column": 24, "tagName": "li", "time": 2448.973563, "url": "", "pos": 5019, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422590", "doc": "http://instagram.com/", "row": 105, "column": 62, "tagName": "a", "time": 2448.973573, "url": "", "pos": 5057, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x4225f0", "doc": "http://instagram.com/", "row": 105, "column": 71, "tagName": "a", "time": 2448.973594, "url": "", "pos": 5066, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422620", "doc": "http://instagram.com/", "row": 105, "column": 76, "tagName": "li", "time": 2448.973597, "url": "", "pos": 5071, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4207b0", "doc": "http://instagram.com/", "row": 106, "column": 24, "tagName": "li", "time": 2448.973603, "url": "", "pos": 5096, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x420830", "doc": "http://instagram.com/", "row": 106, "column": 46, "tagName": "a", "time": 2448.973613, "url": "", "pos": 5118, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422700", "doc": "http://instagram.com/", "row": 106, "column": 53, "tagName": "a", "time": 2448.973624, "url": "", "pos": 5125, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422830", "doc": "http://instagram.com/", "row": 106, "column": 58, "tagName": "li", "time": 2448.973627, "url": "", "pos": 5130, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422770", "doc": "http://instagram.com/", "row": 107, "column": 24, "tagName": "li", "time": 2448.973633, "url": "", "pos": 5155, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x4227f0", "doc": "http://instagram.com/", "row": 107, "column": 47, "tagName": "a", "time": 2448.973642, "url": "", "pos": 5178, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422920", "doc": "http://instagram.com/", "row": 107, "column": 55, "tagName": "a", "time": 2448.973653, "url": "", "pos": 5186, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422a50", "doc": "http://instagram.com/", "row": 107, "column": 60, "tagName": "li", "time": 2448.973656, "url": "", "pos": 5191, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4229c0", "doc": "http://instagram.com/", "row": 108, "column": 24, "tagName": "li", "time": 2448.973662, "url": "", "pos": 5216, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422a80", "doc": "http://instagram.com/", "row": 108, "column": 56, "tagName": "a", "time": 2448.973672, "url": "", "pos": 5248, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422b50", "doc": "http://instagram.com/", "row": 108, "column": 67, "tagName": "a", "time": 2448.973683, "url": "", "pos": 5259, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422300", "doc": "http://instagram.com/", "row": 108, "column": 72, "tagName": "li", "time": 2448.973686, "url": "", "pos": 5264, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4223a0", "doc": "http://instagram.com/", "row": 109, "column": 24, "tagName": "li", "time": 2448.973692, "url": "", "pos": 5289, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422bc0", "doc": "http://instagram.com/", "row": 109, "column": 54, "tagName": "a", "time": 2448.973702, "url": "", "pos": 5319, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x422d90", "doc": "http://instagram.com/", "row": 109, "column": 63, "tagName": "a", "time": 2448.973713, "url": "", "pos": 5328, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422dc0", "doc": "http://instagram.com/", "row": 109, "column": 68, "tagName": "li", "time": 2448.973716, "url": "", "pos": 5333, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422f60", "doc": "http://instagram.com/", "row": 110, "column": 21, "tagName": "ul", "time": 2448.973722, "url": "", "pos": 5355, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422df0", "doc": "http://instagram.com/", "row": 111, "column": 18, "tagName": "nav", "time": 2448.973728, "url": "", "pos": 5374, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x422ef0", "doc": "http://instagram.com/", "row": 113, "column": 33, "tagName": "p", "time": 2448.973746, "url": "", "pos": 5409, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x423090", "doc": "http://instagram.com/", "row": 113, "column": 58, "tagName": "p", "time": 2448.973768, "url": "", "pos": 5434, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4230c0", "doc": "http://instagram.com/", "row": 114, "column": 14, "tagName": "div", "time": 2448.973774, "url": "", "pos": 5449, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x423250", "doc": "http://instagram.com/", "row": 115, "column": 13, "tagName": "footer", "time": 2448.973780, "url": "", "pos": 5463, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x423030", "doc": "http://instagram.com/", "row": 119, "column": 31, "tagName": "div", "time": 2448.973788, "url": "", "pos": 5502, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x423060", "doc": "http://instagram.com/", "row": 119, "column": 37, "tagName": "div", "time": 2448.973798, "url": "", "pos": 5508, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x423190", "doc": "http://instagram.com/", "row": 120, "column": 6, "tagName": "div", "time": 2448.973804, "url": "", "pos": 5515, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x423420", "doc": "http://instagram.com/", "row": 130, "column": 31, "tagName": "script", "time": 2448.973817, "url": "", "pos": 5571, "chunkLen": 12648, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x423530", "doc": "http://instagram.com/", "row": 144, "column": 9, "tagName": "script", "time": 2448.973861, "url": "http://www.google-analytics.com/ga.js", "pos": 6217, "chunkLen": 12648, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4634d0", "doc": "http://instagram.com/", "row": 146, "column": 39, "tagName": "script", "time": 2449.097696, "url": "", "pos": 3045, "chunkLen": 9435, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x423500", "doc": "http://instagram.com/", "row": 319, "column": 9, "tagName": "script", "time": 2449.098008, "url": "", "pos": 9070, "chunkLen": 9435, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4637b0", "doc": "http://instagram.com/", "row": 322, "column": 31, "tagName": "script", "time": 2449.102654, "url": "", "pos": 9112, "chunkLen": 9435, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x463c00", "doc": "http://instagram.com/", "row": 322, "column": 233, "tagName": "script", "time": 2449.102733, "url": "", "pos": 9314, "chunkLen": 9435, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x4640e0", "doc": "http://instagram.com/", "row": 323, "column": 94, "tagName": "script", "time": 2449.103445, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/bundles/webpack-common.js", "pos": 9409, "chunkLen": 9435, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x463f40", "doc": "http://instagram.com/", "row": 323, "column": 103, "tagName": "script", "time": 2449.103484, "url": "", "pos": 9418, "chunkLen": 9435, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x1747a0", "doc": "http://instagram.com/", "row": 324, "column": 7, "tagName": "body", "time": 2449.160783, "url": "", "pos": 9426, "chunkLen": 9435, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x193100", "doc": "http://instagram.com/", "row": 325, "column": 7, "tagName": "html", "time": 2449.160793, "url": "", "pos": 9434, "chunkLen": 9435, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x1952b0", "doc": "http://instagram.com/", "row": 0, "column": 7, "tagName": "table", "time": 2449.162441, "url": "", "pos": 7, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x195510", "doc": "http://instagram.com/", "row": 0, "column": 11, "tagName": "tr", "time": 2449.162456, "url": "", "pos": 11, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x1956e0", "doc": "http://instagram.com/", "row": 0, "column": 64, "tagName": "td", "time": 2449.162484, "url": "", "pos": 64, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x195a40", "doc": "http://instagram.com/", "row": 0, "column": 69, "tagName": "td", "time": 2449.162520, "url": "", "pos": 69, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x1955d0", "doc": "http://instagram.com/", "row": 0, "column": 73, "tagName": "td", "time": 2449.162524, "url": "", "pos": 73, "chunkLen": 92, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x195aa0", "doc": "http://instagram.com/", "row": 0, "column": 79, "tagName": "td", "time": 2449.162532, "url": "", "pos": 79, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x195ad0", "doc": "http://instagram.com/", "row": 0, "column": 84, "tagName": "tr", "time": 2449.162534, "url": "", "pos": 84, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x195b00", "doc": "http://instagram.com/", "row": 0, "column": 92, "tagName": "table", "time": 2449.162537, "url": "", "pos": 92, "chunkLen": 92, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x196530", "doc": "http://instagram.com/", "row": 0, "column": 24, "tagName": "div", "time": 2449.165242, "url": "", "pos": 24, "chunkLen": 30, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x1965c0", "doc": "http://instagram.com/", "row": 0, "column": 30, "tagName": "div", "time": 2449.165265, "url": "", "pos": 30, "chunkLen": 30, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x197070", "doc": "http://instagram.com/", "row": 0, "column": 121, "tagName": "div", "time": 2449.165691, "url": "", "pos": 121, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x197560", "doc": "http://instagram.com/", "row": 0, "column": 193, "tagName": "div", "time": 2449.165741, "url": "", "pos": 193, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x197870", "doc": "http://instagram.com/", "row": 0, "column": 199, "tagName": "div", "time": 2449.165772, "url": "", "pos": 199, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x1974d0", "doc": "http://instagram.com/", "row": 0, "column": 205, "tagName": "div", "time": 2449.165775, "url": "", "pos": 205, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x197520", "doc": "http://instagram.com/", "row": 0, "column": 346, "tagName": "table", "time": 2449.165788, "url": "", "pos": 346, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x1975d0", "doc": "http://instagram.com/", "row": 0, "column": 350, "tagName": "tr", "time": 2449.165827, "url": "", "pos": 350, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x197680", "doc": "http://instagram.com/", "row": 0, "column": 354, "tagName": "td", "time": 2449.165835, "url": "", "pos": 354, "chunkLen": 372, "isStartTag": 1}}
+{"WprofHTMLTag": {"code": "0x197700", "doc": "http://instagram.com/", "row": 0, "column": 359, "tagName": "td", "time": 2449.165839, "url": "", "pos": 359, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x197a80", "doc": "http://instagram.com/", "row": 0, "column": 364, "tagName": "tr", "time": 2449.165842, "url": "", "pos": 364, "chunkLen": 372, "isStartTag": 0}}
+{"WprofHTMLTag": {"code": "0x197ab0", "doc": "http://instagram.com/", "row": 0, "column": 372, "tagName": "table", "time": 2449.165844, "url": "", "pos": 372, "chunkLen": 372, "isStartTag": 0}}
+{"Resource": {"id": 2, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/jquery.js", "sentTime": -1.000000, "len": 94840, "from": "0x170e10",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.820138, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2448.834748, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2448.835951, "len": 59070}}
+{"ReceivedChunk": {"receivedTime": 2448.845340, "len": 3002}}
+{"Resource": {"id": 3, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/bluebar.js", "sentTime": -1.000000, "len": 1971, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.820771, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2448.835087, "len": 1971}}
+{"Resource": {"id": 4, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/public/slideshow.js", "sentTime": -1.000000, "len": 512, "from": "0x0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.821370, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2448.844838, "len": 512}}
+{"Resource": {"id": 5, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/public/public-main.css", "sentTime": -1.000000, "len": 145432, "from": "0x41b130",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.825935, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2448.974617, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2448.974913, "len": 65536}}
+{"ReceivedChunk": {"receivedTime": 2448.975191, "len": 47128}}
+{"Resource": {"id": 6, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/bundles/webpack-common.js", "sentTime": -1.000000, "len": 123707, "from": "0x4640e0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.833188, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.111152, "len": 109865}}
+{"ReceivedChunk": {"receivedTime": 2449.146956, "len": 13842}}
+{"Resource": {"id": 7, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot1.jpg", "sentTime": -1.000000, "len": 113259, "from": "0x41cba0",                            "mimeType": "image/jpeg", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.976751, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.187816, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2449.192488, "len": 3077}}
+{"ReceivedChunk": {"receivedTime": 2449.193585, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2449.195542, "len": 2}}
+{"ReceivedChunk": {"receivedTime": 2449.197226, "len": 33138}}
+{"ReceivedChunk": {"receivedTime": 2449.198942, "len": 11506}}
+{"Resource": {"id": 8, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot2.jpg", "sentTime": -1.000000, "len": 121531, "from": "0x41d3b0",                            "mimeType": "image/jpeg", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.977457, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.189864, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2449.192711, "len": 1891}}
+{"ReceivedChunk": {"receivedTime": 2449.193884, "len": 32767}}
+{"ReceivedChunk": {"receivedTime": 2449.195826, "len": 33474}}
+{"ReceivedChunk": {"receivedTime": 2449.197560, "len": 20631}}
+{"Resource": {"id": 9, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot3.jpg", "sentTime": -1.000000, "len": 129558, "from": "0x41d730",                            "mimeType": "image/jpeg", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.977849, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.190292, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2449.192924, "len": 3808}}
+{"ReceivedChunk": {"receivedTime": 2449.194383, "len": 34385}}
+{"ReceivedChunk": {"receivedTime": 2449.196184, "len": 32989}}
+{"ReceivedChunk": {"receivedTime": 2449.197944, "len": 25608}}
+{"Resource": {"id": 10, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot4.jpg", "sentTime": -1.000000, "len": 120902, "from": "0x41dcc0",                            "mimeType": "image/jpeg", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.978267, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.190729, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2449.193150, "len": 7196}}
+{"ReceivedChunk": {"receivedTime": 2449.194812, "len": 34188}}
+{"ReceivedChunk": {"receivedTime": 2449.196534, "len": 32979}}
+{"ReceivedChunk": {"receivedTime": 2449.198318, "len": 13771}}
+{"Resource": {"id": 11, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot5.jpg", "sentTime": -1.000000, "len": 148816, "from": "0x41e250",                            "mimeType": "image/jpeg", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.978655, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.191196, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2449.193375, "len": 1332}}
+{"ReceivedChunk": {"receivedTime": 2449.195189, "len": 32801}}
+{"ReceivedChunk": {"receivedTime": 2449.196881, "len": 32805}}
+{"ReceivedChunk": {"receivedTime": 2449.198656, "len": 32798}}
+{"ReceivedChunk": {"receivedTime": 2449.199298, "len": 16312}}
+{"Resource": {"id": 12, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/public/badge_ios.png", "sentTime": -1.000000, "len": 5670, "from": "0x4202d0",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.979046, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.191661, "len": 5670}}
+{"Resource": {"id": 13, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/public/badge_android.png", "sentTime": -1.000000, "len": 5516, "from": "0x421430",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2448.979431, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.192089, "len": 5516}}
+{"Resource": {"id": 21, "url": "http://www.google-analytics.com/ga.js", "sentTime": -1.000000, "len": 40219, "from": "0x423530",                            "mimeType": "text/javascript", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.095293, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.200283, "len": 40219}}
+{"Resource": {"id": 14, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/bg/body_noise.png", "sentTime": -1.000000, "len": 4608, "from": "0x423530",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.104556, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.201058, "len": 4608}}
+{"Resource": {"id": 15, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/shared/noise-1.png", "sentTime": -1.000000, "len": 3116, "from": "0x423530",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.107420, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.201778, "len": 3116}}
+{"Resource": {"id": 16, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/home-phones.png", "sentTime": -1.000000, "len": 84151, "from": "0x423530",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.109904, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.203546, "len": 32768}}
+{"ReceivedChunk": {"receivedTime": 2449.204843, "len": 250}}
+{"ReceivedChunk": {"receivedTime": 2449.206526, "len": 32758}}
+{"ReceivedChunk": {"receivedTime": 2449.206820, "len": 18375}}
+{"Resource": {"id": 17, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/home-phones-glare.png", "sentTime": -1.000000, "len": 2954, "from": "0x423530",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.110607, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.203970, "len": 2954}}
+{"Resource": {"id": 18, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/shared/shared-assets.png", "sentTime": -1.000000, "len": 9948, "from": "0x423530",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.111000, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.204400, "len": 9948}}
+{"Resource": {"id": 19, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/brand-header-simple.png", "sentTime": -1.000000, "len": 25231, "from": "0x423530",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.111368, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.205619, "len": 25231}}
+{"Resource": {"id": 20, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/content-background.png", "sentTime": -1.000000, "len": 3008, "from": "0x423530",                            "mimeType": "image/png", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.112343, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.206123, "len": 3008}}
+{"Resource": {"id": 22, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/webfonts/proximanova-reg-webfont.woff", "sentTime": -1.000000, "len": 13260, "from": "0x0",                            "mimeType": "application/x-font-woff", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.207837, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.547710, "len": 13260}}
+{"Resource": {"id": 23, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/webfonts/proximanova-sbold-webfont.woff", "sentTime": -1.000000, "len": 13052, "from": "0x0",                            "mimeType": "application/x-font-woff", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.210320, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.548643, "len": 13052}}
+{"Resource": {"id": 24, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/webfonts/proximanova-bold-webfont.woff", "sentTime": -1.000000, "len": 13180, "from": "0x0",                            "mimeType": "application/x-font-woff", "contentLength": -1, "httpStatus": 200, "connId": 0, "connReused": 0, "cached": 1,                            "requestTime": 2449.210928, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.548963, "len": 13180}}
+{"Resource": {"id": 25, "url": "http://www.google-analytics.com/__utm.gif?utmwv=5.5.3&utms=2&utmn=943848692&utmhn=instagram.com&utme=8(page)9(Home)&utmcs=UTF-8&utmsr=2048x1152&utmvp=952x732&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=14.0%20r0&utmdt=Home&utmhid=118643342&utmr=-&utmp=%2F&utmht=1406151521704&utmac=UA-18105282-1&utmcc=__utma%3D1.810764298.1406151478.1406151478.1406151478.1%3B%2B__utmz%3D1.1406151478.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qxAAAAAAAAAAAAAAAg~", "sentTime": -1.000000, "len": 35, "from": "0x197ab0",                            "mimeType": "image/gif", "contentLength": 35, "httpStatus": 200, "connId": 128, "connReused": 0, "cached": 0,                            "requestTime": 2449.408430, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 21, "connectEnd": 21, "sendStart": 21, "sendEnd": 21, "receiveHeadersEnd": 23, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"receivedTime": 2449.552491, "len": 35}}
+{"HOL": {"type": 1, "docUrl": "http://instagram.com/", "code": "0x170e10", "row": 21, "column": 111, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/jquery.js"}}
+{"HOL": {"type": 1, "docUrl": "http://instagram.com/", "code": "0x41ad80", "row": 22, "column": 112, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/bluebar.js"}}
+{"HOL": {"type": 1, "docUrl": "http://instagram.com/", "code": "0x41ae70", "row": 28, "column": 117, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/public/slideshow.js"}}
+{"HOL": {"type": 4, "docUrl": "http://instagram.com/", "code": "0x41b130", "row": 32, "column": 128, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/public/public-main.css"}}
+{"HOL": {"type": 1, "docUrl": "http://instagram.com/", "code": "0x423420", "row": 130, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://instagram.com/", "code": "0x4634d0", "row": 146, "column": 39, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://instagram.com/", "code": "0x4637b0", "row": 322, "column": 31, "url": ""}}
+{"HOL": {"type": 1, "docUrl": "http://instagram.com/", "code": "0x4640e0", "row": 323, "column": 94, "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/bundles/webpack-common.js"}}
+{"Computation": {"type": "execScript", "code": "0x170ea0", "docUrl": "http://instagram.com/", "startTime": 2448.819736, "endTime": -1.000000, "urlRecalcStyle": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/jquery.js"}}
+{"Computation": {"type": "layout", "code": "0x170ea0", "docUrl": "http://instagram.com/", "startTime": 2448.831333, "endTime": 2448.832561, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x170ea0", "docUrl": "http://instagram.com/", "startTime": 2448.832516, "endTime": 2448.832552, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x170ea0", "docUrl": "http://instagram.com/", "startTime": 2448.845548, "endTime": 2448.966590, "urlRecalcStyle": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/jquery.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x41a730", "docUrl": "http://instagram.com/", "startTime": 2448.966578, "endTime": 2448.966579, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x41ae40", "docUrl": "http://instagram.com/", "startTime": 2448.966776, "endTime": 2448.969790, "urlRecalcStyle": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/bluebar.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x41ae40", "docUrl": "http://instagram.com/", "startTime": 2448.969782, "endTime": 2448.969784, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x41aea0", "docUrl": "http://instagram.com/", "startTime": 2448.969923, "endTime": 2448.970497, "urlRecalcStyle": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/public/slideshow.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x41aea0", "docUrl": "http://instagram.com/", "startTime": 2448.970491, "endTime": 2448.970493, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x423530", "docUrl": "http://instagram.com/", "startTime": 2448.973876, "endTime": -1.000000, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x423530", "docUrl": "http://instagram.com/", "startTime": 2448.976905, "endTime": 2449.057235, "urlRecalcStyle": ""}}
+{"Computation": {"type": "recalcStyle", "code": "0x423530", "docUrl": "http://instagram.com/", "startTime": 2449.057433, "endTime": 2449.103535, "urlRecalcStyle": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/public/public-main.css"}}
+{"Computation": {"type": "execScript", "code": "0x423530", "docUrl": "http://instagram.com/", "startTime": 2449.093319, "endTime": 2449.097663, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x423530", "docUrl": "http://instagram.com/", "startTime": 2449.097655, "endTime": 2449.097657, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x423500", "docUrl": "http://instagram.com/", "startTime": 2449.098024, "endTime": 2449.102613, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x463c00", "docUrl": "http://instagram.com/", "startTime": 2449.102751, "endTime": 2449.103401, "urlRecalcStyle": ""}}
+{"Computation": {"type": "execScript", "code": "0x463f40", "docUrl": "http://instagram.com/", "startTime": 2449.103526, "endTime": -1.000000, "urlRecalcStyle": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/bundles/webpack-common.js"}}
+{"Computation": {"type": "layout", "code": "0x463f40", "docUrl": "http://instagram.com/", "startTime": 2449.112150, "endTime": 2449.146750, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x463f40", "docUrl": "http://instagram.com/", "startTime": 2449.146481, "endTime": 2449.146707, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x463f40", "docUrl": "http://instagram.com/", "startTime": 2449.146769, "endTime": 2449.146771, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x463f40", "docUrl": "http://instagram.com/", "startTime": 2449.147248, "endTime": 2449.160753, "urlRecalcStyle": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/bundles/webpack-common.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x463f40", "docUrl": "http://instagram.com/", "startTime": 2449.160745, "endTime": 2449.160747, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x193100", "docUrl": "http://instagram.com/", "startTime": 2449.160816, "endTime": 2449.160818, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "fireEvent", "code": "0x193100", "docUrl": "http://instagram.com/", "startTime": 2449.160820, "endTime": 2449.174152, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x195b00", "docUrl": "http://instagram.com/", "startTime": 2449.163228, "endTime": 2449.163551, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x195b00", "docUrl": "http://instagram.com/", "startTime": 2449.163871, "endTime": 2449.164002, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x195b00", "docUrl": "http://instagram.com/", "startTime": 2449.164325, "endTime": 2449.164451, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x195b00", "docUrl": "http://instagram.com/", "startTime": 2449.164990, "endTime": 2449.165112, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x1965c0", "docUrl": "http://instagram.com/", "startTime": 2449.165432, "endTime": 2449.165533, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.169311, "endTime": 2449.169524, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.169828, "endTime": 2449.169897, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.170218, "endTime": 2449.170291, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.170505, "endTime": 2449.170563, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.174156, "endTime": 2449.174159, "urlRecalcStyle": "DOMContentLoaded"}}
+{"Computation": {"type": "layout", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.174586, "endTime": 2449.174754, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.182440, "endTime": 2449.184009, "urlRecalcStyle": ""}}
+{"Computation": {"type": "layout", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.199641, "endTime": 2449.199895, "urlRecalcStyle": ""}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.207966, "endTime": 2449.207968, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.207970, "endTime": 2449.207971, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.207981, "endTime": 2449.207982, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.207983, "endTime": 2449.207984, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.207992, "endTime": 2449.207994, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.208002, "endTime": 2449.208003, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.208012, "endTime": 2449.208013, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.208021, "endTime": 2449.208022, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.208030, "endTime": 2449.208031, "urlRecalcStyle": "load"}}
+{"Computation": {"type": "execScript", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.208036, "endTime": 2449.413554, "urlRecalcStyle": "http://www.google-analytics.com/ga.js"}}
+{"Computation": {"type": "fireEvent", "code": "0x197ab0", "docUrl": "http://instagram.com/", "startTime": 2449.413571, "endTime": 2449.413572, "urlRecalcStyle": "load"}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/bluebar.js", "time": 2448.819764}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/scripts/public/slideshow.js", "time": 2448.819964}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/public/public-main.css", "time": 2448.820137}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot1.jpg", "time": 2448.820346}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot2.jpg", "time": 2448.825554}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot3.jpg", "time": 2448.825586}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot4.jpg", "time": 2448.825646}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/homepage/screenshot5.jpg", "time": 2448.825661}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/public/badge_ios.png", "time": 2448.826195}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/images/public/badge_android.png", "time": 2448.826907}}
+{"Preload": {"code": "0x170ea0", "docUrl": "http://instagram.com/", "url": "http://d36xtkk24g8jdx.cloudfront.net/bluebar/e98c414/cache/bundles/webpack-common.js", "time": 2448.827418}}
+{"Complete': "instagram.com_"}
+RenderViewImpl::didHandleOnloadEvents 1 http://instagram.com/

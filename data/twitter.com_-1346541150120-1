@@ -1,0 +1,737 @@
+{"ResourceInfoChrome":{"url":"http://twitter.com/", "conn_id":1817, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":1, "dns_end":6, "connect_start":1, "connect_end":49,			"ssl_start":-1, "ssl_end":-1, "send_start":49, "send_end":49, "receive_headers_end":181}}
+{"ResourceInfoChrome":{"url":"http://a0.twimg.com/a/1346367577/t1/css/t1_more.bundle.css", "conn_id":1841, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":11, "dns_end":241, "connect_start":11, "connect_end":296,			"ssl_start":-1, "ssl_end":-1, "send_start":297, "send_end":297, "receive_headers_end":361}}
+{"ResourceInfoChrome":{"url":"http://a0.twimg.com/a/1346367577/t1/css/t1_core_logged_out.bundle.css", "conn_id":1840, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":11, "dns_end":241, "connect_start":11, "connect_end":297,			"ssl_start":-1, "ssl_end":-1, "send_start":297, "send_end":297, "receive_headers_end":371}}
+{"ResourceInfoChrome":{"url":"http://a0.twimg.com/c/phoenix/en/bundle/t1-core.41b489ded26f5c0fdb0bf1627d35dd60510fbf9e.js", "conn_id":1841, "conn_reused":1, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":-1, "dns_end":-1, "connect_start":1, "connect_end":1,			"ssl_start":-1, "ssl_end":-1, "send_start":1, "send_end":1, "receive_headers_end":63}}
+{"ResourceInfoChrome":{"url":"http://a0.twimg.com/a/1346367577/t1/img/twitter_web_sprite_bgs.png", "conn_id":1840, "conn_reused":1, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":-1, "dns_end":-1, "connect_start":15, "connect_end":15,			"ssl_start":-1, "ssl_end":-1, "send_start":15, "send_end":16, "receive_headers_end":95}}
+{"ResourceInfoChrome":{"url":"http://a0.twimg.com/a/1346367577/t1/img/twitter_web_sprite_icons.png", "conn_id":1844, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":-1, "dns_end":-1, "connect_start":15, "connect_end":15,			"ssl_start":-1, "ssl_end":-1, "send_start":15, "send_end":15, "receive_headers_end":98}}
+{"ResourceInfoChrome":{"url":"http://api.twitter.com/receiver.html", "conn_id":1870, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":2, "dns_end":2, "connect_start":2, "connect_end":44,			"ssl_start":-1, "ssl_end":-1, "send_start":44, "send_end":45, "receive_headers_end":127}}
+{"ResourceInfoChrome":{"url":"http://a0.twimg.com/a/1346367577/t1/img/front_page/jp-mountain@2x.jpg", "conn_id":1890, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":14, "dns_end":14, "connect_start":14, "connect_end":90,			"ssl_start":-1, "ssl_end":-1, "send_start":94, "send_end":95, "receive_headers_end":199}}
+{"ResourceInfoChrome":{"url":"http://a0.twimg.com/a/1346367577/t1/img/wash-white-30.png", "conn_id":1896, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":2, "dns_end":2, "connect_start":2, "connect_end":77,			"ssl_start":-1, "ssl_end":-1, "send_start":82, "send_end":82, "receive_headers_end":214}}
+{"ResourceInfoChrome":{"url":"http://scribe.twitter.com/scribe?category=client_event&log=%7B%22context%22%3A%22front%22%2C%22event_name%22%3A%22web%3Afront%3A%3A%3Aimpression%22%7D&ts=1346541221016", "conn_id":1910, "conn_reused":0, "spdy":0, "npn":0,			"proxy_start":-1, "proxy_end":-1, "dns_start":1, "dns_end":357, "connect_start":1, "connect_end":399,			"ssl_start":-1, "ssl_end":-1, "send_start":399, "send_end":400, "receive_headers_end":808}}
+{"page": "twitter.com_"}
+{"DOMLoad": 440.051311}
+{"Resource": {"id": 1, "url": "http://twitter.com/", "sentTime": 438.239115, "len": 46828, "from": "0x0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 1817, "connReused": 0, "cached": 0,                            "requestTime": 438.239987, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 6, "connectStart": 1, "connectEnd": 49, "sendStart": 49, "sendEnd": 49, "receiveHeadersEnd": 181, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "fae167dbd619a66f1c85e13859dc785d", "receivedTime": 438.496864, "len": 32768}}
+{"ReceivedChunk": {"hash": "f511dbe91effe04aea465f1f0ce4b592", "receivedTime": 438.556489, "len": 14060}}
+{"ObjectHash": {"code": "0x4334c20", "doc": "http://twitter.com/", "row": 2, "column": 65, "tagName": "html", "time": 438.519595, "url": "(null)", "pos": 80, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4335060", "doc": "http://twitter.com/", "row": 3, "column": 9, "tagName": "head", "time": 438.520018, "url": "(null)", "pos": 89, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4310950", "doc": "http://twitter.com/", "row": 5, "column": 12, "tagName": "title", "time": 438.520056, "url": "(null)", "pos": 106, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4342ab0", "doc": "http://twitter.com/", "row": 5, "column": 27, "tagName": "title", "time": 438.523380, "url": "(null)", "pos": 121, "chunkLen": 32653, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4342b40", "doc": "http://twitter.com/", "row": 6, "column": 58, "tagName": "meta", "time": 438.523401, "url": "(null)", "pos": 179, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4342bc0", "doc": "http://twitter.com/", "row": 7, "column": 29, "tagName": "meta", "time": 438.523435, "url": "(null)", "pos": 208, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4342d00", "doc": "http://twitter.com/", "row": 9, "column": 172, "tagName": "meta", "time": 438.523477, "url": "(null)", "pos": 385, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4342de0", "doc": "http://twitter.com/", "row": 11, "column": 59, "tagName": "link", "time": 438.523508, "url": "http://a0.twimg.com/", "pos": 449, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4343540", "doc": "http://twitter.com/", "row": 12, "column": 62, "tagName": "link", "time": 438.523603, "url": "http://api.twitter.com/", "pos": 511, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4343740", "doc": "http://twitter.com/", "row": 14, "column": 52, "tagName": "script", "time": 438.523639, "url": "(null)", "pos": 568, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4342a80", "doc": "http://twitter.com/", "row": 42, "column": 14, "tagName": "script", "time": 438.523752, "url": "(null)", "pos": 2473, "chunkLen": 32653, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4343cb0", "doc": "http://twitter.com/", "row": 45, "column": 36, "tagName": "script", "time": 438.550718, "url": "(null)", "pos": 2519, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4343930", "doc": "http://twitter.com/", "row": 45, "column": 4605, "tagName": "script", "time": 438.550924, "url": "(null)", "pos": 7088, "chunkLen": 32653, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4343ff0", "doc": "http://twitter.com/", "row": 46, "column": 36, "tagName": "script", "time": 438.552868, "url": "(null)", "pos": 7124, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4343dd0", "doc": "http://twitter.com/", "row": 47, "column": 14, "tagName": "script", "time": 438.552903, "url": "(null)", "pos": 7138, "chunkLen": 32653, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4344420", "doc": "http://twitter.com/", "row": 50, "column": 15, "tagName": "script", "time": 438.553156, "url": "(null)", "pos": 7163, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4344320", "doc": "http://twitter.com/", "row": 72, "column": 12, "tagName": "script", "time": 438.553193, "url": "(null)", "pos": 7793, "chunkLen": 32653, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43447b0", "doc": "http://twitter.com/", "row": 74, "column": 82, "tagName": "link", "time": 438.553506, "url": "http://twitter.com/favicons/favicon.ico", "pos": 7876, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4344af0", "doc": "http://twitter.com/", "row": 76, "column": 40, "tagName": "base", "time": 438.553603, "url": "(null)", "pos": 7921, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4344da0", "doc": "http://twitter.com/", "row": 79, "column": 142, "tagName": "link", "time": 438.553637, "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_core_logged_out.bundle.css", "pos": 8065, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4346450", "doc": "http://twitter.com/", "row": 82, "column": 59, "tagName": "link", "time": 438.554005, "url": "https://twitter.com/", "pos": 8126, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4344eb0", "doc": "http://twitter.com/", "row": 84, "column": 17, "tagName": "noscript", "time": 438.554038, "url": "(null)", "pos": 8144, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4344520", "doc": "http://twitter.com/", "row": 86, "column": 18, "tagName": "noscript", "time": 438.554064, "url": "(null)", "pos": 8239, "chunkLen": 32653, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43468b0", "doc": "http://twitter.com/", "row": 89, "column": 15, "tagName": "script", "time": 438.554071, "url": "(null)", "pos": 8256, "chunkLen": 32653, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4346930", "doc": "http://twitter.com/", "row": 89, "column": 375, "tagName": "script", "time": 438.554096, "url": "(null)", "pos": 8616, "chunkLen": 32653, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4348c80", "doc": "http://twitter.com/", "row": 92, "column": 125, "tagName": "link", "time": 439.048661, "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_more.bundle.css", "pos": 8743, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409e390", "doc": "http://twitter.com/", "row": 95, "column": 13, "tagName": "script", "time": 439.106213, "url": "(null)", "pos": 8758, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409e4c0", "doc": "http://twitter.com/", "row": 95, "column": 550, "tagName": "script", "time": 439.106252, "url": "(null)", "pos": 9295, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e720", "doc": "http://twitter.com/", "row": 97, "column": 10, "tagName": "head", "time": 439.106780, "url": "(null)", "pos": 9306, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e640", "doc": "http://twitter.com/", "row": 99, "column": 4, "tagName": "body", "time": 439.106799, "url": "(null)", "pos": 9376, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409ee80", "doc": "http://twitter.com/", "row": 100, "column": 19, "tagName": "div", "time": 439.106966, "url": "(null)", "pos": 9395, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f0a0", "doc": "http://twitter.com/", "row": 101, "column": 54, "tagName": "div", "time": 439.107016, "url": "(null)", "pos": 9449, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4359aa0", "doc": "http://twitter.com/", "row": 101, "column": 60, "tagName": "div", "time": 439.107176, "url": "(null)", "pos": 9455, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4385630", "doc": "http://twitter.com/", "row": 103, "column": 35, "tagName": "div", "time": 439.107200, "url": "(null)", "pos": 9495, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4361090", "doc": "http://twitter.com/", "row": 104, "column": 44, "tagName": "div", "time": 439.107255, "url": "(null)", "pos": 9539, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4365890", "doc": "http://twitter.com/", "row": 106, "column": 13, "tagName": "div", "time": 439.107309, "url": "(null)", "pos": 9561, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4395060", "doc": "http://twitter.com/", "row": 107, "column": 59, "tagName": "div", "time": 439.107323, "url": "(null)", "pos": 9620, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f4e0", "doc": "http://twitter.com/", "row": 108, "column": 39, "tagName": "div", "time": 439.107738, "url": "(null)", "pos": 9659, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409f920", "doc": "http://twitter.com/", "row": 109, "column": 34, "tagName": "div", "time": 439.107774, "url": "(null)", "pos": 9693, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4394030", "doc": "http://twitter.com/", "row": 112, "column": 47, "tagName": "ul", "time": 439.107843, "url": "(null)", "pos": 9758, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439de30", "doc": "http://twitter.com/", "row": 113, "column": 60, "tagName": "li", "time": 439.107915, "url": "(null)", "pos": 9818, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a78e0", "doc": "http://twitter.com/", "row": 114, "column": 70, "tagName": "a", "time": 439.107987, "url": "(null)", "pos": 9888, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bbe30", "doc": "http://twitter.com/", "row": 115, "column": 49, "tagName": "i", "time": 439.108120, "url": "(null)", "pos": 9937, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409fdc0", "doc": "http://twitter.com/", "row": 115, "column": 53, "tagName": "i", "time": 439.108397, "url": "(null)", "pos": 9941, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409fd10", "doc": "http://twitter.com/", "row": 116, "column": 23, "tagName": "a", "time": 439.108412, "url": "(null)", "pos": 9964, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409fd40", "doc": "http://twitter.com/", "row": 117, "column": 20, "tagName": "li", "time": 439.108422, "url": "(null)", "pos": 9984, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a0180", "doc": "http://twitter.com/", "row": 118, "column": 18, "tagName": "ul", "time": 439.108431, "url": "(null)", "pos": 10002, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a01d0", "doc": "http://twitter.com/", "row": 119, "column": 73, "tagName": "ul", "time": 439.108445, "url": "(null)", "pos": 10075, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a08d0", "doc": "http://twitter.com/", "row": 120, "column": 47, "tagName": "li", "time": 439.108505, "url": "(null)", "pos": 10122, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a0f90", "doc": "http://twitter.com/", "row": 121, "column": 103, "tagName": "a", "time": 439.108557, "url": "(null)", "pos": 10225, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bccb0", "doc": "http://twitter.com/", "row": 122, "column": 26, "tagName": "small", "time": 439.108661, "url": "(null)", "pos": 10251, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c2b20", "doc": "http://twitter.com/", "row": 122, "column": 50, "tagName": "small", "time": 439.108742, "url": "(null)", "pos": 10275, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c09c0", "doc": "http://twitter.com/", "row": 122, "column": 79, "tagName": "span", "time": 439.108757, "url": "(null)", "pos": 10304, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c8f90", "doc": "http://twitter.com/", "row": 122, "column": 86, "tagName": "span", "time": 439.108839, "url": "(null)", "pos": 10311, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43ae4e0", "doc": "http://twitter.com/", "row": 123, "column": 21, "tagName": "a", "time": 439.108853, "url": "(null)", "pos": 10332, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c89b0", "doc": "http://twitter.com/", "row": 124, "column": 127, "tagName": "a", "time": 439.108873, "url": "(null)", "pos": 10459, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c89e0", "doc": "http://twitter.com/", "row": 125, "column": 26, "tagName": "small", "time": 439.108957, "url": "(null)", "pos": 10485, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439cf80", "doc": "http://twitter.com/", "row": 125, "column": 49, "tagName": "small", "time": 439.108968, "url": "(null)", "pos": 10508, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439cfb0", "doc": "http://twitter.com/", "row": 125, "column": 73, "tagName": "span", "time": 439.108975, "url": "(null)", "pos": 10532, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439dcc0", "doc": "http://twitter.com/", "row": 125, "column": 99, "tagName": "span", "time": 439.108995, "url": "(null)", "pos": 10558, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43a7550", "doc": "http://twitter.com/", "row": 126, "column": 21, "tagName": "a", "time": 439.109003, "url": "(null)", "pos": 10579, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b6fe0", "doc": "http://twitter.com/", "row": 127, "column": 78, "tagName": "ul", "time": 439.109016, "url": "(null)", "pos": 10657, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439d6a0", "doc": "http://twitter.com/", "row": 128, "column": 52, "tagName": "li", "time": 439.109101, "url": "(null)", "pos": 10709, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c9930", "doc": "http://twitter.com/", "row": 129, "column": 47, "tagName": "span", "time": 439.109121, "url": "(null)", "pos": 10756, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b4080", "doc": "http://twitter.com/", "row": 129, "column": 54, "tagName": "span", "time": 439.109131, "url": "(null)", "pos": 10763, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b2ce0", "doc": "http://twitter.com/", "row": 130, "column": 47, "tagName": "span", "time": 439.109142, "url": "(null)", "pos": 10810, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439cec0", "doc": "http://twitter.com/", "row": 130, "column": 54, "tagName": "span", "time": 439.109153, "url": "(null)", "pos": 10817, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43ac9a0", "doc": "http://twitter.com/", "row": 131, "column": 24, "tagName": "li", "time": 439.109161, "url": "(null)", "pos": 10841, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439b2e0", "doc": "http://twitter.com/", "row": 132, "column": 23, "tagName": "li", "time": 439.109169, "url": "(null)", "pos": 10864, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bdd90", "doc": "http://twitter.com/", "row": 133, "column": 104, "tagName": "form", "time": 439.109189, "url": "(null)", "pos": 10968, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a4520", "doc": "http://twitter.com/", "row": 134, "column": 45, "tagName": "fieldset", "time": 439.109246, "url": "(null)", "pos": 11013, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439e430", "doc": "http://twitter.com/", "row": 135, "column": 41, "tagName": "label", "time": 439.109306, "url": "(null)", "pos": 11054, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c25e0", "doc": "http://twitter.com/", "row": 136, "column": 13, "tagName": "span", "time": 439.109321, "url": "(null)", "pos": 11067, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43aba70", "doc": "http://twitter.com/", "row": 136, "column": 37, "tagName": "span", "time": 439.109331, "url": "(null)", "pos": 11091, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43abaa0", "doc": "http://twitter.com/", "row": 137, "column": 116, "tagName": "input", "time": 439.109347, "url": "(null)", "pos": 11207, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439ec50", "doc": "http://twitter.com/", "row": 138, "column": 13, "tagName": "label", "time": 439.109508, "url": "(null)", "pos": 11220, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43a0ed0", "doc": "http://twitter.com/", "row": 139, "column": 41, "tagName": "label", "time": 439.109519, "url": "(null)", "pos": 11261, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439e360", "doc": "http://twitter.com/", "row": 140, "column": 13, "tagName": "span", "time": 439.109533, "url": "(null)", "pos": 11274, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a00b0", "doc": "http://twitter.com/", "row": 140, "column": 28, "tagName": "span", "time": 439.109543, "url": "(null)", "pos": 11289, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43a00e0", "doc": "http://twitter.com/", "row": 141, "column": 90, "tagName": "input", "time": 439.109556, "url": "(null)", "pos": 11379, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bdbf0", "doc": "http://twitter.com/", "row": 142, "column": 13, "tagName": "label", "time": 439.109795, "url": "(null)", "pos": 11392, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c2c10", "doc": "http://twitter.com/", "row": 143, "column": 14, "tagName": "fieldset", "time": 439.109804, "url": "(null)", "pos": 11406, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439aee0", "doc": "http://twitter.com/", "row": 144, "column": 29, "tagName": "fieldset", "time": 439.109814, "url": "(null)", "pos": 11435, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438f290", "doc": "http://twitter.com/", "row": 145, "column": 29, "tagName": "label", "time": 439.109832, "url": "(null)", "pos": 11464, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438e9c0", "doc": "http://twitter.com/", "row": 146, "column": 60, "tagName": "input", "time": 439.109851, "url": "(null)", "pos": 11524, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438fdf0", "doc": "http://twitter.com/", "row": 147, "column": 13, "tagName": "span", "time": 439.109881, "url": "(null)", "pos": 11537, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x434a5c0", "doc": "http://twitter.com/", "row": 147, "column": 31, "tagName": "span", "time": 439.109891, "url": "(null)", "pos": 11555, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439a270", "doc": "http://twitter.com/", "row": 148, "column": 13, "tagName": "label", "time": 439.109900, "url": "(null)", "pos": 11568, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43a38b0", "doc": "http://twitter.com/", "row": 149, "column": 46, "tagName": "button", "time": 439.109911, "url": "(null)", "pos": 11614, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bbd40", "doc": "http://twitter.com/", "row": 149, "column": 62, "tagName": "button", "time": 439.109941, "url": "(null)", "pos": 11630, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b76e0", "doc": "http://twitter.com/", "row": 150, "column": 14, "tagName": "fieldset", "time": 439.109949, "url": "(null)", "pos": 11644, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c4f50", "doc": "http://twitter.com/", "row": 152, "column": 42, "tagName": "input", "time": 439.109959, "url": "(null)", "pos": 11689, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b1ef0", "doc": "http://twitter.com/", "row": 153, "column": 61, "tagName": "input", "time": 439.109998, "url": "(null)", "pos": 11750, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a9960", "doc": "http://twitter.com/", "row": 154, "column": 100, "tagName": "input", "time": 439.110030, "url": "(null)", "pos": 11850, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ccd20", "doc": "http://twitter.com/", "row": 155, "column": 24, "tagName": "div", "time": 439.110057, "url": "(null)", "pos": 11874, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b46c0", "doc": "http://twitter.com/", "row": 155, "column": 30, "tagName": "div", "time": 439.110068, "url": "(null)", "pos": 11880, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b12d0", "doc": "http://twitter.com/", "row": 156, "column": 22, "tagName": "p", "time": 439.110076, "url": "(null)", "pos": 11902, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bc4a0", "doc": "http://twitter.com/", "row": 157, "column": 71, "tagName": "a", "time": 439.110101, "url": "(null)", "pos": 11973, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43cd5a0", "doc": "http://twitter.com/", "row": 157, "column": 91, "tagName": "a", "time": 439.110116, "url": "(null)", "pos": 11993, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cd5d0", "doc": "http://twitter.com/", "row": 157, "column": 97, "tagName": "br", "time": 439.110121, "url": "(null)", "pos": 11999, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438caa0", "doc": "http://twitter.com/", "row": 158, "column": 72, "tagName": "a", "time": 439.110137, "url": "(null)", "pos": 12071, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43880e0", "doc": "http://twitter.com/", "row": 158, "column": 115, "tagName": "a", "time": 439.110152, "url": "(null)", "pos": 12114, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388150", "doc": "http://twitter.com/", "row": 159, "column": 23, "tagName": "p", "time": 439.110160, "url": "(null)", "pos": 12137, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4373060", "doc": "http://twitter.com/", "row": 160, "column": 24, "tagName": "form", "time": 439.110168, "url": "(null)", "pos": 12161, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43730b0", "doc": "http://twitter.com/", "row": 161, "column": 20, "tagName": "li", "time": 439.110176, "url": "(null)", "pos": 12181, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x435dad0", "doc": "http://twitter.com/", "row": 162, "column": 22, "tagName": "ul", "time": 439.110184, "url": "(null)", "pos": 12203, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x435db60", "doc": "http://twitter.com/", "row": 163, "column": 20, "tagName": "li", "time": 439.110193, "url": "(null)", "pos": 12223, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4394b70", "doc": "http://twitter.com/", "row": 164, "column": 18, "tagName": "ul", "time": 439.110201, "url": "(null)", "pos": 12241, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4394740", "doc": "http://twitter.com/", "row": 168, "column": 61, "tagName": "ul", "time": 439.110215, "url": "(null)", "pos": 12325, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x438ef60", "doc": "http://twitter.com/", "row": 169, "column": 57, "tagName": "li", "time": 439.110268, "url": "(null)", "pos": 12382, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b65d0", "doc": "http://twitter.com/", "row": 170, "column": 64, "tagName": "a", "time": 439.110288, "url": "(null)", "pos": 12446, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439fbf0", "doc": "http://twitter.com/", "row": 171, "column": 26, "tagName": "small", "time": 439.110303, "url": "(null)", "pos": 12472, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43916c0", "doc": "http://twitter.com/", "row": 171, "column": 43, "tagName": "small", "time": 439.110314, "url": "(null)", "pos": 12489, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b2930", "doc": "http://twitter.com/", "row": 172, "column": 53, "tagName": "span", "time": 439.110324, "url": "(null)", "pos": 12542, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439c810", "doc": "http://twitter.com/", "row": 172, "column": 67, "tagName": "span", "time": 439.110337, "url": "(null)", "pos": 12556, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4395c00", "doc": "http://twitter.com/", "row": 173, "column": 36, "tagName": "b", "time": 439.110347, "url": "(null)", "pos": 12592, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c49b0", "doc": "http://twitter.com/", "row": 173, "column": 40, "tagName": "b", "time": 439.110356, "url": "(null)", "pos": 12596, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b82a0", "doc": "http://twitter.com/", "row": 174, "column": 21, "tagName": "a", "time": 439.110364, "url": "(null)", "pos": 12617, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b82f0", "doc": "http://twitter.com/", "row": 175, "column": 43, "tagName": "ul", "time": 439.110373, "url": "(null)", "pos": 12660, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b8260", "doc": "http://twitter.com/", "row": 176, "column": 52, "tagName": "li", "time": 439.110389, "url": "(null)", "pos": 12712, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c4a50", "doc": "http://twitter.com/", "row": 177, "column": 47, "tagName": "span", "time": 439.110404, "url": "(null)", "pos": 12759, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439ca60", "doc": "http://twitter.com/", "row": 177, "column": 54, "tagName": "span", "time": 439.110413, "url": "(null)", "pos": 12766, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43a7790", "doc": "http://twitter.com/", "row": 178, "column": 47, "tagName": "span", "time": 439.110423, "url": "(null)", "pos": 12813, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439c960", "doc": "http://twitter.com/", "row": 178, "column": 54, "tagName": "span", "time": 439.110432, "url": "(null)", "pos": 12820, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439c9d0", "doc": "http://twitter.com/", "row": 179, "column": 24, "tagName": "li", "time": 439.110440, "url": "(null)", "pos": 12844, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43ad5b0", "doc": "http://twitter.com/", "row": 180, "column": 25, "tagName": "li", "time": 439.110448, "url": "(null)", "pos": 12869, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ad4e0", "doc": "http://twitter.com/", "row": 180, "column": 108, "tagName": "a", "time": 439.110464, "url": "(null)", "pos": 12952, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4380e20", "doc": "http://twitter.com/", "row": 180, "column": 128, "tagName": "a", "time": 439.110479, "url": "(null)", "pos": 12972, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4380f50", "doc": "http://twitter.com/", "row": 180, "column": 133, "tagName": "li", "time": 439.110483, "url": "(null)", "pos": 12977, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4380fa0", "doc": "http://twitter.com/", "row": 181, "column": 25, "tagName": "li", "time": 439.110491, "url": "(null)", "pos": 13002, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4398890", "doc": "http://twitter.com/", "row": 181, "column": 105, "tagName": "a", "time": 439.110506, "url": "(null)", "pos": 13082, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4393dc0", "doc": "http://twitter.com/", "row": 181, "column": 122, "tagName": "a", "time": 439.110519, "url": "(null)", "pos": 13099, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4393e10", "doc": "http://twitter.com/", "row": 181, "column": 127, "tagName": "li", "time": 439.110523, "url": "(null)", "pos": 13104, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4398960", "doc": "http://twitter.com/", "row": 182, "column": 25, "tagName": "li", "time": 439.110531, "url": "(null)", "pos": 13129, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4398b90", "doc": "http://twitter.com/", "row": 182, "column": 104, "tagName": "a", "time": 439.110546, "url": "(null)", "pos": 13208, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4398ab0", "doc": "http://twitter.com/", "row": 182, "column": 113, "tagName": "a", "time": 439.110558, "url": "(null)", "pos": 13217, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4398b00", "doc": "http://twitter.com/", "row": 182, "column": 118, "tagName": "li", "time": 439.110562, "url": "(null)", "pos": 13222, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4398400", "doc": "http://twitter.com/", "row": 183, "column": 25, "tagName": "li", "time": 439.110572, "url": "(null)", "pos": 13247, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397bd0", "doc": "http://twitter.com/", "row": 183, "column": 104, "tagName": "a", "time": 439.110586, "url": "(null)", "pos": 13326, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397ea0", "doc": "http://twitter.com/", "row": 183, "column": 115, "tagName": "a", "time": 439.110599, "url": "(null)", "pos": 13337, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4398530", "doc": "http://twitter.com/", "row": 183, "column": 120, "tagName": "li", "time": 439.110603, "url": "(null)", "pos": 13342, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4398560", "doc": "http://twitter.com/", "row": 184, "column": 25, "tagName": "li", "time": 439.110611, "url": "(null)", "pos": 13367, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397ca0", "doc": "http://twitter.com/", "row": 184, "column": 105, "tagName": "a", "time": 439.110625, "url": "(null)", "pos": 13447, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4396b40", "doc": "http://twitter.com/", "row": 184, "column": 116, "tagName": "a", "time": 439.110638, "url": "(null)", "pos": 13458, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396c90", "doc": "http://twitter.com/", "row": 184, "column": 121, "tagName": "li", "time": 439.110642, "url": "(null)", "pos": 13463, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396b90", "doc": "http://twitter.com/", "row": 185, "column": 25, "tagName": "li", "time": 439.110650, "url": "(null)", "pos": 13488, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4396e30", "doc": "http://twitter.com/", "row": 185, "column": 104, "tagName": "a", "time": 439.110665, "url": "(null)", "pos": 13567, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4396d20", "doc": "http://twitter.com/", "row": 185, "column": 115, "tagName": "a", "time": 439.110678, "url": "(null)", "pos": 13578, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396d70", "doc": "http://twitter.com/", "row": 185, "column": 120, "tagName": "li", "time": 439.110682, "url": "(null)", "pos": 13583, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4388560", "doc": "http://twitter.com/", "row": 186, "column": 25, "tagName": "li", "time": 439.110689, "url": "(null)", "pos": 13608, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43971d0", "doc": "http://twitter.com/", "row": 186, "column": 108, "tagName": "a", "time": 439.110704, "url": "(null)", "pos": 13691, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397110", "doc": "http://twitter.com/", "row": 186, "column": 120, "tagName": "a", "time": 439.110717, "url": "(null)", "pos": 13703, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4397160", "doc": "http://twitter.com/", "row": 186, "column": 125, "tagName": "li", "time": 439.110721, "url": "(null)", "pos": 13708, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43972a0", "doc": "http://twitter.com/", "row": 187, "column": 25, "tagName": "li", "time": 439.110728, "url": "(null)", "pos": 13733, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397520", "doc": "http://twitter.com/", "row": 187, "column": 105, "tagName": "a", "time": 439.110743, "url": "(null)", "pos": 13813, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397440", "doc": "http://twitter.com/", "row": 187, "column": 117, "tagName": "a", "time": 439.110756, "url": "(null)", "pos": 13825, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4397490", "doc": "http://twitter.com/", "row": 187, "column": 122, "tagName": "li", "time": 439.110760, "url": "(null)", "pos": 13830, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43975f0", "doc": "http://twitter.com/", "row": 188, "column": 25, "tagName": "li", "time": 439.110768, "url": "(null)", "pos": 13855, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397870", "doc": "http://twitter.com/", "row": 188, "column": 107, "tagName": "a", "time": 439.110782, "url": "(null)", "pos": 13937, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4397760", "doc": "http://twitter.com/", "row": 188, "column": 117, "tagName": "a", "time": 439.110795, "url": "(null)", "pos": 13947, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43977d0", "doc": "http://twitter.com/", "row": 188, "column": 122, "tagName": "li", "time": 439.110799, "url": "(null)", "pos": 13952, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4397940", "doc": "http://twitter.com/", "row": 189, "column": 25, "tagName": "li", "time": 439.110806, "url": "(null)", "pos": 13977, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4396360", "doc": "http://twitter.com/", "row": 189, "column": 103, "tagName": "a", "time": 439.110820, "url": "(null)", "pos": 14055, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43962a0", "doc": "http://twitter.com/", "row": 189, "column": 117, "tagName": "a", "time": 439.110833, "url": "(null)", "pos": 14069, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43962f0", "doc": "http://twitter.com/", "row": 189, "column": 122, "tagName": "li", "time": 439.110837, "url": "(null)", "pos": 14074, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396430", "doc": "http://twitter.com/", "row": 190, "column": 25, "tagName": "li", "time": 439.110845, "url": "(null)", "pos": 14099, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43966b0", "doc": "http://twitter.com/", "row": 190, "column": 107, "tagName": "a", "time": 439.110859, "url": "(null)", "pos": 14181, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43965a0", "doc": "http://twitter.com/", "row": 190, "column": 116, "tagName": "a", "time": 439.110872, "url": "(null)", "pos": 14190, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396610", "doc": "http://twitter.com/", "row": 190, "column": 121, "tagName": "li", "time": 439.110876, "url": "(null)", "pos": 14195, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396780", "doc": "http://twitter.com/", "row": 191, "column": 25, "tagName": "li", "time": 439.110884, "url": "(null)", "pos": 14220, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43969c0", "doc": "http://twitter.com/", "row": 191, "column": 104, "tagName": "a", "time": 439.110897, "url": "(null)", "pos": 14299, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43909b0", "doc": "http://twitter.com/", "row": 191, "column": 114, "tagName": "a", "time": 439.110910, "url": "(null)", "pos": 14309, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396910", "doc": "http://twitter.com/", "row": 191, "column": 119, "tagName": "li", "time": 439.110915, "url": "(null)", "pos": 14314, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396960", "doc": "http://twitter.com/", "row": 192, "column": 25, "tagName": "li", "time": 439.110922, "url": "(null)", "pos": 14339, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4395dd0", "doc": "http://twitter.com/", "row": 192, "column": 108, "tagName": "a", "time": 439.110937, "url": "(null)", "pos": 14422, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43908a0", "doc": "http://twitter.com/", "row": 192, "column": 121, "tagName": "a", "time": 439.110950, "url": "(null)", "pos": 14435, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43908f0", "doc": "http://twitter.com/", "row": 192, "column": 126, "tagName": "li", "time": 439.110954, "url": "(null)", "pos": 14440, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396130", "doc": "http://twitter.com/", "row": 193, "column": 25, "tagName": "li", "time": 439.110962, "url": "(null)", "pos": 14465, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4395f30", "doc": "http://twitter.com/", "row": 193, "column": 105, "tagName": "a", "time": 439.110976, "url": "(null)", "pos": 14545, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4396050", "doc": "http://twitter.com/", "row": 193, "column": 114, "tagName": "a", "time": 439.110989, "url": "(null)", "pos": 14554, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43960c0", "doc": "http://twitter.com/", "row": 193, "column": 119, "tagName": "li", "time": 439.110993, "url": "(null)", "pos": 14559, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4395b10", "doc": "http://twitter.com/", "row": 194, "column": 25, "tagName": "li", "time": 439.111000, "url": "(null)", "pos": 14584, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43958f0", "doc": "http://twitter.com/", "row": 194, "column": 105, "tagName": "a", "time": 439.111015, "url": "(null)", "pos": 14664, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4395a60", "doc": "http://twitter.com/", "row": 194, "column": 116, "tagName": "a", "time": 439.111028, "url": "(null)", "pos": 14675, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4395ab0", "doc": "http://twitter.com/", "row": 194, "column": 121, "tagName": "li", "time": 439.111032, "url": "(null)", "pos": 14680, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43a79d0", "doc": "http://twitter.com/", "row": 195, "column": 25, "tagName": "li", "time": 439.111039, "url": "(null)", "pos": 14705, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a7c30", "doc": "http://twitter.com/", "row": 195, "column": 105, "tagName": "a", "time": 439.111054, "url": "(null)", "pos": 14785, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a7d20", "doc": "http://twitter.com/", "row": 195, "column": 115, "tagName": "a", "time": 439.111066, "url": "(null)", "pos": 14795, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43a7d90", "doc": "http://twitter.com/", "row": 195, "column": 120, "tagName": "li", "time": 439.111070, "url": "(null)", "pos": 14800, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b0e00", "doc": "http://twitter.com/", "row": 196, "column": 25, "tagName": "li", "time": 439.111078, "url": "(null)", "pos": 14825, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a7bb0", "doc": "http://twitter.com/", "row": 196, "column": 105, "tagName": "a", "time": 439.111094, "url": "(null)", "pos": 14905, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b1020", "doc": "http://twitter.com/", "row": 196, "column": 115, "tagName": "a", "time": 439.111107, "url": "(null)", "pos": 14915, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4397030", "doc": "http://twitter.com/", "row": 196, "column": 120, "tagName": "li", "time": 439.111111, "url": "(null)", "pos": 14920, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x4396ee0", "doc": "http://twitter.com/", "row": 197, "column": 25, "tagName": "li", "time": 439.111119, "url": "(null)", "pos": 14945, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ca100", "doc": "http://twitter.com/", "row": 197, "column": 104, "tagName": "a", "time": 439.111133, "url": "(null)", "pos": 15024, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ca350", "doc": "http://twitter.com/", "row": 197, "column": 116, "tagName": "a", "time": 439.111146, "url": "(null)", "pos": 15036, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b0f10", "doc": "http://twitter.com/", "row": 197, "column": 121, "tagName": "li", "time": 439.111150, "url": "(null)", "pos": 15041, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b0f60", "doc": "http://twitter.com/", "row": 198, "column": 25, "tagName": "li", "time": 439.111157, "url": "(null)", "pos": 15066, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ca220", "doc": "http://twitter.com/", "row": 198, "column": 103, "tagName": "a", "time": 439.111171, "url": "(null)", "pos": 15144, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c9100", "doc": "http://twitter.com/", "row": 198, "column": 114, "tagName": "a", "time": 439.111185, "url": "(null)", "pos": 15155, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c9150", "doc": "http://twitter.com/", "row": 198, "column": 119, "tagName": "li", "time": 439.111189, "url": "(null)", "pos": 15160, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c91a0", "doc": "http://twitter.com/", "row": 199, "column": 25, "tagName": "li", "time": 439.111196, "url": "(null)", "pos": 15185, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43c9270", "doc": "http://twitter.com/", "row": 199, "column": 103, "tagName": "a", "time": 439.111210, "url": "(null)", "pos": 15263, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b3320", "doc": "http://twitter.com/", "row": 199, "column": 115, "tagName": "a", "time": 439.111223, "url": "(null)", "pos": 15275, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c92c0", "doc": "http://twitter.com/", "row": 199, "column": 120, "tagName": "li", "time": 439.111227, "url": "(null)", "pos": 15280, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43c9310", "doc": "http://twitter.com/", "row": 200, "column": 25, "tagName": "li", "time": 439.111235, "url": "(null)", "pos": 15305, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b33d0", "doc": "http://twitter.com/", "row": 200, "column": 105, "tagName": "a", "time": 439.111249, "url": "(null)", "pos": 15385, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b3750", "doc": "http://twitter.com/", "row": 200, "column": 116, "tagName": "a", "time": 439.111263, "url": "(null)", "pos": 15396, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b37a0", "doc": "http://twitter.com/", "row": 200, "column": 121, "tagName": "li", "time": 439.111266, "url": "(null)", "pos": 15401, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b34d0", "doc": "http://twitter.com/", "row": 201, "column": 25, "tagName": "li", "time": 439.111274, "url": "(null)", "pos": 15426, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b3670", "doc": "http://twitter.com/", "row": 201, "column": 107, "tagName": "a", "time": 439.111288, "url": "(null)", "pos": 15508, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ae6d0", "doc": "http://twitter.com/", "row": 201, "column": 126, "tagName": "a", "time": 439.111301, "url": "(null)", "pos": 15527, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43ae720", "doc": "http://twitter.com/", "row": 201, "column": 131, "tagName": "li", "time": 439.111305, "url": "(null)", "pos": 15532, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43ae770", "doc": "http://twitter.com/", "row": 202, "column": 25, "tagName": "li", "time": 439.111313, "url": "(null)", "pos": 15557, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b09a0", "doc": "http://twitter.com/", "row": 202, "column": 104, "tagName": "a", "time": 439.111327, "url": "(null)", "pos": 15636, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b0890", "doc": "http://twitter.com/", "row": 202, "column": 116, "tagName": "a", "time": 439.111341, "url": "(null)", "pos": 15648, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b08e0", "doc": "http://twitter.com/", "row": 202, "column": 121, "tagName": "li", "time": 439.111345, "url": "(null)", "pos": 15653, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b0730", "doc": "http://twitter.com/", "row": 203, "column": 25, "tagName": "li", "time": 439.111353, "url": "(null)", "pos": 15678, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439c260", "doc": "http://twitter.com/", "row": 203, "column": 102, "tagName": "a", "time": 439.111367, "url": "(null)", "pos": 15755, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439c380", "doc": "http://twitter.com/", "row": 203, "column": 110, "tagName": "a", "time": 439.111380, "url": "(null)", "pos": 15763, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439c140", "doc": "http://twitter.com/", "row": 203, "column": 115, "tagName": "li", "time": 439.111384, "url": "(null)", "pos": 15768, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439c190", "doc": "http://twitter.com/", "row": 204, "column": 25, "tagName": "li", "time": 439.111392, "url": "(null)", "pos": 15793, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bbc10", "doc": "http://twitter.com/", "row": 204, "column": 104, "tagName": "a", "time": 439.111406, "url": "(null)", "pos": 15872, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439ed30", "doc": "http://twitter.com/", "row": 204, "column": 115, "tagName": "a", "time": 439.111419, "url": "(null)", "pos": 15883, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43bbae0", "doc": "http://twitter.com/", "row": 204, "column": 120, "tagName": "li", "time": 439.111423, "url": "(null)", "pos": 15888, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43bbb30", "doc": "http://twitter.com/", "row": 205, "column": 25, "tagName": "li", "time": 439.111430, "url": "(null)", "pos": 15913, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439ed90", "doc": "http://twitter.com/", "row": 205, "column": 103, "tagName": "a", "time": 439.111444, "url": "(null)", "pos": 15991, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b8f50", "doc": "http://twitter.com/", "row": 205, "column": 112, "tagName": "a", "time": 439.111457, "url": "(null)", "pos": 16000, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b8fc0", "doc": "http://twitter.com/", "row": 205, "column": 117, "tagName": "li", "time": 439.111461, "url": "(null)", "pos": 16005, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439eeb0", "doc": "http://twitter.com/", "row": 206, "column": 25, "tagName": "li", "time": 439.111469, "url": "(null)", "pos": 16030, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b8da0", "doc": "http://twitter.com/", "row": 206, "column": 103, "tagName": "a", "time": 439.111483, "url": "(null)", "pos": 16108, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a14f0", "doc": "http://twitter.com/", "row": 206, "column": 113, "tagName": "a", "time": 439.111496, "url": "(null)", "pos": 16118, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b8e60", "doc": "http://twitter.com/", "row": 206, "column": 118, "tagName": "li", "time": 439.111500, "url": "(null)", "pos": 16123, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43b8e90", "doc": "http://twitter.com/", "row": 207, "column": 25, "tagName": "li", "time": 439.111508, "url": "(null)", "pos": 16148, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43a1470", "doc": "http://twitter.com/", "row": 207, "column": 102, "tagName": "a", "time": 439.111521, "url": "(null)", "pos": 16225, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bdf30", "doc": "http://twitter.com/", "row": 207, "column": 113, "tagName": "a", "time": 439.111542, "url": "(null)", "pos": 16236, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43be060", "doc": "http://twitter.com/", "row": 207, "column": 118, "tagName": "li", "time": 439.111547, "url": "(null)", "pos": 16241, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43be0b0", "doc": "http://twitter.com/", "row": 208, "column": 25, "tagName": "li", "time": 439.111555, "url": "(null)", "pos": 16266, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43bdf00", "doc": "http://twitter.com/", "row": 208, "column": 106, "tagName": "a", "time": 439.111570, "url": "(null)", "pos": 16347, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43cd220", "doc": "http://twitter.com/", "row": 208, "column": 113, "tagName": "a", "time": 439.111589, "url": "(null)", "pos": 16354, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cd120", "doc": "http://twitter.com/", "row": 208, "column": 118, "tagName": "li", "time": 439.111593, "url": "(null)", "pos": 16359, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cd170", "doc": "http://twitter.com/", "row": 209, "column": 25, "tagName": "li", "time": 439.111602, "url": "(null)", "pos": 16384, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43cd300", "doc": "http://twitter.com/", "row": 209, "column": 122, "tagName": "a", "time": 439.111617, "url": "(null)", "pos": 16481, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43af5b0", "doc": "http://twitter.com/", "row": 209, "column": 130, "tagName": "a", "time": 439.111630, "url": "(null)", "pos": 16489, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43af620", "doc": "http://twitter.com/", "row": 209, "column": 135, "tagName": "li", "time": 439.111635, "url": "(null)", "pos": 16494, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43af6b0", "doc": "http://twitter.com/", "row": 210, "column": 25, "tagName": "li", "time": 439.111642, "url": "(null)", "pos": 16519, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43af920", "doc": "http://twitter.com/", "row": 210, "column": 123, "tagName": "a", "time": 439.111658, "url": "(null)", "pos": 16617, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439a840", "doc": "http://twitter.com/", "row": 210, "column": 131, "tagName": "a", "time": 439.111671, "url": "(null)", "pos": 16625, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439a8b0", "doc": "http://twitter.com/", "row": 210, "column": 136, "tagName": "li", "time": 439.111675, "url": "(null)", "pos": 16630, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43af7d0", "doc": "http://twitter.com/", "row": 211, "column": 25, "tagName": "li", "time": 439.111683, "url": "(null)", "pos": 16655, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439a7b0", "doc": "http://twitter.com/", "row": 211, "column": 104, "tagName": "a", "time": 439.111696, "url": "(null)", "pos": 16734, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439a6c0", "doc": "http://twitter.com/", "row": 211, "column": 111, "tagName": "a", "time": 439.111709, "url": "(null)", "pos": 16741, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439a6f0", "doc": "http://twitter.com/", "row": 211, "column": 116, "tagName": "li", "time": 439.111713, "url": "(null)", "pos": 16746, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439aad0", "doc": "http://twitter.com/", "row": 212, "column": 22, "tagName": "ul", "time": 439.111721, "url": "(null)", "pos": 16768, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x439acb0", "doc": "http://twitter.com/", "row": 213, "column": 48, "tagName": "div", "time": 439.111731, "url": "(null)", "pos": 16816, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439abb0", "doc": "http://twitter.com/", "row": 214, "column": 89, "tagName": "form", "time": 439.111750, "url": "(null)", "pos": 16905, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b14a0", "doc": "http://twitter.com/", "row": 215, "column": 54, "tagName": "input", "time": 439.111768, "url": "(null)", "pos": 16959, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43b1560", "doc": "http://twitter.com/", "row": 216, "column": 58, "tagName": "input", "time": 439.111800, "url": "(null)", "pos": 17017, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43cdcd0", "doc": "http://twitter.com/", "row": 217, "column": 117, "tagName": "input", "time": 439.111831, "url": "(null)", "pos": 17134, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43cdd10", "doc": "http://twitter.com/", "row": 218, "column": 26, "tagName": "form", "time": 439.111869, "url": "(null)", "pos": 17160, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43ce010", "doc": "http://twitter.com/", "row": 219, "column": 23, "tagName": "div", "time": 439.111878, "url": "(null)", "pos": 17183, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cd7f0", "doc": "http://twitter.com/", "row": 220, "column": 20, "tagName": "li", "time": 439.111886, "url": "(null)", "pos": 17203, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cd880", "doc": "http://twitter.com/", "row": 221, "column": 18, "tagName": "ul", "time": 439.111893, "url": "(null)", "pos": 17221, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43ce250", "doc": "http://twitter.com/", "row": 223, "column": 37, "tagName": "div", "time": 439.111904, "url": "(null)", "pos": 17271, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ce530", "doc": "http://twitter.com/", "row": 224, "column": 97, "tagName": "form", "time": 439.111945, "url": "(null)", "pos": 17368, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ce950", "doc": "http://twitter.com/", "row": 225, "column": 56, "tagName": "span", "time": 439.112001, "url": "(null)", "pos": 17424, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ced60", "doc": "http://twitter.com/", "row": 226, "column": 50, "tagName": "i", "time": 439.112043, "url": "(null)", "pos": 17474, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43cf260", "doc": "http://twitter.com/", "row": 226, "column": 54, "tagName": "i", "time": 439.112095, "url": "(null)", "pos": 17478, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cf2b0", "doc": "http://twitter.com/", "row": 227, "column": 20, "tagName": "span", "time": 439.112109, "url": "(null)", "pos": 17498, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cf3e0", "doc": "http://twitter.com/", "row": 228, "column": 63, "tagName": "label", "time": 439.112124, "url": "(null)", "pos": 17561, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43cf790", "doc": "http://twitter.com/", "row": 228, "column": 77, "tagName": "label", "time": 439.112174, "url": "(null)", "pos": 17575, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cf880", "doc": "http://twitter.com/", "row": 229, "column": 154, "tagName": "input", "time": 439.112195, "url": "(null)", "pos": 17729, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d5310", "doc": "http://twitter.com/", "row": 230, "column": 155, "tagName": "input", "time": 439.138016, "url": "(null)", "pos": 17884, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d5910", "doc": "http://twitter.com/", "row": 231, "column": 18, "tagName": "form", "time": 439.138372, "url": "(null)", "pos": 17902, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43cf440", "doc": "http://twitter.com/", "row": 232, "column": 15, "tagName": "div", "time": 439.138385, "url": "(null)", "pos": 17917, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d73f0", "doc": "http://twitter.com/", "row": 235, "column": 122, "tagName": "a", "time": 439.138405, "url": "(null)", "pos": 18057, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d7780", "doc": "http://twitter.com/", "row": 236, "column": 38, "tagName": "i", "time": 439.138466, "url": "(null)", "pos": 18095, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d72b0", "doc": "http://twitter.com/", "row": 236, "column": 42, "tagName": "i", "time": 439.138477, "url": "(null)", "pos": 18099, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d7320", "doc": "http://twitter.com/", "row": 237, "column": 17, "tagName": "a", "time": 439.138486, "url": "(null)", "pos": 18116, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d7850", "doc": "http://twitter.com/", "row": 238, "column": 17, "tagName": "div", "time": 439.138494, "url": "(null)", "pos": 18133, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d78d0", "doc": "http://twitter.com/", "row": 239, "column": 15, "tagName": "div", "time": 439.138503, "url": "(null)", "pos": 18148, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d7a30", "doc": "http://twitter.com/", "row": 240, "column": 13, "tagName": "div", "time": 439.138510, "url": "(null)", "pos": 18161, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d7940", "doc": "http://twitter.com/", "row": 241, "column": 58, "tagName": "div", "time": 439.138523, "url": "(null)", "pos": 18219, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d7e80", "doc": "http://twitter.com/", "row": 242, "column": 11, "tagName": "div", "time": 439.138573, "url": "(null)", "pos": 18230, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d7f90", "doc": "http://twitter.com/", "row": 243, "column": 7, "tagName": "div", "time": 439.138582, "url": "(null)", "pos": 18237, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d8000", "doc": "http://twitter.com/", "row": 244, "column": 26, "tagName": "div", "time": 439.138592, "url": "(null)", "pos": 18263, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d7b70", "doc": "http://twitter.com/", "row": 245, "column": 93, "tagName": "div", "time": 439.138627, "url": "(null)", "pos": 18356, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x4382c60", "doc": "http://twitter.com/", "row": 246, "column": 23, "tagName": "noscript", "time": 439.138711, "url": "(null)", "pos": 18379, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ca010", "doc": "http://twitter.com/", "row": 251, "column": 24, "tagName": "noscript", "time": 439.138742, "url": "(null)", "pos": 18699, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d8a10", "doc": "http://twitter.com/", "row": 253, "column": 67, "tagName": "div", "time": 439.138755, "url": "(null)", "pos": 18777, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d7c00", "doc": "http://twitter.com/", "row": 254, "column": 19, "tagName": "h3", "time": 439.138769, "url": "(null)", "pos": 18796, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d8b20", "doc": "http://twitter.com/", "row": 254, "column": 70, "tagName": "h3", "time": 439.138781, "url": "(null)", "pos": 18847, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d8240", "doc": "http://twitter.com/", "row": 255, "column": 18, "tagName": "p", "time": 439.138790, "url": "(null)", "pos": 18865, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d8d10", "doc": "http://twitter.com/", "row": 255, "column": 90, "tagName": "p", "time": 439.138802, "url": "(null)", "pos": 18937, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d8d40", "doc": "http://twitter.com/", "row": 256, "column": 19, "tagName": "div", "time": 439.138810, "url": "(null)", "pos": 18956, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d8f40", "doc": "http://twitter.com/", "row": 258, "column": 35, "tagName": "div", "time": 439.138820, "url": "(null)", "pos": 19002, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d8c20", "doc": "http://twitter.com/", "row": 259, "column": 116, "tagName": "img", "time": 439.138848, "url": "(null)", "pos": 19118, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d9cf0", "doc": "http://twitter.com/", "row": 260, "column": 19, "tagName": "div", "time": 439.139098, "url": "(null)", "pos": 19137, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x409e470", "doc": "http://twitter.com/", "row": 263, "column": 37, "tagName": "div", "time": 439.139133, "url": "(null)", "pos": 19196, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a4840", "doc": "http://twitter.com/", "row": 264, "column": 44, "tagName": "div", "time": 439.139157, "url": "(null)", "pos": 19240, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a7a10", "doc": "http://twitter.com/", "row": 265, "column": 51, "tagName": "div", "time": 439.139175, "url": "(null)", "pos": 19291, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d9100", "doc": "http://twitter.com/", "row": 266, "column": 25, "tagName": "h1", "time": 439.139237, "url": "(null)", "pos": 19316, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d9390", "doc": "http://twitter.com/", "row": 266, "column": 49, "tagName": "h1", "time": 439.139250, "url": "(null)", "pos": 19340, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d93e0", "doc": "http://twitter.com/", "row": 267, "column": 24, "tagName": "p", "time": 439.139259, "url": "(null)", "pos": 19364, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d8ea0", "doc": "http://twitter.com/", "row": 267, "column": 121, "tagName": "p", "time": 439.139324, "url": "(null)", "pos": 19461, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d97e0", "doc": "http://twitter.com/", "row": 268, "column": 25, "tagName": "div", "time": 439.139335, "url": "(null)", "pos": 19486, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d9e70", "doc": "http://twitter.com/", "row": 269, "column": 23, "tagName": "div", "time": 439.139343, "url": "(null)", "pos": 19509, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43d98e0", "doc": "http://twitter.com/", "row": 273, "column": 59, "tagName": "div", "time": 439.139356, "url": "(null)", "pos": 19601, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d9ae0", "doc": "http://twitter.com/", "row": 275, "column": 92, "tagName": "form", "time": 439.139380, "url": "(null)", "pos": 19712, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43d99e0", "doc": "http://twitter.com/", "row": 276, "column": 62, "tagName": "div", "time": 439.139409, "url": "(null)", "pos": 19774, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43da240", "doc": "http://twitter.com/", "row": 277, "column": 162, "tagName": "input", "time": 439.139437, "url": "(null)", "pos": 19936, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43da0e0", "doc": "http://twitter.com/", "row": 278, "column": 51, "tagName": "span", "time": 439.139480, "url": "(null)", "pos": 19987, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43da810", "doc": "http://twitter.com/", "row": 278, "column": 75, "tagName": "span", "time": 439.139504, "url": "(null)", "pos": 20011, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43da880", "doc": "http://twitter.com/", "row": 279, "column": 27, "tagName": "div", "time": 439.139513, "url": "(null)", "pos": 20038, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43da770", "doc": "http://twitter.com/", "row": 281, "column": 63, "tagName": "table", "time": 439.139525, "url": "(null)", "pos": 20112, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43da9e0", "doc": "http://twitter.com/", "row": 282, "column": 30, "tagName": "tbody", "time": 439.139554, "url": "(null)", "pos": 20142, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dac20", "doc": "http://twitter.com/", "row": 283, "column": 29, "tagName": "tr", "time": 439.139575, "url": "(null)", "pos": 20171, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dad00", "doc": "http://twitter.com/", "row": 284, "column": 58, "tagName": "td", "time": 439.139589, "url": "(null)", "pos": 20229, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43daaa0", "doc": "http://twitter.com/", "row": 285, "column": 86, "tagName": "div", "time": 439.139622, "url": "(null)", "pos": 20315, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dab00", "doc": "http://twitter.com/", "row": 286, "column": 143, "tagName": "input", "time": 439.139654, "url": "(null)", "pos": 20458, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43db190", "doc": "http://twitter.com/", "row": 287, "column": 57, "tagName": "span", "time": 439.140057, "url": "(null)", "pos": 20515, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43db550", "doc": "http://twitter.com/", "row": 287, "column": 72, "tagName": "span", "time": 439.140071, "url": "(null)", "pos": 20530, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43db730", "doc": "http://twitter.com/", "row": 288, "column": 35, "tagName": "div", "time": 439.140082, "url": "(null)", "pos": 20565, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43db620", "doc": "http://twitter.com/", "row": 289, "column": 32, "tagName": "td", "time": 439.140090, "url": "(null)", "pos": 20597, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43db6f0", "doc": "http://twitter.com/", "row": 290, "column": 60, "tagName": "td", "time": 439.140099, "url": "(null)", "pos": 20657, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43db6a0", "doc": "http://twitter.com/", "row": 291, "column": 118, "tagName": "button", "time": 439.140124, "url": "(null)", "pos": 20775, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dbde0", "doc": "http://twitter.com/", "row": 294, "column": 38, "tagName": "button", "time": 439.140152, "url": "(null)", "pos": 20882, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dba10", "doc": "http://twitter.com/", "row": 295, "column": 32, "tagName": "td", "time": 439.140161, "url": "(null)", "pos": 20914, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dbe60", "doc": "http://twitter.com/", "row": 296, "column": 30, "tagName": "tr", "time": 439.140167, "url": "(null)", "pos": 20944, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dbfe0", "doc": "http://twitter.com/", "row": 297, "column": 31, "tagName": "tbody", "time": 439.140184, "url": "(null)", "pos": 20975, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dbd00", "doc": "http://twitter.com/", "row": 298, "column": 29, "tagName": "table", "time": 439.140194, "url": "(null)", "pos": 21004, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dbe10", "doc": "http://twitter.com/", "row": 300, "column": 50, "tagName": "div", "time": 439.140209, "url": "(null)", "pos": 21065, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dbf50", "doc": "http://twitter.com/", "row": 301, "column": 47, "tagName": "label", "time": 439.140256, "url": "(null)", "pos": 21112, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dc080", "doc": "http://twitter.com/", "row": 302, "column": 88, "tagName": "input", "time": 439.140282, "url": "(null)", "pos": 21200, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dc4d0", "doc": "http://twitter.com/", "row": 303, "column": 31, "tagName": "span", "time": 439.140317, "url": "(null)", "pos": 21231, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dc5f0", "doc": "http://twitter.com/", "row": 303, "column": 49, "tagName": "span", "time": 439.140328, "url": "(null)", "pos": 21249, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dc640", "doc": "http://twitter.com/", "row": 304, "column": 31, "tagName": "label", "time": 439.140337, "url": "(null)", "pos": 21280, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dc6b0", "doc": "http://twitter.com/", "row": 305, "column": 47, "tagName": "span", "time": 439.140350, "url": "(null)", "pos": 21327, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dc1b0", "doc": "http://twitter.com/", "row": 305, "column": 62, "tagName": "span", "time": 439.140369, "url": "(null)", "pos": 21342, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dc8b0", "doc": "http://twitter.com/", "row": 306, "column": 73, "tagName": "a", "time": 439.140382, "url": "(null)", "pos": 21415, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dc800", "doc": "http://twitter.com/", "row": 306, "column": 93, "tagName": "a", "time": 439.140398, "url": "(null)", "pos": 21435, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dcae0", "doc": "http://twitter.com/", "row": 307, "column": 27, "tagName": "div", "time": 439.140407, "url": "(null)", "pos": 21462, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dcba0", "doc": "http://twitter.com/", "row": 310, "column": 60, "tagName": "input", "time": 439.140419, "url": "(null)", "pos": 21544, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dce20", "doc": "http://twitter.com/", "row": 311, "column": 79, "tagName": "input", "time": 439.140451, "url": "(null)", "pos": 21623, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dd0e0", "doc": "http://twitter.com/", "row": 312, "column": 118, "tagName": "input", "time": 439.140493, "url": "(null)", "pos": 21741, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dd120", "doc": "http://twitter.com/", "row": 313, "column": 26, "tagName": "form", "time": 439.140520, "url": "(null)", "pos": 21767, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dd410", "doc": "http://twitter.com/", "row": 314, "column": 23, "tagName": "div", "time": 439.140530, "url": "(null)", "pos": 21790, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dcd40", "doc": "http://twitter.com/", "row": 316, "column": 59, "tagName": "div", "time": 439.140541, "url": "(null)", "pos": 21860, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dd5a0", "doc": "http://twitter.com/", "row": 317, "column": 23, "tagName": "h2", "time": 439.140557, "url": "(null)", "pos": 21883, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dd7b0", "doc": "http://twitter.com/", "row": 317, "column": 31, "tagName": "strong", "time": 439.140565, "url": "(null)", "pos": 21891, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dd8d0", "doc": "http://twitter.com/", "row": 317, "column": 55, "tagName": "strong", "time": 439.140576, "url": "(null)", "pos": 21915, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dd9a0", "doc": "http://twitter.com/", "row": 317, "column": 68, "tagName": "h2", "time": 439.140584, "url": "(null)", "pos": 21928, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dd780", "doc": "http://twitter.com/", "row": 319, "column": 90, "tagName": "form", "time": 439.140597, "url": "(null)", "pos": 22029, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ddaf0", "doc": "http://twitter.com/", "row": 320, "column": 53, "tagName": "div", "time": 439.140616, "url": "(null)", "pos": 22082, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ddc70", "doc": "http://twitter.com/", "row": 321, "column": 113, "tagName": "input", "time": 439.140637, "url": "(null)", "pos": 22195, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dde60", "doc": "http://twitter.com/", "row": 322, "column": 49, "tagName": "span", "time": 439.140679, "url": "(null)", "pos": 22244, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43de210", "doc": "http://twitter.com/", "row": 322, "column": 65, "tagName": "span", "time": 439.140691, "url": "(null)", "pos": 22260, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43de280", "doc": "http://twitter.com/", "row": 323, "column": 27, "tagName": "div", "time": 439.140700, "url": "(null)", "pos": 22287, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43de340", "doc": "http://twitter.com/", "row": 324, "column": 53, "tagName": "div", "time": 439.140710, "url": "(null)", "pos": 22340, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43de5f0", "doc": "http://twitter.com/", "row": 325, "column": 111, "tagName": "input", "time": 439.140730, "url": "(null)", "pos": 22451, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43de8e0", "doc": "http://twitter.com/", "row": 326, "column": 49, "tagName": "span", "time": 439.140759, "url": "(null)", "pos": 22500, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dea40", "doc": "http://twitter.com/", "row": 326, "column": 61, "tagName": "span", "time": 439.140771, "url": "(null)", "pos": 22512, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43deab0", "doc": "http://twitter.com/", "row": 327, "column": 27, "tagName": "div", "time": 439.140779, "url": "(null)", "pos": 22539, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43de650", "doc": "http://twitter.com/", "row": 328, "column": 53, "tagName": "div", "time": 439.140789, "url": "(null)", "pos": 22592, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43de6e0", "doc": "http://twitter.com/", "row": 329, "column": 92, "tagName": "input", "time": 439.140807, "url": "(null)", "pos": 22684, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43ded70", "doc": "http://twitter.com/", "row": 330, "column": 49, "tagName": "span", "time": 439.140850, "url": "(null)", "pos": 22733, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43df040", "doc": "http://twitter.com/", "row": 330, "column": 64, "tagName": "span", "time": 439.140862, "url": "(null)", "pos": 22748, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43df090", "doc": "http://twitter.com/", "row": 331, "column": 27, "tagName": "div", "time": 439.140870, "url": "(null)", "pos": 22775, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43df170", "doc": "http://twitter.com/", "row": 333, "column": 71, "tagName": "input", "time": 439.140883, "url": "(null)", "pos": 22857, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43df500", "doc": "http://twitter.com/", "row": 334, "column": 117, "tagName": "input", "time": 439.140916, "url": "(null)", "pos": 22974, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43df540", "doc": "http://twitter.com/", "row": 335, "column": 66, "tagName": "button", "time": 439.140949, "url": "(null)", "pos": 23040, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43df3b0", "doc": "http://twitter.com/", "row": 337, "column": 30, "tagName": "button", "time": 439.140970, "url": "(null)", "pos": 23112, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43df420", "doc": "http://twitter.com/", "row": 338, "column": 26, "tagName": "form", "time": 439.140978, "url": "(null)", "pos": 23138, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dfb40", "doc": "http://twitter.com/", "row": 339, "column": 23, "tagName": "div", "time": 439.140986, "url": "(null)", "pos": 23161, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dfcd0", "doc": "http://twitter.com/", "row": 341, "column": 19, "tagName": "div", "time": 439.140995, "url": "(null)", "pos": 23191, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43dfbe0", "doc": "http://twitter.com/", "row": 343, "column": 45, "tagName": "div", "time": 439.141005, "url": "(null)", "pos": 23247, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dfae0", "doc": "http://twitter.com/", "row": 344, "column": 9, "tagName": "ul", "time": 439.141026, "url": "(null)", "pos": 23256, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dfe80", "doc": "http://twitter.com/", "row": 345, "column": 11, "tagName": "li", "time": 439.141046, "url": "(null)", "pos": 23267, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dff90", "doc": "http://twitter.com/", "row": 345, "column": 28, "tagName": "a", "time": 439.141060, "url": "(null)", "pos": 23284, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43dfdd0", "doc": "http://twitter.com/", "row": 345, "column": 37, "tagName": "a", "time": 439.141072, "url": "(null)", "pos": 23293, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0030", "doc": "http://twitter.com/", "row": 345, "column": 63, "tagName": "span", "time": 439.141079, "url": "(null)", "pos": 23319, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0170", "doc": "http://twitter.com/", "row": 345, "column": 79, "tagName": "span", "time": 439.141095, "url": "(null)", "pos": 23335, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e01f0", "doc": "http://twitter.com/", "row": 345, "column": 84, "tagName": "li", "time": 439.141099, "url": "(null)", "pos": 23340, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0350", "doc": "http://twitter.com/", "row": 346, "column": 11, "tagName": "li", "time": 439.141106, "url": "(null)", "pos": 23351, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0270", "doc": "http://twitter.com/", "row": 346, "column": 43, "tagName": "a", "time": 439.141117, "url": "(null)", "pos": 23383, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0580", "doc": "http://twitter.com/", "row": 346, "column": 51, "tagName": "a", "time": 439.141148, "url": "(null)", "pos": 23391, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0410", "doc": "http://twitter.com/", "row": 346, "column": 77, "tagName": "span", "time": 439.141155, "url": "(null)", "pos": 23417, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0720", "doc": "http://twitter.com/", "row": 346, "column": 93, "tagName": "span", "time": 439.141171, "url": "(null)", "pos": 23433, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0770", "doc": "http://twitter.com/", "row": 346, "column": 98, "tagName": "li", "time": 439.141175, "url": "(null)", "pos": 23438, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e07c0", "doc": "http://twitter.com/", "row": 347, "column": 11, "tagName": "li", "time": 439.141182, "url": "(null)", "pos": 23449, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e08e0", "doc": "http://twitter.com/", "row": 347, "column": 45, "tagName": "a", "time": 439.141193, "url": "(null)", "pos": 23483, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0a00", "doc": "http://twitter.com/", "row": 347, "column": 53, "tagName": "a", "time": 439.141214, "url": "(null)", "pos": 23491, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e05f0", "doc": "http://twitter.com/", "row": 347, "column": 79, "tagName": "span", "time": 439.141221, "url": "(null)", "pos": 23517, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0a80", "doc": "http://twitter.com/", "row": 347, "column": 95, "tagName": "span", "time": 439.141235, "url": "(null)", "pos": 23533, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0bf0", "doc": "http://twitter.com/", "row": 347, "column": 100, "tagName": "li", "time": 439.141239, "url": "(null)", "pos": 23538, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0b20", "doc": "http://twitter.com/", "row": 348, "column": 13, "tagName": "li", "time": 439.141246, "url": "(null)", "pos": 23551, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0d40", "doc": "http://twitter.com/", "row": 348, "column": 33, "tagName": "a", "time": 439.141256, "url": "(null)", "pos": 23571, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0e60", "doc": "http://twitter.com/", "row": 348, "column": 43, "tagName": "a", "time": 439.141268, "url": "(null)", "pos": 23581, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0ed0", "doc": "http://twitter.com/", "row": 348, "column": 69, "tagName": "span", "time": 439.141274, "url": "(null)", "pos": 23607, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e0ca0", "doc": "http://twitter.com/", "row": 348, "column": 85, "tagName": "span", "time": 439.141295, "url": "(null)", "pos": 23623, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0cd0", "doc": "http://twitter.com/", "row": 348, "column": 90, "tagName": "li", "time": 439.141300, "url": "(null)", "pos": 23628, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e0f80", "doc": "http://twitter.com/", "row": 349, "column": 11, "tagName": "li", "time": 439.141307, "url": "(null)", "pos": 23639, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e10b0", "doc": "http://twitter.com/", "row": 349, "column": 47, "tagName": "a", "time": 439.141318, "url": "(null)", "pos": 23675, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e12e0", "doc": "http://twitter.com/", "row": 349, "column": 57, "tagName": "a", "time": 439.141338, "url": "(null)", "pos": 23685, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1160", "doc": "http://twitter.com/", "row": 349, "column": 83, "tagName": "span", "time": 439.141344, "url": "(null)", "pos": 23711, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1360", "doc": "http://twitter.com/", "row": 349, "column": 99, "tagName": "span", "time": 439.141358, "url": "(null)", "pos": 23727, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e14d0", "doc": "http://twitter.com/", "row": 349, "column": 104, "tagName": "li", "time": 439.141362, "url": "(null)", "pos": 23732, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1400", "doc": "http://twitter.com/", "row": 350, "column": 11, "tagName": "li", "time": 439.141370, "url": "(null)", "pos": 23743, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1620", "doc": "http://twitter.com/", "row": 350, "column": 27, "tagName": "a", "time": 439.141379, "url": "(null)", "pos": 23759, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1730", "doc": "http://twitter.com/", "row": 350, "column": 35, "tagName": "a", "time": 439.141391, "url": "(null)", "pos": 23767, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e17a0", "doc": "http://twitter.com/", "row": 350, "column": 61, "tagName": "span", "time": 439.141397, "url": "(null)", "pos": 23793, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e18a0", "doc": "http://twitter.com/", "row": 350, "column": 77, "tagName": "span", "time": 439.141410, "url": "(null)", "pos": 23809, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1920", "doc": "http://twitter.com/", "row": 350, "column": 82, "tagName": "li", "time": 439.141414, "url": "(null)", "pos": 23814, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1970", "doc": "http://twitter.com/", "row": 351, "column": 11, "tagName": "li", "time": 439.141421, "url": "(null)", "pos": 23825, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1530", "doc": "http://twitter.com/", "row": 351, "column": 26, "tagName": "a", "time": 439.141431, "url": "(null)", "pos": 23840, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1a60", "doc": "http://twitter.com/", "row": 351, "column": 35, "tagName": "a", "time": 439.141442, "url": "(null)", "pos": 23849, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1ad0", "doc": "http://twitter.com/", "row": 351, "column": 61, "tagName": "span", "time": 439.141449, "url": "(null)", "pos": 23875, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1ce0", "doc": "http://twitter.com/", "row": 351, "column": 77, "tagName": "span", "time": 439.141463, "url": "(null)", "pos": 23891, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1b70", "doc": "http://twitter.com/", "row": 351, "column": 82, "tagName": "li", "time": 439.141467, "url": "(null)", "pos": 23896, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1bc0", "doc": "http://twitter.com/", "row": 352, "column": 11, "tagName": "li", "time": 439.141474, "url": "(null)", "pos": 23907, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1ec0", "doc": "http://twitter.com/", "row": 352, "column": 30, "tagName": "a", "time": 439.141484, "url": "(null)", "pos": 23926, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e1e10", "doc": "http://twitter.com/", "row": 352, "column": 41, "tagName": "a", "time": 439.141504, "url": "(null)", "pos": 23937, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2070", "doc": "http://twitter.com/", "row": 352, "column": 67, "tagName": "span", "time": 439.141512, "url": "(null)", "pos": 23963, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e2170", "doc": "http://twitter.com/", "row": 352, "column": 83, "tagName": "span", "time": 439.141526, "url": "(null)", "pos": 23979, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e21e0", "doc": "http://twitter.com/", "row": 352, "column": 88, "tagName": "li", "time": 439.141531, "url": "(null)", "pos": 23984, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e1f30", "doc": "http://twitter.com/", "row": 353, "column": 11, "tagName": "li", "time": 439.141538, "url": "(null)", "pos": 23995, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e2000", "doc": "http://twitter.com/", "row": 353, "column": 63, "tagName": "a", "time": 439.141549, "url": "(null)", "pos": 24047, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e22a0", "doc": "http://twitter.com/", "row": 353, "column": 78, "tagName": "a", "time": 439.141572, "url": "(null)", "pos": 24062, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2310", "doc": "http://twitter.com/", "row": 353, "column": 104, "tagName": "span", "time": 439.141579, "url": "(null)", "pos": 24088, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e25f0", "doc": "http://twitter.com/", "row": 353, "column": 120, "tagName": "span", "time": 439.141593, "url": "(null)", "pos": 24104, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2620", "doc": "http://twitter.com/", "row": 353, "column": 125, "tagName": "li", "time": 439.141597, "url": "(null)", "pos": 24109, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e24d0", "doc": "http://twitter.com/", "row": 354, "column": 11, "tagName": "li", "time": 439.141604, "url": "(null)", "pos": 24120, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e2770", "doc": "http://twitter.com/", "row": 354, "column": 58, "tagName": "a", "time": 439.141615, "url": "(null)", "pos": 24167, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e26a0", "doc": "http://twitter.com/", "row": 354, "column": 72, "tagName": "a", "time": 439.141637, "url": "(null)", "pos": 24181, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2840", "doc": "http://twitter.com/", "row": 354, "column": 98, "tagName": "span", "time": 439.141643, "url": "(null)", "pos": 24207, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e2a90", "doc": "http://twitter.com/", "row": 354, "column": 114, "tagName": "span", "time": 439.141657, "url": "(null)", "pos": 24223, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2920", "doc": "http://twitter.com/", "row": 354, "column": 119, "tagName": "li", "time": 439.141662, "url": "(null)", "pos": 24228, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2970", "doc": "http://twitter.com/", "row": 355, "column": 11, "tagName": "li", "time": 439.141668, "url": "(null)", "pos": 24239, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e2cc0", "doc": "http://twitter.com/", "row": 355, "column": 46, "tagName": "a", "time": 439.141679, "url": "(null)", "pos": 24274, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e2be0", "doc": "http://twitter.com/", "row": 355, "column": 55, "tagName": "a", "time": 439.141699, "url": "(null)", "pos": 24283, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2d10", "doc": "http://twitter.com/", "row": 355, "column": 81, "tagName": "span", "time": 439.141705, "url": "(null)", "pos": 24309, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e2f60", "doc": "http://twitter.com/", "row": 355, "column": 97, "tagName": "span", "time": 439.141726, "url": "(null)", "pos": 24325, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2fb0", "doc": "http://twitter.com/", "row": 355, "column": 102, "tagName": "li", "time": 439.141731, "url": "(null)", "pos": 24330, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3000", "doc": "http://twitter.com/", "row": 356, "column": 11, "tagName": "li", "time": 439.141739, "url": "(null)", "pos": 24341, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e3110", "doc": "http://twitter.com/", "row": 356, "column": 39, "tagName": "a", "time": 439.141749, "url": "(null)", "pos": 24369, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e3240", "doc": "http://twitter.com/", "row": 356, "column": 53, "tagName": "a", "time": 439.141770, "url": "(null)", "pos": 24383, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e32b0", "doc": "http://twitter.com/", "row": 356, "column": 79, "tagName": "span", "time": 439.141776, "url": "(null)", "pos": 24409, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e33b0", "doc": "http://twitter.com/", "row": 356, "column": 95, "tagName": "span", "time": 439.141790, "url": "(null)", "pos": 24425, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3430", "doc": "http://twitter.com/", "row": 356, "column": 100, "tagName": "li", "time": 439.141794, "url": "(null)", "pos": 24430, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e2e30", "doc": "http://twitter.com/", "row": 357, "column": 11, "tagName": "li", "time": 439.141802, "url": "(null)", "pos": 24441, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e3590", "doc": "http://twitter.com/", "row": 357, "column": 38, "tagName": "a", "time": 439.141812, "url": "(null)", "pos": 24468, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e34d0", "doc": "http://twitter.com/", "row": 357, "column": 51, "tagName": "a", "time": 439.141824, "url": "(null)", "pos": 24481, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3540", "doc": "http://twitter.com/", "row": 357, "column": 77, "tagName": "span", "time": 439.141830, "url": "(null)", "pos": 24507, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e3820", "doc": "http://twitter.com/", "row": 357, "column": 93, "tagName": "span", "time": 439.141844, "url": "(null)", "pos": 24523, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3690", "doc": "http://twitter.com/", "row": 357, "column": 98, "tagName": "li", "time": 439.141848, "url": "(null)", "pos": 24528, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e36e0", "doc": "http://twitter.com/", "row": 358, "column": 11, "tagName": "li", "time": 439.141855, "url": "(null)", "pos": 24539, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e3a00", "doc": "http://twitter.com/", "row": 358, "column": 35, "tagName": "span", "time": 439.141865, "url": "(null)", "pos": 24563, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e3940", "doc": "http://twitter.com/", "row": 358, "column": 61, "tagName": "span", "time": 439.141881, "url": "(null)", "pos": 24589, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3be0", "doc": "http://twitter.com/", "row": 358, "column": 66, "tagName": "li", "time": 439.141885, "url": "(null)", "pos": 24594, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3d60", "doc": "http://twitter.com/", "row": 359, "column": 10, "tagName": "ul", "time": 439.141892, "url": "(null)", "pos": 24604, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3c80", "doc": "http://twitter.com/", "row": 360, "column": 9, "tagName": "div", "time": 439.141899, "url": "(null)", "pos": 24613, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3b10", "doc": "http://twitter.com/", "row": 363, "column": 17, "tagName": "div", "time": 439.141907, "url": "(null)", "pos": 24642, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e3b60", "doc": "http://twitter.com/", "row": 364, "column": 48, "tagName": "div", "time": 439.141920, "url": "(null)", "pos": 24690, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a8910", "doc": "http://twitter.com/", "row": 365, "column": 39, "tagName": "div", "time": 439.142363, "url": "(null)", "pos": 24729, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40a8a10", "doc": "http://twitter.com/", "row": 365, "column": 45, "tagName": "div", "time": 439.142387, "url": "(null)", "pos": 24735, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a8a80", "doc": "http://twitter.com/", "row": 366, "column": 15, "tagName": "div", "time": 439.142398, "url": "(null)", "pos": 24750, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a8b50", "doc": "http://twitter.com/", "row": 367, "column": 13, "tagName": "div", "time": 439.142405, "url": "(null)", "pos": 24763, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a8e10", "doc": "http://twitter.com/", "row": 368, "column": 11, "tagName": "div", "time": 439.142413, "url": "(null)", "pos": 24774, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e4160", "doc": "http://twitter.com/", "row": 369, "column": 39, "tagName": "div", "time": 439.142450, "url": "(null)", "pos": 24813, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e4220", "doc": "http://twitter.com/", "row": 369, "column": 45, "tagName": "div", "time": 439.142482, "url": "(null)", "pos": 24819, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e4500", "doc": "http://twitter.com/", "row": 375, "column": 34, "tagName": "script", "time": 439.142496, "url": "(null)", "pos": 24870, "chunkLen": 46714, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x439c5c0", "doc": "http://twitter.com/", "row": 380, "column": 15, "tagName": "script", "time": 439.142857, "url": "(null)", "pos": 33896, "chunkLen": 46714, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e4d90", "doc": "http://twitter.com/", "row": 380, "column": 23, "tagName": "script", "time": 439.148187, "url": "(null)", "pos": 1251, "chunkLen": 14061, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e48c0", "doc": "http://twitter.com/", "row": 380, "column": 56, "tagName": "script", "time": 439.148234, "url": "(null)", "pos": 1284, "chunkLen": 14061, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40a8c20", "doc": "http://twitter.com/", "row": 382, "column": 38, "tagName": "script", "time": 439.148547, "url": "(null)", "pos": 1325, "chunkLen": 14061, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x409e950", "doc": "http://twitter.com/", "row": 389, "column": 19, "tagName": "script", "time": 439.148682, "url": "(null)", "pos": 4004, "chunkLen": 14061, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e6e20", "doc": "http://twitter.com/", "row": 390, "column": 38, "tagName": "script", "time": 439.158903, "url": "(null)", "pos": 4042, "chunkLen": 14061, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e7010", "doc": "http://twitter.com/", "row": 390, "column": 82, "tagName": "script", "time": 439.158958, "url": "(null)", "pos": 4086, "chunkLen": 14061, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x43e6de0", "doc": "http://twitter.com/", "row": 393, "column": 11, "tagName": "script", "time": 439.159400, "url": "(null)", "pos": 4103, "chunkLen": 14061, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x43e6fd0", "doc": "http://twitter.com/", "row": 407, "column": 15, "tagName": "script", "time": 439.159879, "url": "http://a0.twimg.com/c/phoenix/en/bundle/t1-core.41b489ded26f5c0fdb0bf1627d35dd60510fbf9e.js", "pos": 13907, "chunkLen": 14061, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40ac8a0", "doc": "http://twitter.com/", "row": 1, "column": 125, "tagName": "iframe", "time": 439.171696, "url": "(null)", "pos": 124, "chunkLen": 133, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40ac260", "doc": "http://twitter.com/", "row": 1, "column": 134, "tagName": "iframe", "time": 439.171788, "url": "(null)", "pos": 133, "chunkLen": 133, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40af0e0", "doc": "http://twitter.com/", "row": 407, "column": 23, "tagName": "script", "time": 439.173217, "url": "(null)", "pos": 13915, "chunkLen": 14061, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x40aef50", "doc": "http://twitter.com/", "row": 407, "column": 50, "tagName": "script", "time": 439.173257, "url": "(null)", "pos": 13942, "chunkLen": 14061, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40b0210", "doc": "http://twitter.com/", "row": 416, "column": 8, "tagName": "body", "time": 439.173563, "url": "(null)", "pos": 14050, "chunkLen": 14061, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x40afe60", "doc": "http://twitter.com/", "row": 418, "column": 8, "tagName": "html", "time": 439.173571, "url": "(null)", "pos": 14059, "chunkLen": 14061, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1af638b0", "doc": "http://twitter.com/", "row": 1, "column": 11, "tagName": "link", "time": 439.747551, "url": "(null)", "pos": 10, "chunkLen": 107, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af5a390", "doc": "http://twitter.com/", "row": 1, "column": 18, "tagName": "table", "time": 439.747568, "url": "(null)", "pos": 17, "chunkLen": 107, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af77430", "doc": "http://twitter.com/", "row": 1, "column": 26, "tagName": "table", "time": 439.747579, "url": "(null)", "pos": 25, "chunkLen": 107, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1af1cf50", "doc": "http://twitter.com/", "row": 1, "column": 79, "tagName": "a", "time": 439.747591, "url": "(null)", "pos": 78, "chunkLen": 107, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af1c670", "doc": "http://twitter.com/", "row": 1, "column": 84, "tagName": "a", "time": 439.747651, "url": "(null)", "pos": 83, "chunkLen": 107, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1af28240", "doc": "http://twitter.com/", "row": 1, "column": 108, "tagName": "input", "time": 439.747659, "url": "(null)", "pos": 107, "chunkLen": 107, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af7cb10", "doc": "http://twitter.com/", "row": 1, "column": 32, "tagName": "a", "time": 439.761393, "url": "(null)", "pos": 31, "chunkLen": 31, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af0d190", "doc": "http://twitter.com/", "row": 1, "column": 13, "tagName": "a", "time": 439.762165, "url": "(null)", "pos": 12, "chunkLen": 16, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af06e20", "doc": "http://twitter.com/", "row": 1, "column": 17, "tagName": "a", "time": 439.762180, "url": "(null)", "pos": 16, "chunkLen": 16, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1af05260", "doc": "http://twitter.com/", "row": 1, "column": 17, "tagName": "p", "time": 439.762456, "url": "(null)", "pos": 16, "chunkLen": 20, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af04360", "doc": "http://twitter.com/", "row": 1, "column": 21, "tagName": "p", "time": 439.762470, "url": "(null)", "pos": 20, "chunkLen": 20, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1af2c7c0", "doc": "http://twitter.com/", "row": 1, "column": 21, "tagName": "div", "time": 439.763332, "url": "(null)", "pos": 20, "chunkLen": 50, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af26a40", "doc": "http://twitter.com/", "row": 1, "column": 27, "tagName": "div", "time": 439.763347, "url": "(null)", "pos": 26, "chunkLen": 50, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1af255a0", "doc": "http://twitter.com/", "row": 1, "column": 45, "tagName": "div", "time": 439.763354, "url": "(null)", "pos": 44, "chunkLen": 50, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1af220d0", "doc": "http://twitter.com/", "row": 1, "column": 51, "tagName": "div", "time": 439.763361, "url": "(null)", "pos": 50, "chunkLen": 50, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1acc4710", "doc": "http://twitter.com/", "row": 1, "column": 7, "tagName": "elem", "time": 439.913739, "url": "(null)", "pos": 6, "chunkLen": 13, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac736d0", "doc": "http://twitter.com/", "row": 1, "column": 14, "tagName": "elem", "time": 439.913754, "url": "(null)", "pos": 13, "chunkLen": 13, "hash": "(null)", "isStartTag": 0}}
+{"Resource": {"id": 3, "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_more.bundle.css", "sentTime": 438.554178, "len": 154595, "from": "0x0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 1841, "connReused": 0, "cached": 0,                            "requestTime": 438.554922, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 11, "dnsEnd": 241, "connectStart": 11, "connectEnd": 296, "sendStart": 297, "sendEnd": 297, "receiveHeadersEnd": 361, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "a2f848440a1f4239f5cd94fdecccd21d", "receivedTime": 438.934209, "len": 13409}}
+{"ReceivedChunk": {"hash": "eceec01fae9082af8bb84d05dd5425cc", "receivedTime": 438.934529, "len": 26850}}
+{"ReceivedChunk": {"hash": "4e23b1cd5ab2d23b86564c04470f5c24", "receivedTime": 438.934853, "len": 6568}}
+{"ReceivedChunk": {"hash": "7644997c4adbd4d6ab2ff74f86ba5302", "receivedTime": 438.935229, "len": 7081}}
+{"ReceivedChunk": {"hash": "eb9428e64aea2115022182374b018798", "receivedTime": 438.935588, "len": 7259}}
+{"ReceivedChunk": {"hash": "8b223cd1be63011154bc2130de626d65", "receivedTime": 438.935971, "len": 8439}}
+{"ReceivedChunk": {"hash": "e98654946d7e61bb232c82e8d9080ef2", "receivedTime": 438.936431, "len": 7231}}
+{"ReceivedChunk": {"hash": "d0654eebe1965da9c567da068d3af085", "receivedTime": 438.936856, "len": 18654}}
+{"ReceivedChunk": {"hash": "72e454b973df11b08368e0ab899f5895", "receivedTime": 438.939481, "len": 6990}}
+{"ReceivedChunk": {"hash": "fe54e943184487b810dc7068e60c0a6b", "receivedTime": 438.941061, "len": 7778}}
+{"ReceivedChunk": {"hash": "7fa1828c70db4fdac4af2d2bc032b6c3", "receivedTime": 438.941266, "len": 6138}}
+{"ReceivedChunk": {"hash": "b9308f79da4454a000307467d08b304f", "receivedTime": 438.943560, "len": 7222}}
+{"ReceivedChunk": {"hash": "95a8a2f26af71e821d0c9265b8188e31", "receivedTime": 438.961911, "len": 30976}}
+{"Resource": {"id": 2, "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_core_logged_out.bundle.css", "sentTime": 438.553798, "len": 146729, "from": "0x4344da0",                            "mimeType": "text/css", "contentLength": -1, "httpStatus": 200, "connId": 1840, "connReused": 0, "cached": 0,                            "requestTime": 438.554482, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 11, "dnsEnd": 241, "connectStart": 11, "connectEnd": 297, "sendStart": 297, "sendEnd": 297, "receiveHeadersEnd": 371, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "c044c4caff5f8e7dc64468c37511d635", "receivedTime": 438.939690, "len": 2597}}
+{"ReceivedChunk": {"hash": "f131dbab98ac16e037793fab0440094e", "receivedTime": 438.943780, "len": 8300}}
+{"ReceivedChunk": {"hash": "ed07afe7d817d2419f63923917ce0704", "receivedTime": 438.963098, "len": 13215}}
+{"ReceivedChunk": {"hash": "50d49855c62ccfdf804d66604591a26c", "receivedTime": 438.963572, "len": 32768}}
+{"ReceivedChunk": {"hash": "0496db6e7add7eb2bb3f8a532bc6c4de", "receivedTime": 438.975819, "len": 28938}}
+{"ReceivedChunk": {"hash": "d6a5a5eea95450d4b7dbc5bd69d72540", "receivedTime": 438.976326, "len": 14385}}
+{"ReceivedChunk": {"hash": "bbcecc7ea151dc7434da312a571c79fa", "receivedTime": 438.979694, "len": 7374}}
+{"ReceivedChunk": {"hash": "47bd421dab788f24db19d2a428a419a0", "receivedTime": 438.980057, "len": 6987}}
+{"ReceivedChunk": {"hash": "96e1ec589af6c5df542573aad43ec171", "receivedTime": 438.986498, "len": 19142}}
+{"ReceivedChunk": {"hash": "2975e7deff4437b6a35379145e41c434", "receivedTime": 438.993446, "len": 13023}}
+{"Resource": {"id": 6, "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7", "sentTime": 439.116813, "len": 42, "from": "0x43cf880",                            "mimeType": "image/gif", "contentLength": 42, "httpStatus": 0, "connId": 0, "connReused": 0, "cached": 0,                            "requestTime": 439.256656, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": -1, "connectEnd": -1, "sendStart": 0, "sendEnd": 0, "receiveHeadersEnd": 0, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "d89746888da2d9510b64a9f031eaecd5", "receivedTime": 439.256826, "len": 42}}
+{"Resource": {"id": 10, "url": "http://a0.twimg.com/c/phoenix/en/bundle/t1-core.41b489ded26f5c0fdb0bf1627d35dd60510fbf9e.js", "sentTime": 439.167828, "len": 584119, "from": "0x43e6fd0",                            "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "connId": 1841, "connReused": 1, "cached": 0,                            "requestTime": 439.169393, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1, "connectEnd": 1, "sendStart": 1, "sendEnd": 1, "receiveHeadersEnd": 63, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "7306b3e1d8dfcd3ce512bbd2a2ba990d", "receivedTime": 439.268302, "len": 1854}}
+{"ReceivedChunk": {"hash": "3fc23b06520d237ed6e052420af2e32d", "receivedTime": 439.268648, "len": 17979}}
+{"ReceivedChunk": {"hash": "0fdd6cf1d3feb4fe350ae89d0ef5de94", "receivedTime": 439.268891, "len": 9356}}
+{"ReceivedChunk": {"hash": "f43e5635b0479b49052ee4e8b7e8330a", "receivedTime": 439.269110, "len": 5897}}
+{"ReceivedChunk": {"hash": "5a3bb5b1d9cece115e44646009d7644b", "receivedTime": 439.269335, "len": 5844}}
+{"ReceivedChunk": {"hash": "b8a4cedb98fe758f4e145921a4488e13", "receivedTime": 439.269536, "len": 3149}}
+{"ReceivedChunk": {"hash": "1b7da119eb65ac2c3e6acc9798e8a5da", "receivedTime": 439.269740, "len": 3023}}
+{"ReceivedChunk": {"hash": "7dae8a21658ba3ed5359037459ee4b62", "receivedTime": 439.269946, "len": 3218}}
+{"ReceivedChunk": {"hash": "fd457d2c238369c89bc0ac728fbd2310", "receivedTime": 439.270152, "len": 3746}}
+{"ReceivedChunk": {"hash": "bcd1a182898b77b3d58682b5eeabca1c", "receivedTime": 439.270360, "len": 3624}}
+{"ReceivedChunk": {"hash": "1cc79315abf047a8555d3d2a85f7a88f", "receivedTime": 439.270806, "len": 3652}}
+{"ReceivedChunk": {"hash": "2d7b2c1b2ef260f34c82743599bce6d2", "receivedTime": 439.273428, "len": 3646}}
+{"ReceivedChunk": {"hash": "36e3084148ad2877c61edfaa0794f62b", "receivedTime": 439.273918, "len": 4043}}
+{"ReceivedChunk": {"hash": "5a28eff30a283cd42760112dcd1eaa78", "receivedTime": 439.274218, "len": 4127}}
+{"ReceivedChunk": {"hash": "8cdcb98fce7315e5f63057559a584d15", "receivedTime": 439.274488, "len": 3418}}
+{"ReceivedChunk": {"hash": "b35e9dd5deeae16d995c7ff20520a3b1", "receivedTime": 439.274808, "len": 3775}}
+{"ReceivedChunk": {"hash": "704885ebdcad7cb4ba633ecb5f2941d3", "receivedTime": 439.275244, "len": 8144}}
+{"ReceivedChunk": {"hash": "3aec9693c4d18eedd98ee545f7a2be0a", "receivedTime": 439.275441, "len": 3546}}
+{"ReceivedChunk": {"hash": "5c1db31b1075c01c2a0ea684331aa2e4", "receivedTime": 439.276105, "len": 4573}}
+{"ReceivedChunk": {"hash": "8470a98ba6befc18065e0fcee320c489", "receivedTime": 439.276476, "len": 4128}}
+{"ReceivedChunk": {"hash": "1ebec2dcf2c2d36a98b8d41ac649fc8c", "receivedTime": 439.278821, "len": 32768}}
+{"ReceivedChunk": {"hash": "41022519cc707c0261ce06b1b62bdfda", "receivedTime": 439.280164, "len": 4796}}
+{"ReceivedChunk": {"hash": "91328a80250cbf650a3bcf4b5ac6687d", "receivedTime": 439.326350, "len": 3644}}
+{"ReceivedChunk": {"hash": "afa24fd998aada20664e564b0c822f28", "receivedTime": 439.327467, "len": 3318}}
+{"ReceivedChunk": {"hash": "e34689754a96d73233fb919a88a5f3c2", "receivedTime": 439.328331, "len": 3761}}
+{"ReceivedChunk": {"hash": "b0ba8ec9a7bf263689a1b81c9a3721cf", "receivedTime": 439.329134, "len": 3820}}
+{"ReceivedChunk": {"hash": "b051b10e83b03c91283b577f71744c93", "receivedTime": 439.330195, "len": 4158}}
+{"ReceivedChunk": {"hash": "bdc1e9a4695e4cd39f1e00f12073eb71", "receivedTime": 439.332864, "len": 6928}}
+{"ReceivedChunk": {"hash": "126de28b1e3a526372f8dc7ba1b80534", "receivedTime": 439.333769, "len": 9396}}
+{"ReceivedChunk": {"hash": "78196bd78e15abda70de2264dbebf742", "receivedTime": 439.334564, "len": 4086}}
+{"ReceivedChunk": {"hash": "3d18e01cbc1c8a75feac5f7b8b617d19", "receivedTime": 439.335118, "len": 4422}}
+{"ReceivedChunk": {"hash": "f6bdfc4328b86c138277b82db91f8591", "receivedTime": 439.337140, "len": 4343}}
+{"ReceivedChunk": {"hash": "0fec34f2e3bbd98853bb198741d4ee47", "receivedTime": 439.338949, "len": 5246}}
+{"ReceivedChunk": {"hash": "2ecf7b42cb9abe46b793ab917f642c74", "receivedTime": 439.340553, "len": 9919}}
+{"ReceivedChunk": {"hash": "ca77d4522e8401819fee08ed20f27209", "receivedTime": 439.341856, "len": 5878}}
+{"ReceivedChunk": {"hash": "f4462d2dd7a08afe7520e724fa8da5d3", "receivedTime": 439.343124, "len": 5877}}
+{"ReceivedChunk": {"hash": "7f9fb7c2c384397553c8b294545a1ac9", "receivedTime": 439.344458, "len": 6675}}
+{"ReceivedChunk": {"hash": "d832e24ad5f72b2e50def0a0af50901a", "receivedTime": 439.348452, "len": 7747}}
+{"ReceivedChunk": {"hash": "966b49a366f7d25682018511b75034a6", "receivedTime": 439.348803, "len": 8236}}
+{"ReceivedChunk": {"hash": "317f686d3bd06156f4ab347df7c93b5d", "receivedTime": 439.490254, "len": 13465}}
+{"ReceivedChunk": {"hash": "76fca22d9e39787cb09a0bac922cf44f", "receivedTime": 439.491108, "len": 13434}}
+{"ReceivedChunk": {"hash": "162d71d04145ff8024f6a394b144dbcd", "receivedTime": 439.491645, "len": 3145}}
+{"ReceivedChunk": {"hash": "f2c01ec3f66a85d0bd71fbbe2829ae25", "receivedTime": 439.503011, "len": 3149}}
+{"ReceivedChunk": {"hash": "0f75a937867044f95af097e19594d5e1", "receivedTime": 439.503219, "len": 3607}}
+{"ReceivedChunk": {"hash": "a8a81f20545c087635f0f2898bcb8211", "receivedTime": 439.503419, "len": 4247}}
+{"ReceivedChunk": {"hash": "338de7f6da2b6e788b8b87c0275cf165", "receivedTime": 439.503631, "len": 4131}}
+{"ReceivedChunk": {"hash": "b92942819f0b298bd4f2f7be5161eee3", "receivedTime": 439.503847, "len": 3764}}
+{"ReceivedChunk": {"hash": "b4011ef8a804197522338942165f0878", "receivedTime": 439.504063, "len": 3942}}
+{"ReceivedChunk": {"hash": "d0dbc6bd35327cb1e5a3e587d413c325", "receivedTime": 439.504275, "len": 3400}}
+{"ReceivedChunk": {"hash": "347c5f05909a33a971dbd0a37a83f6fa", "receivedTime": 439.504490, "len": 2715}}
+{"ReceivedChunk": {"hash": "20bdc19dc35615c70d58bda743a9456e", "receivedTime": 439.504708, "len": 4468}}
+{"ReceivedChunk": {"hash": "4cab609dbbdea4faccb240c1e7634723", "receivedTime": 439.504915, "len": 4541}}
+{"ReceivedChunk": {"hash": "8f60c5ecc08c26386e4f8d12e28470b2", "receivedTime": 439.505126, "len": 4571}}
+{"ReceivedChunk": {"hash": "379f17aeebfc6eed868ed1c44a12cc85", "receivedTime": 439.505344, "len": 4822}}
+{"ReceivedChunk": {"hash": "59b986294da8cb1d79f16b97d0973491", "receivedTime": 439.505549, "len": 4333}}
+{"ReceivedChunk": {"hash": "41fb0720a69975899b4cf47fc849fa29", "receivedTime": 439.505775, "len": 4939}}
+{"ReceivedChunk": {"hash": "1e631e6dceeb694c67a37a4c30a15ecc", "receivedTime": 439.505995, "len": 4668}}
+{"ReceivedChunk": {"hash": "475660b97df3fa2bf6043daee2339548", "receivedTime": 439.506217, "len": 5102}}
+{"ReceivedChunk": {"hash": "b2f40eb75e3bdab8d17fef31e2652ae2", "receivedTime": 439.506441, "len": 4647}}
+{"ReceivedChunk": {"hash": "e4d1781ce1bc471b8475cbdaebff459f", "receivedTime": 439.619568, "len": 10156}}
+{"ReceivedChunk": {"hash": "f73387f4b83d5115bf3f2eee4920d1fa", "receivedTime": 439.620098, "len": 4374}}
+{"ReceivedChunk": {"hash": "6ad301b131f249a6d5cecbf23abdeb07", "receivedTime": 439.620391, "len": 4982}}
+{"ReceivedChunk": {"hash": "bef29d3b3a9987b2eb62c8111e4a8b05", "receivedTime": 439.620618, "len": 4687}}
+{"ReceivedChunk": {"hash": "441f37f35265d569380a915523942564", "receivedTime": 439.620851, "len": 5547}}
+{"ReceivedChunk": {"hash": "9a8ed0f017c6c3e9b43f9630570fbcf6", "receivedTime": 439.621110, "len": 10369}}
+{"ReceivedChunk": {"hash": "fd4e2fb5a06506bc71c3927aa54adfd4", "receivedTime": 439.621346, "len": 4976}}
+{"ReceivedChunk": {"hash": "fe27ffae053d79e009651d07e3a98ce9", "receivedTime": 439.621573, "len": 6697}}
+{"ReceivedChunk": {"hash": "c40ce36605a9f28d7184def5ffc3cda9", "receivedTime": 439.621798, "len": 6105}}
+{"ReceivedChunk": {"hash": "c144548555bdd36beb04f6d4185d87fe", "receivedTime": 439.622409, "len": 65536}}
+{"ReceivedChunk": {"hash": "2bec1f277658f8c2a5852daee4884142", "receivedTime": 439.622821, "len": 39907}}
+{"ReceivedChunk": {"hash": "b6eba8c806e62e59fb606b27a5802352", "receivedTime": 439.623145, "len": 11084}}
+{"ReceivedChunk": {"hash": "97fb6cb721d3687f7ea9f26c18067f96", "receivedTime": 439.623396, "len": 4666}}
+{"ReceivedChunk": {"hash": "389441b1aee44043d9f7681987cd7a4f", "receivedTime": 439.623634, "len": 3989}}
+{"ReceivedChunk": {"hash": "5f5178cd9d9ae400d5483fcc5734e83c", "receivedTime": 439.623881, "len": 5134}}
+{"ReceivedChunk": {"hash": "957f5ce330a364728764781f3c7eff90", "receivedTime": 439.624138, "len": 5577}}
+{"ReceivedChunk": {"hash": "c82c30a45c872e258bb5b4b5f2e841a3", "receivedTime": 439.624385, "len": 6241}}
+{"ReceivedChunk": {"hash": "d7d45ae5f3d06ca220f5de8ea061cb9c", "receivedTime": 439.624621, "len": 4074}}
+{"ReceivedChunk": {"hash": "51cc9e17f6bc6bbd5857dc1805927f64", "receivedTime": 439.624869, "len": 5968}}
+{"ReceivedChunk": {"hash": "c880ba901a9975ed2b1dea9c9e15856e", "receivedTime": 439.625118, "len": 6905}}
+{"ReceivedChunk": {"hash": "de563cf93daaf6b61dc5c716a250b828", "receivedTime": 439.653351, "len": 30295}}
+{"Resource": {"id": 4, "url": "http://a0.twimg.com/a/1346367577/t1/img/twitter_web_sprite_bgs.png", "sentTime": 439.107461, "len": 6602, "from": "0x4395060",                            "mimeType": "image/png", "contentLength": 6602, "httpStatus": 200, "connId": 1840, "connReused": 1, "cached": 0,                            "requestTime": 439.180837, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 15, "connectEnd": 15, "sendStart": 15, "sendEnd": 16, "receiveHeadersEnd": 95, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "26daad4e1740ffbb122cdca1cd78006a", "receivedTime": 439.282940, "len": 3639}}
+{"ReceivedChunk": {"hash": "dda21030971ed6e397babf103d2f6385", "receivedTime": 439.289588, "len": 2963}}
+{"Resource": {"id": 5, "url": "http://a0.twimg.com/a/1346367577/t1/img/twitter_web_sprite_icons.png", "sentTime": 439.108271, "len": 67513, "from": "0x43bbe30",                            "mimeType": "image/png", "contentLength": 67513, "httpStatus": 200, "connId": 1844, "connReused": 0, "cached": 0,                            "requestTime": 439.181292, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 15, "connectEnd": 15, "sendStart": 15, "sendEnd": 15, "receiveHeadersEnd": 98, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "92312d8d970b62bdccc00f8a285535b1", "receivedTime": 439.292960, "len": 990}}
+{"ReceivedChunk": {"hash": "6334110ab09681a556e4430368790280", "receivedTime": 439.296876, "len": 7240}}
+{"ReceivedChunk": {"hash": "1d71bb00e138352d0c7a585eeba943d9", "receivedTime": 439.305028, "len": 13032}}
+{"ReceivedChunk": {"hash": "e0f6a270c2ba8773806fb2ac1afa3ea0", "receivedTime": 439.305306, "len": 2896}}
+{"ReceivedChunk": {"hash": "54255006dc0da6b5cf23265c5f82add8", "receivedTime": 439.305521, "len": 2896}}
+{"ReceivedChunk": {"hash": "e927a724effe06ff1311d70b719202b3", "receivedTime": 439.305719, "len": 1448}}
+{"ReceivedChunk": {"hash": "16fd68df0966d8e3c53376d3821913d6", "receivedTime": 439.618599, "len": 10136}}
+{"ReceivedChunk": {"hash": "987d85526566050ab8d7141ebfa375fc", "receivedTime": 439.619085, "len": 28875}}
+{"Resource": {"id": 12, "url": "http://api.twitter.com/receiver.html", "sentTime": 439.172829, "len": 156, "from": "0x40ac8a0",                            "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "connId": 1870, "connReused": 0, "cached": 0,                            "requestTime": 439.174620, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 2, "connectStart": 2, "connectEnd": 44, "sendStart": 44, "sendEnd": 45, "receiveHeadersEnd": 127, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "ee9a218fc31aa6a3e4d2206ac82a1dff", "receivedTime": 439.309902, "len": 156}}
+{"ObjectHash": {"code": "0x1ac07980", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 7, "tagName": "html", "time": 439.315273, "url": "(null)", "pos": 6, "chunkLen": 156, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac09ad0", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 13, "tagName": "head", "time": 439.315470, "url": "(null)", "pos": 12, "chunkLen": 156, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac09ba0", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 83, "tagName": "meta", "time": 439.315499, "url": "(null)", "pos": 82, "chunkLen": 156, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac09d00", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 90, "tagName": "head", "time": 439.315515, "url": "(null)", "pos": 89, "chunkLen": 156, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ac09da0", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 96, "tagName": "body", "time": 439.315520, "url": "(null)", "pos": 95, "chunkLen": 156, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac0a010", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 104, "tagName": "script", "time": 439.315565, "url": "(null)", "pos": 103, "chunkLen": 156, "hash": "(null)", "isStartTag": 1}}
+{"ObjectHash": {"code": "0x1ac0a2f0", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 142, "tagName": "script", "time": 439.315594, "url": "(null)", "pos": 141, "chunkLen": 156, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ac07a10", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 149, "tagName": "body", "time": 439.315908, "url": "(null)", "pos": 148, "chunkLen": 156, "hash": "(null)", "isStartTag": 0}}
+{"ObjectHash": {"code": "0x1ac0a440", "doc": "http://api.twitter.com/receiver.html", "row": 1, "column": 156, "tagName": "html", "time": 439.315913, "url": "(null)", "pos": 155, "chunkLen": 156, "hash": "(null)", "isStartTag": 0}}
+{"Resource": {"id": 7, "url": "http://a0.twimg.com/a/1346367577/t1/img/front_page/jp-mountain@2x.jpg", "sentTime": 439.138945, "len": 32472, "from": "0x43d8c20",                            "mimeType": "image/jpeg", "contentLength": 32472, "httpStatus": 200, "connId": 1890, "connReused": 0, "cached": 0,                            "requestTime": 439.181668, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 14, "dnsEnd": 14, "connectStart": 14, "connectEnd": 90, "sendStart": 94, "sendEnd": 95, "receiveHeadersEnd": 199, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "6c42d152af79d11405353cf3bc739dcc", "receivedTime": 439.493799, "len": 989}}
+{"ReceivedChunk": {"hash": "32863373d704d8a025717e499ac42671", "receivedTime": 439.495222, "len": 4344}}
+{"ReceivedChunk": {"hash": "dedaae5d88c8828d0da07e3457bf0986", "receivedTime": 439.495679, "len": 2896}}
+{"ReceivedChunk": {"hash": "7fc8479b8cbe1d66545353c541d6cd85", "receivedTime": 439.495978, "len": 1448}}
+{"ReceivedChunk": {"hash": "2fb5179519fcdad04176100e9fe0b2c6", "receivedTime": 439.496312, "len": 1448}}
+{"ReceivedChunk": {"hash": "96c8189e3eb0e7cc2c5bc76b5845e698", "receivedTime": 439.496595, "len": 1448}}
+{"ReceivedChunk": {"hash": "07b870ec8af796a596b9c56298103f34", "receivedTime": 439.496876, "len": 1448}}
+{"ReceivedChunk": {"hash": "c960d68e592058c602484497eb95b1cd", "receivedTime": 439.497175, "len": 1448}}
+{"ReceivedChunk": {"hash": "331ba65d3bd8f16d29dc4d0344b26443", "receivedTime": 439.499505, "len": 1448}}
+{"ReceivedChunk": {"hash": "0c510517ae1e1c695fb56abfb69d70b5", "receivedTime": 439.499885, "len": 1448}}
+{"ReceivedChunk": {"hash": "532dad167ebb13778eba8fe69cc55254", "receivedTime": 439.500207, "len": 1448}}
+{"ReceivedChunk": {"hash": "30b04301a073868cfee687963b632e37", "receivedTime": 439.500425, "len": 1448}}
+{"ReceivedChunk": {"hash": "4fdc5dcf8d6b17aa0903dcf6b76ef757", "receivedTime": 439.500619, "len": 1448}}
+{"ReceivedChunk": {"hash": "714851079358ebd4705cdee388834acb", "receivedTime": 439.500818, "len": 1448}}
+{"ReceivedChunk": {"hash": "ec03b43e2140f569ee20f3208d91316a", "receivedTime": 439.501010, "len": 1448}}
+{"ReceivedChunk": {"hash": "7a634bc8742a8ff0f18cd9dc01cc0f0e", "receivedTime": 439.501220, "len": 1448}}
+{"ReceivedChunk": {"hash": "64412a3af0020b94a88cc51a66e04e69", "receivedTime": 439.501417, "len": 1448}}
+{"ReceivedChunk": {"hash": "452a040eddb122c962fbc4b1da0e90eb", "receivedTime": 439.501608, "len": 1448}}
+{"ReceivedChunk": {"hash": "20efc4a6ae63c4bbbf9be0193b604e9e", "receivedTime": 439.501798, "len": 1448}}
+{"ReceivedChunk": {"hash": "a1da88080198a2a319fd2c4a2292c644", "receivedTime": 439.501985, "len": 1075}}
+{"Resource": {"id": 8, "url": "http://a0.twimg.com/a/1346367577/t1/img/wash-white-30.png", "sentTime": 439.142030, "len": 940, "from": "0x43e3b60",                            "mimeType": "image/png", "contentLength": 940, "httpStatus": 200, "connId": 1896, "connReused": 0, "cached": 0,                            "requestTime": 439.194620, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 2, "dnsEnd": 2, "connectStart": 2, "connectEnd": 77, "sendStart": 82, "sendEnd": 82, "receiveHeadersEnd": 214, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "bc953c554d5f0ab6402865969e7244b4", "receivedTime": 439.502629, "len": 940}}
+{"Resource": {"id": 9, "url": "http://scribe.twitter.com/scribe?category=client_event&log=%7B%22context%22%3A%22front%22%2C%22event_name%22%3A%22web%3Afront%3A%3A%3Aimpression%22%7D&ts=1346541221016", "sentTime": 439.153277, "len": 43, "from": "0x409e950",                            "mimeType": "image/gif", "contentLength": 43, "httpStatus": 200, "connId": 1910, "connReused": 0, "cached": 0,                            "requestTime": 439.154032, "proxyStart": -1, "proxyEnd": -1, "dnsStart": 1, "dnsEnd": 357, "connectStart": 1, "connectEnd": 399, "sendStart": 399, "sendEnd": 400, "receiveHeadersEnd": 808, "sslStart": -1, "sslEnd": -1}}
+{"ReceivedChunk": {"hash": "db04c7b378cb2db912c3ba8a5a774ee3", "receivedTime": 440.050943, "len": 43}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x4343740", "row": 14, "column": 52, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x4343cb0", "row": 45, "column": 36, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x4343ff0", "row": 46, "column": 36, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x4344420", "row": 50, "column": 15, "url": "(null)"}}
+{"HOL": {"type": 4, "docUrl": "http://twitter.com/", "code": "0x4344da0", "row": 79, "column": 142, "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_core_logged_out.bundle.css"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x43468b0", "row": 89, "column": 15, "url": "(null)"}}
+{"HOL": {"type": 4, "docUrl": "http://twitter.com/", "code": "0x4348c80", "row": 92, "column": 125, "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_more.bundle.css"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x409e390", "row": 95, "column": 13, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x43e4500", "row": 375, "column": 34, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x43e4d90", "row": 380, "column": 23, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x40a8c20", "row": 382, "column": 38, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x43e6e20", "row": 390, "column": 38, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x43e6de0", "row": 393, "column": 11, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://twitter.com/", "code": "0x40af0e0", "row": 407, "column": 23, "url": "(null)"}}
+{"HOL": {"type": 1, "docUrl": "http://api.twitter.com/receiver.html", "code": "0x1ac0a010", "row": 1, "column": 104, "url": "(null)"}}
+{"matchedCSSAndUrl": {"code": "0x4344da0", "docUrl": "http://twitter.com/", "row": 79, "column": 142, "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_core_logged_out.bundle.css", "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"}}
+{"Computation": {"type": "execScript", "code": "0x4342a80", "docUrl": "http://twitter.com/", "startTime": 438.523772, "endTime": 438.550682, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x4343930", "docUrl": "http://twitter.com/", "startTime": 438.550940, "endTime": 438.552831, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x4343dd0", "docUrl": "http://twitter.com/", "startTime": 438.552920, "endTime": 438.553143, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x4344320", "docUrl": "http://twitter.com/", "startTime": 438.553198, "endTime": 438.553487, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.554100, "endTime": -1.000000, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.646573, "endTime": 438.647694, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.647649, "endTime": 438.647685, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.647720, "endTime": 438.647791, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.648886, "endTime": 438.654466, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.673989, "endTime": 438.674070, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.675056, "endTime": 438.690888, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.784251, "endTime": 438.784336, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.785220, "endTime": 438.792848, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "recalcStyle", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.962202, "endTime": 438.962810, "urlRecalcStyle": "http://a0.twimg.com/a/1346367577/t1/css/t1_more.bundle.css"}}
+{"Computation": {"type": "recalcStyle", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 438.993734, "endTime": 439.179374, "urlRecalcStyle": "http://a0.twimg.com/a/1346367577/t1/css/t1_core_logged_out.bundle.css"}}
+{"Computation": {"type": "execScript", "code": "0x4346930", "docUrl": "http://twitter.com/", "startTime": 439.046545, "endTime": 439.048626, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x409e4c0", "docUrl": "http://twitter.com/", "startTime": 439.106263, "endTime": 439.106766, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x439c5c0", "docUrl": "http://twitter.com/", "startTime": 439.142871, "endTime": 439.148173, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x43e48c0", "docUrl": "http://twitter.com/", "startTime": 439.148241, "endTime": 439.148506, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x409e950", "docUrl": "http://twitter.com/", "startTime": 439.148692, "endTime": 439.158863, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x43e7010", "docUrl": "http://twitter.com/", "startTime": 439.158973, "endTime": 439.159384, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x43e6fd0", "docUrl": "http://twitter.com/", "startTime": 439.159886, "endTime": 439.173204, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x40aef50", "docUrl": "http://twitter.com/", "startTime": 439.173265, "endTime": 439.173535, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.179721, "endTime": 439.209610, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.179727, "endTime": 439.208991, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.208920, "endTime": 439.208964, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.208975, "endTime": 439.208990, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.209002, "endTime": 439.209369, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.209725, "endTime": 439.254498, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.287952, "endTime": 439.289393, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x40afe60", "docUrl": "http://twitter.com/", "startTime": 439.297293, "endTime": 439.304771, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x1ac0a2f0", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.315602, "endTime": 439.315901, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.316514, "endTime": 439.316660, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.316616, "endTime": 439.316652, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.316927, "endTime": 439.322432, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.454296, "endTime": 439.459786, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.460018, "endTime": 439.477499, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.506639, "endTime": 439.506872, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.507128, "endTime": 439.618291, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.628547, "endTime": 439.652950, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "execScript", "code": "0x1ac0a440", "docUrl": "http://api.twitter.com/receiver.html", "startTime": 439.653906, "endTime": 439.708336, "urlRecalcStyle": "http://a0.twimg.com/c/phoenix/en/bundle/t1-core.41b489ded26f5c0fdb0bf1627d35dd60510fbf9e.js"}}
+{"Computation": {"type": "layout", "code": "0x1af220d0", "docUrl": "http://twitter.com/", "startTime": 439.872421, "endTime": 439.872722, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "layout", "code": "0x1ac736d0", "docUrl": "http://twitter.com/", "startTime": 440.029915, "endTime": 440.031671, "urlRecalcStyle": "(null)"}}
+{"Computation": {"type": "paint", "code": "0x1ac736d0", "docUrl": "http://twitter.com/", "startTime": 440.031798, "endTime": 440.047208, "urlRecalcStyle": "(null)"}}
+{"Preload": {"code": "0x4346930", "docUrl": "http://twitter.com/", "url": "http://a0.twimg.com/a/1346367577/t1/css/t1_more.bundle.css", "time": 438.554137}}
+{"Preload": {"code": "0x4346930", "docUrl": "http://twitter.com/", "url": "http://a0.twimg.com/a/1346367577/t1/img/front_page/jp-mountain@2x.jpg", "time": 438.554914}}
+{"Complete": "twitter.com_"}

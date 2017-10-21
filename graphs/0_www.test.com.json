@@ -1,0 +1,1881 @@
+[
+    {
+        "id": "https://www.test.com/",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/",
+                "statusCode": 200,
+                "startTime": 9.013,
+                "id": "23709.1",
+                "responseReceivedTime": 39.489,
+                "endTime": 44.343,
+                "transferSize": 1133,
+                "mimeType": "text/html",
+                "activityId": "Networking_0"
+            },
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/",
+                "statusCode": 200,
+                "startTime": 67.309,
+                "id": "23709.2",
+                "responseReceivedTime": 1103.724,
+                "endTime": 1113.251,
+                "transferSize": 7114,
+                "mimeType": "text/html",
+                "activityId": "Networking_1"
+            },
+            {
+                "url": "https://www.test.com/",
+                "endTime": 63.895,
+                "activityId": "Scripting_0",
+                "startTime": 61.395
+            },
+            {
+                "url": "https://www.test.com/",
+                "endTime": 1199.21,
+                "activityId": "Scripting_1",
+                "startTime": 1196.57
+            },
+            {
+                "url": "https://www.test.com/",
+                "endTime": 3597.164,
+                "activityId": "Scripting_7",
+                "startTime": 3574.611
+            },
+            {
+                "fromScript": null,
+                "startTime": 46.139,
+                "endTime": 65.841,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_0",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": null,
+                "startTime": 1114.563,
+                "endTime": 1117.04,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_1",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": null,
+                "startTime": 1199.257,
+                "endTime": 1200.703,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_4",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": null,
+                "startTime": 1291.507,
+                "endTime": 1291.973,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_5",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2507.96,
+                "endTime": 2508.161,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_6",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2508.222,
+                "endTime": 2508.23,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_7",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2509.896,
+                "endTime": 2509.937,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_8",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2509.978,
+                "endTime": 2509.984,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_9",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2510.361,
+                "endTime": 2510.419,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_10",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2510.468,
+                "endTime": 2510.474,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_11",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2515.252,
+                "endTime": 2515.315,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_12",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "startTime": 2515.362,
+                "endTime": 2515.368,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_13",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": null,
+                "startTime": 2526.076,
+                "endTime": 2528.955,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_14",
+                "name": "ParseHTML"
+            },
+            {
+                "fromScript": null,
+                "startTime": 3574.427,
+                "endTime": 3611.692,
+                "url": "https://www.test.com/",
+                "styleSheetUrl": null,
+                "activityId": "Loading_15",
+                "name": "ParseHTML"
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/favicon.ico",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/favicon.ico",
+                "statusCode": 200,
+                "startTime": 72.419,
+                "id": "23709.3",
+                "responseReceivedTime": 85.838,
+                "endTime": 86.749,
+                "transferSize": 1094,
+                "mimeType": "image/x-icon",
+                "activityId": "Networking_2"
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/css/app.css",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/css/app.css",
+                "statusCode": 200,
+                "startTime": 1114.887,
+                "id": "23709.4",
+                "responseReceivedTime": 1124.058,
+                "endTime": 1127.015,
+                "transferSize": 27960,
+                "mimeType": "text/css",
+                "activityId": "Networking_3"
+            },
+            {
+                "fromScript": null,
+                "startTime": 1127.227,
+                "endTime": 1133.601,
+                "url": null,
+                "styleSheetUrl": "https://www.test.com/css/app.css",
+                "activityId": "Loading_2",
+                "name": "ParseAuthorStyleSheet"
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/img/test.com-logo.png",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/img/test.com-logo.png",
+                "statusCode": 200,
+                "startTime": 1115.18,
+                "id": "23709.5",
+                "responseReceivedTime": 1125.539,
+                "endTime": 1126.293,
+                "transferSize": 3655,
+                "mimeType": "image/png",
+                "activityId": "Networking_4"
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/img/Gauge-logo-white.png",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/img/Gauge-logo-white.png",
+                "statusCode": 200,
+                "startTime": 1115.456,
+                "id": "23709.6",
+                "responseReceivedTime": 3126.285,
+                "endTime": 3127.612,
+                "transferSize": 39,
+                "mimeType": "image/png",
+                "activityId": "Networking_5"
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/img/screenshot-1.png",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/img/screenshot-1.png",
+                "statusCode": 200,
+                "startTime": 1115.675,
+                "id": "23709.7",
+                "responseReceivedTime": 1300.542,
+                "endTime": 1301.601,
+                "transferSize": 32157,
+                "mimeType": "image/png",
+                "activityId": "Networking_6"
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "statusCode": 200,
+                "startTime": 1115.969,
+                "id": "23709.8",
+                "responseReceivedTime": 2461.461,
+                "endTime": 2464.12,
+                "transferSize": 12511,
+                "mimeType": "application/javascript",
+                "activityId": "Networking_7"
+            },
+            {
+                "url": "https://www.test.com/bower_components/jquery/dist/jquery.min.js",
+                "endTime": 2525.976,
+                "activityId": "Scripting_4",
+                "startTime": 2477.468
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/bower_components/what-input/what-input.min.js",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/bower_components/what-input/what-input.min.js",
+                "statusCode": 200,
+                "startTime": 1116.169,
+                "id": "23709.9",
+                "responseReceivedTime": 2300.227,
+                "endTime": 2300.906,
+                "transferSize": 2411,
+                "mimeType": "application/javascript",
+                "activityId": "Networking_8"
+            },
+            {
+                "url": "https://www.test.com/bower_components/what-input/what-input.min.js",
+                "endTime": 2528.66,
+                "activityId": "Scripting_5",
+                "startTime": 2526.381
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/bower_components/foundation-sites/dist/foundation.min.js",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/bower_components/foundation-sites/dist/foundation.min.js",
+                "statusCode": 200,
+                "startTime": 1116.369,
+                "id": "23709.10",
+                "responseReceivedTime": 3533.022,
+                "endTime": 3536.803,
+                "transferSize": 31724,
+                "mimeType": "application/javascript",
+                "activityId": "Networking_9"
+            },
+            {
+                "url": "https://www.test.com/bower_components/foundation-sites/dist/foundation.min.js",
+                "endTime": 3574.338,
+                "activityId": "Scripting_6",
+                "startTime": 3553.378
+            }
+        ]
+    },
+    {
+        "id": "https://fonts.googleapis.com/css?family=Open+Sans:400,800",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,800",
+                "statusCode": 200,
+                "startTime": 1128.68,
+                "id": "23709.12",
+                "responseReceivedTime": 1195.035,
+                "endTime": 1195.843,
+                "transferSize": 4790,
+                "mimeType": "text/css",
+                "activityId": "Networking_10"
+            },
+            {
+                "fromScript": null,
+                "startTime": 1195.896,
+                "endTime": 1196.252,
+                "url": null,
+                "styleSheetUrl": "https://fonts.googleapis.com/css?family=Open+Sans:400,800",
+                "activityId": "Loading_3",
+                "name": "ParseAuthorStyleSheet"
+            }
+        ]
+    },
+    {
+        "id": "https://www.googletagmanager.com/gtm.js?id=GTM-WHGFFP",
+        "objs": [
+            {
+                "fromScript": "https://www.test.com/",
+                "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WHGFFP",
+                "statusCode": 200,
+                "startTime": 1199.008,
+                "id": "23709.13",
+                "responseReceivedTime": 1304.075,
+                "endTime": 1306.197,
+                "transferSize": 5964,
+                "mimeType": "application/javascript",
+                "activityId": "Networking_11"
+            },
+            {
+                "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WHGFFP",
+                "endTime": 1354.597,
+                "activityId": "Scripting_2",
+                "startTime": 1338.598
+            }
+        ]
+    },
+    {
+        "id": "https://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2",
+                "statusCode": 200,
+                "startTime": 1207.435,
+                "id": "23709.23",
+                "responseReceivedTime": 1292.568,
+                "endTime": 1293.692,
+                "transferSize": 9806,
+                "mimeType": "font/woff2",
+                "activityId": "Networking_12"
+            }
+        ]
+    },
+    {
+        "id": "https://www.test.com/img/test-hero-bg.jpg",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://www.test.com/img/test-hero-bg.jpg",
+                "statusCode": 200,
+                "startTime": 1208.255,
+                "id": "23709.31",
+                "responseReceivedTime": 1302.195,
+                "endTime": 1303.576,
+                "transferSize": 10599,
+                "mimeType": "image/jpeg",
+                "activityId": "Networking_13"
+            }
+        ]
+    },
+    {
+        "id": "https://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2",
+                "statusCode": 200,
+                "startTime": 1210.498,
+                "id": "23709.30",
+                "responseReceivedTime": 1297.421,
+                "endTime": 1298.482,
+                "transferSize": 14696,
+                "mimeType": "font/woff2",
+                "activityId": "Networking_14"
+            }
+        ]
+    },
+    {
+        "id": "https://www.google-analytics.com/analytics.js",
+        "objs": [
+            {
+                "fromScript": "https://www.googletagmanager.com/gtm.js?id=GTM-WHGFFP",
+                "url": "https://www.google-analytics.com/analytics.js",
+                "statusCode": 200,
+                "startTime": 1367.986,
+                "id": "23709.33",
+                "responseReceivedTime": 1400.962,
+                "endTime": 1403.365,
+                "transferSize": 1681,
+                "mimeType": "text/javascript",
+                "activityId": "Networking_15"
+            },
+            {
+                "url": "https://www.google-analytics.com/analytics.js",
+                "endTime": 1456.149,
+                "activityId": "Scripting_3",
+                "startTime": 1412.799
+            }
+        ]
+    },
+    {
+        "id": "https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-3518049-1&cid=846893687.1506308323&jid=333870418&_gid=624661605.1506308323&gjid=1125863817&_v=j63&z=2003377988",
+        "objs": [
+            {
+                "fromScript": "Null",
+                "url": "https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-3518049-1&cid=846893687.1506308323&jid=333870418&_gid=624661605.1506308323&gjid=1125863817&_v=j63&z=2003377988",
+                "statusCode": 200,
+                "startTime": 1478.823,
+                "id": "23709.34",
+                "responseReceivedTime": 1550.078,
+                "endTime": 1550.872,
+                "transferSize": 35,
+                "mimeType": "image/gif",
+                "activityId": "Networking_16"
+            }
+        ]
+    },
+    {
+        "id": "Rendering",
+        "objs": [
+            {
+                "startTime": 68.548,
+                "endTime": 68.954,
+                "activityId": "Rendering_2",
+                "name": "Layout"
+            },
+            {
+                "startTime": 69.008,
+                "endTime": 69.253,
+                "activityId": "Rendering_3",
+                "name": "UpdateLayerTree"
+            },
+            {
+                "startTime": 74.258,
+                "endTime": 74.294,
+                "activityId": "Rendering_4",
+                "name": "UpdateLayerTree"
+            },
+            {
+                "startTime": 1215.126,
+                "endTime": 1287.837,
+                "activityId": "Rendering_5",
+                "name": "Layout"
+            },
+            {
+                "startTime": 1288.014,
+                "endTime": 1288.991,
+                "activityId": "Rendering_6",
+                "name": "UpdateLayerTree"
+            },
+            {
+                "startTime": 1316.622,
+                "endTime": 1333.946,
+                "activityId": "Rendering_7",
+                "name": "Layout"
+            },
+            {
+                "startTime": 1333.987,
+                "endTime": 1334.9740000000002,
+                "activityId": "Rendering_8",
+                "name": "UpdateLayerTree"
+            },
+            {
+                "startTime": 1374.524,
+                "endTime": 1374.569,
+                "activityId": "Rendering_9",
+                "name": "UpdateLayerTree"
+            },
+            {
+                "startTime": 2529.276,
+                "endTime": 2529.319,
+                "activityId": "Rendering_10",
+                "name": "UpdateLayerTree"
+            },
+            {
+                "startTime": 3128.041,
+                "endTime": 3128.886,
+                "activityId": "Rendering_11",
+                "name": "Layout"
+            },
+            {
+                "startTime": 3128.93,
+                "endTime": 3129.4049999999997,
+                "activityId": "Rendering_12",
+                "name": "UpdateLayerTree"
+            },
+            {
+                "startTime": 3584.875,
+                "endTime": 3585.117,
+                "activityId": "Rendering_13",
+                "name": "Layout"
+            },
+            {
+                "startTime": 3585.503,
+                "endTime": 3585.633,
+                "activityId": "Rendering_14",
+                "name": "Layout"
+            },
+            {
+                "startTime": 3610.525,
+                "endTime": 3610.668,
+                "activityId": "Rendering_15",
+                "name": "Layout"
+            },
+            {
+                "startTime": 3612.09,
+                "endTime": 3612.4460000000004,
+                "activityId": "Rendering_16",
+                "name": "UpdateLayerTree"
+            }
+        ]
+    },
+    {
+        "id": "Painting",
+        "objs": [
+            {
+                "name": "CompositeLayers",
+                "startTime": 9.732,
+                "endTime": 9.957,
+                "activityId": "Painting_3",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 40.047,
+                "endTime": 40.343,
+                "activityId": "Painting_4",
+                "layerTreeId": 1
+            },
+            {
+                "startTime": 69.289,
+                "endTime": 69.355,
+                "activityId": "Painting_5",
+                "name": "Paint"
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 70.394,
+                "endTime": 70.79,
+                "activityId": "Painting_6",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 74.316,
+                "endTime": 74.378,
+                "activityId": "Painting_7",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 75.488,
+                "endTime": 76.007,
+                "activityId": "Painting_8",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 90.966,
+                "endTime": 91.211,
+                "activityId": "Painting_9",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 220.06,
+                "endTime": 220.439,
+                "activityId": "Painting_10",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 225.471,
+                "endTime": 225.676,
+                "activityId": "Painting_11",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 251.728,
+                "endTime": 251.981,
+                "activityId": "Painting_12",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 281.953,
+                "endTime": 282.159,
+                "activityId": "Painting_13",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 312.729,
+                "endTime": 312.936,
+                "activityId": "Painting_14",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 343.694,
+                "endTime": 343.952,
+                "activityId": "Painting_15",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 374.178,
+                "endTime": 374.39,
+                "activityId": "Painting_16",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 404.73,
+                "endTime": 404.953,
+                "activityId": "Painting_17",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 435.626,
+                "endTime": 435.868,
+                "activityId": "Painting_18",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 453.762,
+                "endTime": 453.985,
+                "activityId": "Painting_19",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 466.336,
+                "endTime": 466.555,
+                "activityId": "Painting_20",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 497.313,
+                "endTime": 497.521,
+                "activityId": "Painting_21",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 528.18,
+                "endTime": 528.392,
+                "activityId": "Painting_22",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 559.034,
+                "endTime": 559.246,
+                "activityId": "Painting_23",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 589.432,
+                "endTime": 589.653,
+                "activityId": "Painting_24",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 620.219,
+                "endTime": 620.432,
+                "activityId": "Painting_25",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 651.086,
+                "endTime": 651.299,
+                "activityId": "Painting_26",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 681.973,
+                "endTime": 682.187,
+                "activityId": "Painting_27",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 712.945,
+                "endTime": 713.156,
+                "activityId": "Painting_28",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 743.914,
+                "endTime": 744.128,
+                "activityId": "Painting_29",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 774.25,
+                "endTime": 774.459,
+                "activityId": "Painting_30",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 804.654,
+                "endTime": 804.869,
+                "activityId": "Painting_31",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 835.438,
+                "endTime": 835.65,
+                "activityId": "Painting_32",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 866.334,
+                "endTime": 866.544,
+                "activityId": "Painting_33",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 897.215,
+                "endTime": 897.444,
+                "activityId": "Painting_34",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 928.054,
+                "endTime": 928.258,
+                "activityId": "Painting_35",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 958.084,
+                "endTime": 958.293,
+                "activityId": "Painting_36",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 988.531,
+                "endTime": 988.759,
+                "activityId": "Painting_37",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1018.814,
+                "endTime": 1019.026,
+                "activityId": "Painting_38",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1049.853,
+                "endTime": 1050.067,
+                "activityId": "Painting_39",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1080.654,
+                "endTime": 1080.861,
+                "activityId": "Painting_40",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1110.814,
+                "endTime": 1111.04,
+                "activityId": "Painting_41",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1126.042,
+                "endTime": 1126.411,
+                "activityId": "Painting_42",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1152.61,
+                "endTime": 1152.922,
+                "activityId": "Painting_43",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1157.421,
+                "endTime": 1157.577,
+                "activityId": "Painting_44",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1177.951,
+                "endTime": 1178.187,
+                "activityId": "Painting_45",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1210.531,
+                "endTime": 1210.895,
+                "activityId": "Painting_46",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1224.171,
+                "endTime": 1224.399,
+                "activityId": "Painting_47",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1241.887,
+                "endTime": 1242.096,
+                "activityId": "Painting_48",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1272.588,
+                "endTime": 1272.818,
+                "activityId": "Painting_49",
+                "layerTreeId": 1
+            },
+            {
+                "startTime": 1289.029,
+                "endTime": 1289.888,
+                "activityId": "Painting_50",
+                "name": "Paint"
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1290.789,
+                "endTime": 1291.102,
+                "activityId": "Painting_51",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1302.774,
+                "endTime": 1303.037,
+                "activityId": "Painting_52",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1309.848,
+                "endTime": 1310.063,
+                "activityId": "Painting_53",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1333.553,
+                "endTime": 1333.829,
+                "activityId": "Painting_54",
+                "layerTreeId": 1
+            },
+            {
+                "startTime": 1335.016,
+                "endTime": 1336.74,
+                "activityId": "Painting_55",
+                "name": "Paint"
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1337.355,
+                "endTime": 1337.611,
+                "activityId": "Painting_56",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1364.271,
+                "endTime": 1364.596,
+                "activityId": "Painting_57",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1374.59,
+                "endTime": 1374.639,
+                "activityId": "Painting_58",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1395.247,
+                "endTime": 1395.572,
+                "activityId": "Painting_59",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1426.14,
+                "endTime": 1426.368,
+                "activityId": "Painting_60",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1456.706,
+                "endTime": 1456.944,
+                "activityId": "Painting_61",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1487.747,
+                "endTime": 1488.052,
+                "activityId": "Painting_62",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1517.945,
+                "endTime": 1518.164,
+                "activityId": "Painting_63",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1548.967,
+                "endTime": 1549.185,
+                "activityId": "Painting_64",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1579.42,
+                "endTime": 1579.665,
+                "activityId": "Painting_65",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1610.458,
+                "endTime": 1610.677,
+                "activityId": "Painting_66",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1641.076,
+                "endTime": 1641.286,
+                "activityId": "Painting_67",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1671.541,
+                "endTime": 1671.761,
+                "activityId": "Painting_68",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1702.475,
+                "endTime": 1702.691,
+                "activityId": "Painting_69",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1732.647,
+                "endTime": 1732.88,
+                "activityId": "Painting_70",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1763.196,
+                "endTime": 1763.407,
+                "activityId": "Painting_71",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1794.249,
+                "endTime": 1794.466,
+                "activityId": "Painting_72",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1824.861,
+                "endTime": 1825.072,
+                "activityId": "Painting_73",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1855.301,
+                "endTime": 1855.527,
+                "activityId": "Painting_74",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1886.195,
+                "endTime": 1886.419,
+                "activityId": "Painting_75",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1917.108,
+                "endTime": 1917.321,
+                "activityId": "Painting_76",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1948.081,
+                "endTime": 1948.294,
+                "activityId": "Painting_77",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 1979.057,
+                "endTime": 1979.273,
+                "activityId": "Painting_78",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2009.515,
+                "endTime": 2009.73,
+                "activityId": "Painting_79",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2039.971,
+                "endTime": 2040.182,
+                "activityId": "Painting_80",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2070.605,
+                "endTime": 2070.834,
+                "activityId": "Painting_81",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2101.437,
+                "endTime": 2101.648,
+                "activityId": "Painting_82",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2132.356,
+                "endTime": 2132.57,
+                "activityId": "Painting_83",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2163.1,
+                "endTime": 2163.322,
+                "activityId": "Painting_84",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2194.071,
+                "endTime": 2194.284,
+                "activityId": "Painting_85",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2224.84,
+                "endTime": 2225.05,
+                "activityId": "Painting_86",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2255.236,
+                "endTime": 2255.486,
+                "activityId": "Painting_87",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2286.301,
+                "endTime": 2286.507,
+                "activityId": "Painting_88",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2316.901,
+                "endTime": 2317.113,
+                "activityId": "Painting_89",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2347.711,
+                "endTime": 2347.957,
+                "activityId": "Painting_90",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2378.694,
+                "endTime": 2378.926,
+                "activityId": "Painting_91",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2409.48,
+                "endTime": 2409.687,
+                "activityId": "Painting_92",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2439.985,
+                "endTime": 2440.2,
+                "activityId": "Painting_93",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2470.857,
+                "endTime": 2471.242,
+                "activityId": "Painting_94",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2501.027,
+                "endTime": 2501.247,
+                "activityId": "Painting_95",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2529.414,
+                "endTime": 2529.601,
+                "activityId": "Painting_96",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2531.47,
+                "endTime": 2531.691,
+                "activityId": "Painting_97",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2561.858,
+                "endTime": 2562.074,
+                "activityId": "Painting_98",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2592.928,
+                "endTime": 2593.141,
+                "activityId": "Painting_99",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2623.445,
+                "endTime": 2623.659,
+                "activityId": "Painting_100",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2653.99,
+                "endTime": 2654.183,
+                "activityId": "Painting_101",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2684.788,
+                "endTime": 2685.001,
+                "activityId": "Painting_102",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2715.901,
+                "endTime": 2716.115,
+                "activityId": "Painting_103",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2746.875,
+                "endTime": 2747.091,
+                "activityId": "Painting_104",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2777.615,
+                "endTime": 2777.822,
+                "activityId": "Painting_105",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2808.196,
+                "endTime": 2808.404,
+                "activityId": "Painting_106",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2838.655,
+                "endTime": 2838.885,
+                "activityId": "Painting_107",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2869.541,
+                "endTime": 2869.755,
+                "activityId": "Painting_108",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2900.434,
+                "endTime": 2900.645,
+                "activityId": "Painting_109",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2931.304,
+                "endTime": 2931.515,
+                "activityId": "Painting_110",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2961.428,
+                "endTime": 2961.641,
+                "activityId": "Painting_111",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 2992.377,
+                "endTime": 2992.588,
+                "activityId": "Painting_112",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3022.549,
+                "endTime": 3022.763,
+                "activityId": "Painting_113",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3053.262,
+                "endTime": 3053.455,
+                "activityId": "Painting_114",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3084.044,
+                "endTime": 3084.248,
+                "activityId": "Painting_115",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3114.925,
+                "endTime": 3115.139,
+                "activityId": "Painting_116",
+                "layerTreeId": 1
+            },
+            {
+                "startTime": 3129.458,
+                "endTime": 3130.134,
+                "activityId": "Painting_117",
+                "name": "Paint"
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3130.408,
+                "endTime": 3130.638,
+                "activityId": "Painting_118",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3145.244,
+                "endTime": 3145.472,
+                "activityId": "Painting_119",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3176.331,
+                "endTime": 3176.546,
+                "activityId": "Painting_120",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3206.993,
+                "endTime": 3207.205,
+                "activityId": "Painting_121",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3237.879,
+                "endTime": 3238.095,
+                "activityId": "Painting_122",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3268.198,
+                "endTime": 3268.413,
+                "activityId": "Painting_123",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3299.008,
+                "endTime": 3299.22,
+                "activityId": "Painting_124",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3329.902,
+                "endTime": 3330.119,
+                "activityId": "Painting_125",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3360.764,
+                "endTime": 3360.98,
+                "activityId": "Painting_126",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3391.321,
+                "endTime": 3391.528,
+                "activityId": "Painting_127",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3421.761,
+                "endTime": 3421.975,
+                "activityId": "Painting_128",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3452.57,
+                "endTime": 3452.785,
+                "activityId": "Painting_129",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3482.887,
+                "endTime": 3483.107,
+                "activityId": "Painting_130",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3513.458,
+                "endTime": 3513.677,
+                "activityId": "Painting_131",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3543.925,
+                "endTime": 3544.144,
+                "activityId": "Painting_132",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3574.628,
+                "endTime": 3574.86,
+                "activityId": "Painting_133",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3604.756,
+                "endTime": 3604.981,
+                "activityId": "Painting_134",
+                "layerTreeId": 1
+            },
+            {
+                "startTime": 3612.496,
+                "endTime": 3613.047,
+                "activityId": "Painting_135",
+                "name": "Paint"
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3614.232,
+                "endTime": 3614.502,
+                "activityId": "Painting_136",
+                "layerTreeId": 1
+            },
+            {
+                "name": "CompositeLayers",
+                "startTime": 3615.351,
+                "endTime": 3615.394,
+                "activityId": "Painting_137",
+                "layerTreeId": 1
+            }
+        ]
+    },
+    {
+        "id": "Deps",
+        "objs": [
+            {
+                "time": -1,
+                "a1": "Networking_0",
+                "a2": "Loading_0"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_0",
+                "a2": "Scripting_0"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_0",
+                "a2": "Networking_1"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_0",
+                "a2": "Networking_2"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_1",
+                "a2": "Loading_1"
+            },
+            {
+                "time": -1,
+                "a1": "Scripting_0",
+                "a2": "Loading_1"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_0",
+                "a2": "Loading_1"
+            },
+            {
+                "time": 1114.887,
+                "a1": "Loading_1",
+                "a2": "Networking_3"
+            },
+            {
+                "time": 1115.18,
+                "a1": "Loading_1",
+                "a2": "Networking_4"
+            },
+            {
+                "time": 1115.456,
+                "a1": "Loading_1",
+                "a2": "Networking_5"
+            },
+            {
+                "time": 1115.675,
+                "a1": "Loading_1",
+                "a2": "Networking_6"
+            },
+            {
+                "time": 1115.969,
+                "a1": "Loading_1",
+                "a2": "Networking_7"
+            },
+            {
+                "time": 1116.169,
+                "a1": "Loading_1",
+                "a2": "Networking_8"
+            },
+            {
+                "time": 1116.369,
+                "a1": "Loading_1",
+                "a2": "Networking_9"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_3",
+                "a2": "Loading_2"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_1",
+                "a2": "Networking_10"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_10",
+                "a2": "Loading_3"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_1",
+                "a2": "Scripting_1"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_2",
+                "a2": "Scripting_1"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_3",
+                "a2": "Scripting_1"
+            },
+            {
+                "time": 1199.008,
+                "a1": "Scripting_1",
+                "a2": "Networking_11"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_1",
+                "a2": "Loading_4"
+            },
+            {
+                "time": -1,
+                "a1": "Scripting_1",
+                "a2": "Loading_4"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_1",
+                "a2": "Loading_4"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_4",
+                "a2": "Networking_12"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_4",
+                "a2": "Networking_13"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_4",
+                "a2": "Networking_14"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_1",
+                "a2": "Loading_5"
+            },
+            {
+                "time": -1,
+                "a1": "Scripting_1",
+                "a2": "Loading_5"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_4",
+                "a2": "Loading_5"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_11",
+                "a2": "Scripting_2"
+            },
+            {
+                "time": -1,
+                "a1": "Scripting_2",
+                "a2": "Networking_15"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_15",
+                "a2": "Scripting_3"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_5",
+                "a2": "Networking_16"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_7",
+                "a2": "Scripting_4"
+            },
+            {
+                "time": 2507.96,
+                "a1": "Scripting_4",
+                "a2": "Loading_6"
+            },
+            {
+                "time": 2508.222,
+                "a1": "Scripting_4",
+                "a2": "Loading_7"
+            },
+            {
+                "time": 2509.896,
+                "a1": "Scripting_4",
+                "a2": "Loading_8"
+            },
+            {
+                "time": 2509.978,
+                "a1": "Scripting_4",
+                "a2": "Loading_9"
+            },
+            {
+                "time": 2510.361,
+                "a1": "Scripting_4",
+                "a2": "Loading_10"
+            },
+            {
+                "time": 2510.468,
+                "a1": "Scripting_4",
+                "a2": "Loading_11"
+            },
+            {
+                "time": 2515.252,
+                "a1": "Scripting_4",
+                "a2": "Loading_12"
+            },
+            {
+                "time": 2515.362,
+                "a1": "Scripting_4",
+                "a2": "Loading_13"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_1",
+                "a2": "Loading_14"
+            },
+            {
+                "time": -1,
+                "a1": "Scripting_4",
+                "a2": "Loading_14"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_13",
+                "a2": "Loading_14"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_8",
+                "a2": "Scripting_5"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_9",
+                "a2": "Scripting_6"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_1",
+                "a2": "Loading_15"
+            },
+            {
+                "time": -1,
+                "a1": "Scripting_6",
+                "a2": "Loading_15"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_14",
+                "a2": "Loading_15"
+            },
+            {
+                "time": -1,
+                "a1": "Networking_1",
+                "a2": "Scripting_7"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_2",
+                "a2": "Scripting_7"
+            },
+            {
+                "time": -1,
+                "a1": "Loading_3",
+                "a2": "Scripting_7"
+            }
+        ]
+    },
+    {
+        "dnsTime": -1,
+        "dns": {},
+        "sockets_bytes_in": 286900,
+        "sockets": {
+            "0x1f61": {
+                "bytes_out": 0,
+                "bytes_in": 0
+            },
+            "0x2023": {
+                "bytes_out": 1103,
+                "bytes_in": 31689
+            },
+            "0x200c": {
+                "bytes_out": 879,
+                "bytes_in": 5197
+            },
+            "0x1fca": {
+                "bytes_out": 0,
+                "bytes_in": 0
+            },
+            "0x1e8b": {
+                "bytes_out": 371,
+                "bytes_in": 29674
+            },
+            "0x1f5e": {
+                "bytes_out": 0,
+                "bytes_in": 0
+            },
+            "0x1fd8": {
+                "bytes_out": 2316,
+                "bytes_in": 14158
+            },
+            "0x2055": {
+                "bytes_out": 1294,
+                "bytes_in": 19999
+            },
+            "0x202d": {
+                "bytes_out": 1178,
+                "bytes_in": 71135
+            },
+            "0x1fd5": {
+                "bytes_out": 1969,
+                "bytes_in": 53652
+            },
+            "0x2033": {
+                "bytes_out": 871,
+                "bytes_in": 25380
+            },
+            "0x1fc9": {
+                "bytes_out": 371,
+                "bytes_in": 433
+            },
+            "0x1f64": {
+                "bytes_out": 0,
+                "bytes_in": 0
+            },
+            "0x2028": {
+                "bytes_out": 1182,
+                "bytes_in": 10258
+            },
+            "0x2042": {
+                "bytes_out": 1189,
+                "bytes_in": 20818
+            },
+            "0x2066": {
+                "bytes_out": 987,
+                "bytes_in": 4507
+            }
+        },
+        "ssl_sockets_bytes_in": 236627,
+        "id": "Netlog",
+        "ssl_sockets_bytes_out": 7358,
+        "sockets_bytes_out": 13710
+    },
+    {
+        "computationTime": 115.06,
+        "criticalPath": [
+            "Networking_0",
+            "Loading_0",
+            "Networking_1",
+            "Loading_1",
+            "Networking_9",
+            "Scripting_6",
+            "Loading_15"
+        ],
+        "networkingTime": 3466.38
+    }
+]

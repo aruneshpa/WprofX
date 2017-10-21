@@ -1,0 +1,300 @@
+/*	HOME PAGE ELEMENTS	*/
+#bg {
+	background-image: url(http://wprofx.cs.stonybrook.edu/images/bg3.png);
+	background-size: auto 100%;
+	min-height: 500px;
+	min-width: 900px;
+	height: 100%;
+	position: relative;
+	border-bottom: double 5px gray;
+}
+#mInfo {
+	padding: 30 10% 30 10%;
+	height: 95%;
+}
+#mInfoLink {
+	width: 100%;
+	width: calc(100% - 40px);
+	text-align: center;
+	position: absolute;
+	bottom: 5px;
+	color: white !important;
+}
+#mInfoLink:hover {
+	border-bottom: solid white 1px;
+}
+#mInfoPt {
+	position: absolute;
+	bottom: 30px;
+}
+#chooseFile {
+	height: 240px;
+	width: 830px;
+	position: absolute;
+	top: 40%;
+	top: calc(45% - 120px);
+	left: 45%;
+	left: calc(50% - 400px);
+	text-align: center;
+}
+#chooseFile > a {
+	vertical-align: top;
+	display: inline-block;
+}
+#chooseFile > div {
+	position: relative;
+	display: inline-block;
+	border-left: dashed gray 1px;
+	margin-left: 40px;
+	padding-left: 40px;
+	height: 180px;
+}
+#chooseFile > div > span > button {
+	padding-left: 7px;
+	height: 29px;
+	width: 31px;
+}
+#givenURL {
+	height: 45px;
+	width: 380px;
+	font-size: 16px;
+	border: solid rgb(172, 172, 172) 1px;
+	border-radius: 5px;
+	margin-top: 10;
+}
+#openURL {
+	height: 45px;
+	width: 100px;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif !important;
+	font-size: 16px;
+	background-color: #3939D2;
+	background-image: -ms-linear-gradient(top,#7b7bfd,#3939D2);
+	background-image: -webkit-gradient(linear,0 0,0 100%,from(#7b7bfd),to(#3939D2));
+	background-image: -webkit-linear-gradient(top,#7b7bfd,#3939D2);
+	background-image: -o-linear-gradient(top,#7b7bfd,#3939D2);
+	background-image: -moz-linear-gradient(top,#7b7bfd,#3939D2);
+	background-image: linear-gradient(top,#7b7bfd,#3939D2);
+	background-repeat: repeat-x;
+	border-color: #7b7bfd #3939D2 #003580;
+	border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr='#7b7bfd',endColorstr='#3939D2',GradientType=0);
+	filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+#inval {
+	position: fixed;
+	top: 60px;
+	width: 70%;
+	margin-left: 10%;
+	pointer-events: none;
+	opacity: 0.0;
+}
+#timeEst {
+	display: inline-block;
+	white-space: normal;
+	margin-top: 40px;
+	font-size: 10px;
+	max-width: 100px;
+	color: darkgray;
+	text-align: center;
+}
+#wheel {
+	margin-top: 10px;
+	width: 130px;
+	height: 130px;
+	vertical-align: top;
+	display: none;
+}
+.size14 {
+	font-size: 14px !important;
+	line-height: 28px;
+	margin-top: -20px;
+}
+#parent0 {
+	background-color: white;
+	border: 2px solid #e5e5e5;
+	padding-bottom: 10px;
+}
+
+/*	GRAPH PAGE ONLY ELEMENTS	*/
+#graphtop {
+	padding: 60px 10% 0 10%;
+	background-color: transparent;
+	white-space: nowrap;
+	min-width: 850px;
+}
+.page-header {
+	overflow:hidden;
+}
+span.right {
+	position: relative;
+	float:right;
+}
+.right #givenURL {
+	width: 300px;
+	margin: 0;
+}
+.right #openURL {
+	width: 90px;
+}
+.right form {
+	margin: 0 !important;
+}
+.right form:nth-child(2) {
+	float: right;
+}
+.right #livesearch {
+	left: 165px;
+	top: 85px;
+	z-index: 50;
+}
+.form-inline {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	display: inline;
+}
+select {
+	float:right;
+	position: relative;
+	top: 20px;
+	right: -10px;
+}
+.slider {
+	position: relative;
+	top: 8px;
+	display: inline;
+	padding-right: 15px;
+	margin-right: 15px;
+	vertical-align: top;
+}
+.slider input{
+	width: 150px;
+	vertical-align: top;
+	margin-bottom: 10px;
+}
+.slider span {
+	vertical-align: top;
+}
+#legend {
+	display: inline-block;
+	position: relative;
+	left: calc(90% - 430px);
+}
+#legend div {
+	display: inline-block;
+	width: 15;
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+#legend span {
+	color: gray;
+	margin-right: 5px;
+	font-size: 10px;
+	vertical-align: top;
+}
+.btn-toolbar {
+	position: relative;
+}
+#infoBox {
+	position:absolute;
+	left: calc(90% - 250px);
+	top: -20px;
+	width: 250px;
+	background-color: whitesmoke;
+	padding: 10px;
+	border-radius: 10px;
+}
+#infoBox a {
+	word-break: break-all;
+}
+#infoBox a:hover {
+	text-decoration: underline !important;
+}
+.affix {
+	position: fixed !important;
+	top: 60px !important;
+	left: calc(88% - 257px) !important;
+}
+ul.nav.nav-tabs {
+	height: 35px;
+}
+#alltab {
+	width: 500px;
+	width: calc(100% - 450px);
+	min-width: 400px;
+	display: inline-block !important;
+}
+.tab-pane {
+	padding-top: 10px;
+	white-space: normal;
+	font-size: 10px;
+	min-height: 100px;
+	overflow: hidden;
+}
+
+/*	GRAPH ELEMENTS	*/ 
+.selected {
+	stroke-width: 1;
+	stroke: black;
+}
+.critBars {
+	stroke-width: 2;
+	stroke: red;
+}
+.dependLines {
+	stroke: black;
+	stroke-width: 1;
+	pointer-events: none;
+	visibility: hidden;
+}
+#descr {
+	pointer-events: none;
+	font-size: 8px;
+	width: 150px;
+	height: 10px;
+	position: relative;
+}
+.tick {
+	font-size: 10px;
+    stroke: lightgray;
+    opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+
+/* FOR PRETTYPRINTING
+#bottomBar {
+	position: fixed;
+	z-index: 1030;
+	top: 70%;
+	width: 100%;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: whitesmoke;
+	display: none;
+	overflow: auto;
+}
+#dragLine {
+	position: fixed;
+	left: 0px;
+	top: 70%;
+	width:100%;
+	height:3px;
+	background-color: lightgray;
+	z-index: 1031;
+	display: none;
+}
+#dragLine.open {
+	display: block;
+}
+#dragLine:hover {
+	background-color: darkgray;
+}
+pre {
+	position: relative;
+	padding-left: 25px !important;
+	border-top: white solid 2px;
+	width: auto !important;
+	height: auto !important;
+	margin: 0px !important;
+}
+*/
